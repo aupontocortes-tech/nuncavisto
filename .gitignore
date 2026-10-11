@@ -1,0 +1,7 @@
+token.json
+client_secret*.json
+*.pkl
+out/
+vits-piper-*/
+fonts/
+__pycache__/
