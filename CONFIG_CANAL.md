@@ -10,4 +10,4 @@ Não coloque senhas aqui.
 - Lendas, teorias sem prova e exageros
 
 ## PAUSAS
-(a linha "- 18h" pausa as publicações; o painel escreve isso sozinho)
+- 18h
