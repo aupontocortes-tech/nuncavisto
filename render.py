@@ -131,7 +131,7 @@ def main():
             lines = sc['title'].split('|')
             for j, ln in enumerate(lines):
                 f = ANTON[150] if len(ln) <= 11 else (ANTON[130] if len(ln) <= 15 else ANTON[110])
-                c = COLORS.get(sc.get('title_color', 'yellow'), YEL) if j == len(lines) - 1 else WHITE
+                c = COLORS.get(sc.get('title_color', 'teal'), COLORS['teal']) if j == len(lines) - 1 else WHITE
                 paste_text(im, ln, f, (W / 2, 320 + j * (f.size + 10)), pop(lt, 0.05 + 0.2 * j), c)
         if sc.get('cta') and lt > 0.3:
             k = pop(lt, 0.3); bw = 680 * k
