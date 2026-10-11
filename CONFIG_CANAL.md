@@ -10,4 +10,3 @@ Não coloque senhas aqui.
 - Lendas, teorias sem prova e exageros
 
 ## PAUSAS
-- 18h
