@@ -8,5 +8,6 @@ Não coloque senhas aqui.
 ## EVITAR
 - Assuntos banais, que a pessoa já viu na escola ou no Google
 - Lendas, teorias sem prova e exageros
+- Terminar SEMPRE sem chamada: em mais ou menos metade dos vídeos (alternando), a última cena narra a pergunta e logo depois "Segue o canal pra ver o que você nunca viu."
 
 ## PAUSAS
