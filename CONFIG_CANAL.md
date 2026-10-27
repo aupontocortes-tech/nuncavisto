@@ -30,6 +30,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - tubarão-da-groenlândia (mais de 250 anos)
 - polvo de águas profundas que guardou os ovos por 53 meses (Graneledone boreopacifica)
 - ossos do astronauta e exercício no espaço (esteira com cordas)
+- Anomalia do Atlântico Sul (ponto fraco do campo magnético sobre o Brasil)
 
 ## EVITAR
 - Assuntos banais, que a pessoa já viu na escola ou no Google
