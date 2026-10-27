@@ -32,6 +32,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - ossos do astronauta e exercício no espaço (esteira com cordas)
 - Anomalia do Atlântico Sul (ponto fraco do campo magnético sobre o Brasil)
 - sonda DART da NASA que bateu no asteroide Dimorfos (órbita 33 min mais rápida)
+- lula-de-nadeira-grande (Magnapinna, braços 20x o corpo)
 
 ## EVITAR
 - Assuntos banais, que a pessoa já viu na escola ou no Google
