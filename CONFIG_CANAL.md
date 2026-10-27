@@ -31,6 +31,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - polvo de águas profundas que guardou os ovos por 53 meses (Graneledone boreopacifica)
 - ossos do astronauta e exercício no espaço (esteira com cordas)
 - Anomalia do Atlântico Sul (ponto fraco do campo magnético sobre o Brasil)
+- sonda DART da NASA que bateu no asteroide Dimorfos (órbita 33 min mais rápida)
 
 ## EVITAR
 - Assuntos banais, que a pessoa já viu na escola ou no Google
