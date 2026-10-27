@@ -34,6 +34,8 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 ## EVITAR
 - Assuntos banais, que a pessoa já viu na escola ou no Google
 - Lendas, teorias sem prova e exageros
+- Repetir o mesmo ASSUNTO com outro ângulo (ex.: 'astronauta cresce no espaço' e depois 'astronauta perde osso no espaço' = repetido). Corpo do astronauta no espaço: ESGOTADO.
+- Mesmo personagem/lugar/bicho de um vídeo dos últimos 15 dias (astronauta, polvo, Marte, Lua...)
 - Terminar SEMPRE sem chamada: em mais ou menos metade dos vídeos (alternando), a última cena narra a pergunta e logo depois "Segue o canal pra ver o que você nunca viu."
 
 ## PAUSAS
