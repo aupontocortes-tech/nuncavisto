@@ -37,6 +37,8 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - Assuntos banais, que a pessoa já viu na escola ou no Google
 - Lendas, teorias sem prova e exageros
 - Repetir o mesmo ASSUNTO com outro ângulo (ex.: 'astronauta cresce no espaço' e depois 'astronauta perde osso no espaço' = repetido). Corpo do astronauta no espaço: ESGOTADO.
+- Final bagunçado: as 2 últimas cenas precisam de imagem clara e inteira (nada de tela quase preta, imagem cortada no canto, quadro todo vermelho/branco de sinal perdido, ou legenda em inglês queimada embaixo). Se não tiver imagem boa pro final, termine na imagem mais forte do vídeo.
+- Números mal explicados (ex.: '33 minutos mais rápido' em vez de 'a volta ficou 33 minutos mais curta'): fale do jeito que uma pessoa leiga entende na hora.
 - Mesmo personagem/lugar/bicho de um vídeo dos últimos 15 dias (astronauta, polvo, Marte, Lua...)
 - Terminar SEMPRE sem chamada: em mais ou menos metade dos vídeos (alternando), a última cena narra a pergunta e logo depois "Segue o canal pra ver o que você nunca viu."
 
