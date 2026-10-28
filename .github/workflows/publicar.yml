@@ -29,6 +29,9 @@ jobs:
             if [ -f "$video" ]; then
               echo "Enviando $video"
               python3 yt.py up "$video" "$meta"
+              # registra no histórico completo (o agente consulta para não repetir assunto)
+              python3 -c "import json,sys,datetime;t=json.load(open(sys.argv[1]))['title'].replace(' #Shorts','');L=open('HISTORICO.md').read().split('\n');L.insert(4,'- '+datetime.date.today().isoformat()+' | '+t);open('HISTORICO.md','w').write('\n'.join(L))" "$meta" || true
+              git add HISTORICO.md
               git rm -q "$video" "$meta"
               enviados=$((enviados+1))
             fi

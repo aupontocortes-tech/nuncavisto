@@ -36,6 +36,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - sifonóforo gigante de 46 m (animal mais comprido já registrado, Ningaloo 2020)
 
 ## EVITAR
+- OBRIGATÓRIO: antes de escolher o tema, leia o arquivo HISTORICO.md (lista COMPLETA de todos os vídeos já feitos; o feed do YouTube só mostra os últimos 15). Proibido repetir qualquer assunto ou bicho de lá (ex.: o sifonóforo gigante saiu 2 vezes: 15/10 e 28/10).
 - Assuntos banais, que a pessoa já viu na escola ou no Google
 - Lendas, teorias sem prova e exageros
 - Repetir o mesmo ASSUNTO com outro ângulo (ex.: 'astronauta cresce no espaço' e depois 'astronauta perde osso no espaço' = repetido). Corpo do astronauta no espaço: ESGOTADO.

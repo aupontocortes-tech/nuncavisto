@@ -1,0 +1,54 @@
+# Histórico completo do Nunca Visto
+
+Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
+
+- 2026-10-28 | O animal mais comprido já filmado tem 46 metros
+- 2026-10-27 | Por que astronautas correm presos por cordas
+- 2026-10-27 | O ponto fraco da Terra que fica sobre o Brasil
+- 2026-10-27 | A sonda que bateu de propósito num asteroide
+- 2026-10-27 | A lula com braços 20 vezes maiores que o corpo
+- 2026-10-26 | O polvo que guardou os ovos por 4,5 anos
+- 2026-10-26 | A sombra da Lua vista do espaço em 2017
+- 2026-10-26 | A cachoeira que existe no fundo do mar
+- 2026-10-25 | O astronauta que cresce até 5 cm no espaço
+- 2026-10-25 | A fumaça do Canadá que cruzou o Atlântico
+- 2026-10-24 | O ganso que voa onde falta ar no Himalaia
+- 2026-10-24 | Eles ficaram 31 dias à deriva num submarino em 1969
+- 2026-10-23 | O mar que sumiu e os satélites filmaram
+- 2026-10-23 | O helicóptero feito para 5 voos que voou 72 em Marte
+- 2026-10-22 | A mulher que morreu em 1951, mas cujas células seguem vivas
+- 2026-10-22 | A ilha que explodiu e jogou fumaça a 58 km
+- 2026-10-21 | O gelo que some e afogaria São Paulo em 170 m
+- 2026-10-21 | A tempestade que cobriu um quarto de Marte
+- 2026-10-21 | A montanha que perdeu 400 metros num só dia
+- 2026-10-20 | O lago escondido no fundo do mar
+- 2026-10-20 | O Sol cuspiu uma nuvem a 2,4 milhões de km/h
+- 2026-10-20 | A rachadura de 110 km que cortou a Antártida
+- 2026-10-20 | A NASA mandou lulas bebês pro espaço
+- 2026-10-19 | O vulcão que dormiu 500 anos e um terremoto acordou
+- 2026-10-19 | O som misterioso do fundo do Pacífico: o Bloop
+- 2026-10-19 | O peixe que se defende com gosma e dá nó no corpo
+- 2026-10-19 | O cometa que Júpiter despedaçou e engoliu
+- 2026-10-18 | O polvo com orelhas de elefante
+- 2026-10-18 | A poeira da Lua que cheira a pólvora
+- 2026-10-18 | A floresta adubada por um deserto
+- 2026-10-17 | Os cometas que se jogam no Sol
+- 2026-10-17 | O cinturão de algas que dá pra ver do espaço
+- 2026-10-17 | O animal que já vivia antes dos EUA existirem
+- 2026-10-17 | A tempestade que dispara raios gama
+- 2026-10-16 | O tornado de Marte que salvou um robô da NASA
+- 2026-10-16 | O asteroide onde a sonda da NASA afundou
+- 2026-10-16 | A luz roxa no céu que só gente comum descobriu
+- 2026-10-15 | O vulcão cuja explosão deu voltas na Terra
+- 2026-10-15 | O maior animal do mundo nem é um bicho só
+- 2026-10-14 | O vulcão submarino ao lado de Santorini
+- 2026-10-14 | O lago que matou 1.700 pessoas numa noite
+- 2026-10-14 | A sombra da Lua vista do espaço
+- 2026-10-13 | O rio gigante escondido dentro do oceano
+- 2026-10-13 | O bicho que sobreviveu ao vácuo do espaço
+- 2026-10-13 | A Lua treme, e os astronautas deixaram as provas
+- 2026-10-12 | A água-viva que volta a ser bebê
+- 2026-10-12 | A Terra brilha no escuro (e quase ninguém vê)
+- 2026-10-11 | O iceberg quase 4x maior que São Paulo
+- 2026-10-11 | O fogo no espaço vira uma bola azul
+- 2026-10-11 | O deserto do Saara aduba a Floresta Amazônica
