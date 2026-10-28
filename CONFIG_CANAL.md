@@ -36,6 +36,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - sifonóforo gigante de 46 m (animal mais comprido já registrado, Ningaloo 2020)
 - migração de zebras Okavango–Makgadikgadi (cercas 1968-2004)
 - rio Colorado que parou de chegar ao mar e recebeu água de propósito (2014)
+- Voyager 1 a 1 dia-luz da Terra (conserto da memória em 2024)
 
 ## EVITAR
 - OBRIGATÓRIO: antes de escolher o tema, leia o arquivo HISTORICO.md (lista COMPLETA de todos os vídeos já feitos; o feed do YouTube só mostra os últimos 15). Proibido repetir qualquer assunto ou bicho de lá (ex.: o sifonóforo gigante saiu 2 vezes: 15/10 e 28/10).
