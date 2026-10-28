@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-10-28 | O rio que parou de chegar ao mar e ganhou água de propósito
 - 2026-10-28 | As zebras que ficaram 36 anos sem fazer sua viagem
 - 2026-10-28 | O animal mais comprido já filmado tem 46 metros
 - 2026-10-27 | Por que astronautas correm presos por cordas
