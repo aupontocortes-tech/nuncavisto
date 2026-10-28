@@ -44,4 +44,3 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - Terminar SEMPRE sem chamada: em mais ou menos metade dos vídeos (alternando), a última cena narra a pergunta e logo depois "Segue o canal pra ver o que você nunca viu."
 
 ## PAUSAS
-- 18h
