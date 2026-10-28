@@ -33,6 +33,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - Anomalia do Atlântico Sul (ponto fraco do campo magnético sobre o Brasil)
 - sonda DART da NASA que bateu no asteroide Dimorfos (órbita 33 min mais rápida)
 - lula-de-nadeira-grande (Magnapinna, braços 20x o corpo)
+- sifonóforo gigante de 46 m (animal mais comprido já registrado, Ningaloo 2020)
 
 ## EVITAR
 - Assuntos banais, que a pessoa já viu na escola ou no Google
