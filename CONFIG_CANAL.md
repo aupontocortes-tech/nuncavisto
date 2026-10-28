@@ -34,6 +34,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - sonda DART da NASA que bateu no asteroide Dimorfos (órbita 33 min mais rápida)
 - lula-de-nadeira-grande (Magnapinna, braços 20x o corpo)
 - sifonóforo gigante de 46 m (animal mais comprido já registrado, Ningaloo 2020)
+- migração de zebras Okavango–Makgadikgadi (cercas 1968-2004)
 
 ## EVITAR
 - OBRIGATÓRIO: antes de escolher o tema, leia o arquivo HISTORICO.md (lista COMPLETA de todos os vídeos já feitos; o feed do YouTube só mostra os últimos 15). Proibido repetir qualquer assunto ou bicho de lá (ex.: o sifonóforo gigante saiu 2 vezes: 15/10 e 28/10).
