@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-10-29 | Filmaram isso no fundo do mar: 10 coisas que você nunca viu
 - 2026-10-29 | A esponja do tamanho de uma van
 - 2026-10-28 | A sonda que vai ficar a 1 dia-luz da Terra
 - 2026-10-28 | O rio que parou de chegar ao mar e ganhou água de propósito
