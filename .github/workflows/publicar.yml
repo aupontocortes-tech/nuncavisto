@@ -33,6 +33,7 @@ jobs:
               python3 -c "import json,sys,datetime;t=json.load(open(sys.argv[1]))['title'].replace(' #Shorts','');L=open('HISTORICO.md').read().split('\n');L.insert(4,'- '+datetime.date.today().isoformat()+' | '+t);open('HISTORICO.md','w').write('\n'.join(L))" "$meta" || true
               git add HISTORICO.md
               git rm -q "$video" "$meta"
+              [ -f "${meta%.json}.jpg" ] && git rm -q "${meta%.json}.jpg"
               enviados=$((enviados+1))
             fi
           done

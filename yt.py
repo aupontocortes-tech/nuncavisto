@@ -19,3 +19,9 @@ elif sys.argv[1] == 'up':
             'status': {'privacyStatus': m.get('privacy', 'public'), 'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': False}}
     r = yt.videos().insert(part='snippet,status', body=body, media_body=MediaFileUpload(sys.argv[2], chunksize=-1, resumable=True)).execute()
     print(r['id'], r['status'])
+    capa = os.path.splitext(sys.argv[2])[0] + '.jpg'   # capa opcional (vídeo longo): publicar/NOME.jpg
+    if os.path.exists(capa):
+        try:
+            yt.thumbnails().set(videoId=r['id'], media_body=MediaFileUpload(capa, mimetype='image/jpeg')).execute(); print('capa ok')
+        except Exception as e:
+            print('AVISO: capa não enviada (canal precisa estar verificado por telefone):', e)
