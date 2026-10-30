@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-10-30 | A bola dourada do fundo do mar finalmente foi explicada
 - 2026-10-30 | Os anéis de Saturno estão sumindo
 - 2026-10-30 | O lago do Alasca que pega fogo
 - 2026-10-29 | O animal descoberto só por vídeo
