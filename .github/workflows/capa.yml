@@ -1,0 +1,21 @@
+name: Trocar capa de vídeo já publicado
+on:
+  push:
+    branches: [main]
+    paths: ['capa/**']
+permissions:
+  contents: write
+jobs:
+  capa:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.11'}
+      - run: pip install google-auth-oauthlib google-api-python-client
+      - env:
+          YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
+        run: |
+          for f in capa/*.jpg; do python3 yt.py capa "$(basename "$f" .jpg)" "$f" && git rm -q "$f"; done
+          git config user.name github-actions; git config user.email actions@github.com
+          git commit -qm "capa aplicada" && git push || true

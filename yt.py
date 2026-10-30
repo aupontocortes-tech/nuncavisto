@@ -25,3 +25,5 @@ elif sys.argv[1] == 'up':
             yt.thumbnails().set(videoId=r['id'], media_body=MediaFileUpload(capa, mimetype='image/jpeg')).execute(); print('capa ok')
         except Exception as e:
             print('AVISO: capa não enviada (canal precisa estar verificado por telefone):', e)
+elif sys.argv[1] == 'capa':   # python3 yt.py capa VIDEO_ID arquivo.jpg
+    yt.thumbnails().set(videoId=sys.argv[2], media_body=MediaFileUpload(sys.argv[3], mimetype='image/jpeg')).execute(); print('capa ok', sys.argv[2])
