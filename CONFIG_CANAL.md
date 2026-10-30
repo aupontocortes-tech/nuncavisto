@@ -18,6 +18,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - astronauta que cresce até 5 cm no espaço
 - ganso-de-cabeça-listrada voando sobre o Himalaia
 - submarino à deriva 31 dias em 1969
+- lagos do Alasca que soltam metano que pega fogo
 - helicóptero Ingenuity em Marte (72 voos)
 - Mar de Aral que sumiu
 - células HeLa / Henrietta Lacks
