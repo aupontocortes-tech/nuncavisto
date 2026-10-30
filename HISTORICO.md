@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-10-30 | Os anéis de Saturno estão sumindo
 - 2026-10-30 | O lago do Alasca que pega fogo
 - 2026-10-29 | O animal descoberto só por vídeo
 - 2026-10-29 | Filmaram isso no fundo do mar: 10 coisas que você nunca viu
