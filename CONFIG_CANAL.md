@@ -40,6 +40,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - Voyager 1 a 1 dia-luz da Terra (conserto da memória em 2024)
 - maior esponja já encontrada (esponja-de-vidro do tamanho de uma van, Havaí 2015)
 - Duobrachium sparksae: ctenóforo descrito só por vídeo (NOAA, 2015)
+- anéis de Saturno sumindo (chuva de anel, NASA 2018)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
