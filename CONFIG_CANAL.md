@@ -41,6 +41,11 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - maior esponja já encontrada (esponja-de-vidro do tamanho de uma van, Havaí 2015)
 - Duobrachium sparksae: ctenóforo descrito só por vídeo (NOAA, 2015)
 
+## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
+Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
+"🎥 Vídeo completo: <título do longo> → <link>"
+- Tema: oceano / fundo do mar / criaturas marinhas → "Filmaram isso no fundo do mar: 10 coisas que você nunca viu" → https://youtu.be/IMSlcE8tl_8
+
 ## EVITAR
 - OBRIGATÓRIO: antes de escolher o tema, leia o arquivo HISTORICO.md (lista COMPLETA de todos os vídeos já feitos; o feed do YouTube só mostra os últimos 15). Proibido repetir qualquer assunto ou bicho de lá (ex.: o sifonóforo gigante saiu 2 vezes: 15/10 e 28/10).
 - Assuntos banais, que a pessoa já viu na escola ou no Google
