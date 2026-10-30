@@ -1,0 +1,15 @@
+name: Baixar imagens livres (Wikimedia) para vídeo longo
+on:
+  push:
+    branches: [main]
+    paths: ['ferramentas/midia/consultas.json']
+  workflow_dispatch:
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - run: cd ferramentas/midia && python3 baixar.py
+      - uses: actions/upload-artifact@v4
+        with: {name: midia, path: ferramentas/midia/midia, retention-days: 3}
