@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-10-31 | O coral que já tinha mais de 4 mil anos
 - 2026-10-31 | Esse tubarão pode ter 400 anos (e não é o mais velho) (vídeo longo https://youtu.be/WK_EoSqI-XM)
 - 2026-10-31 | A terra nova que um rio construiu na Louisiana
 - 2026-10-31 | O molusco que caça de emboscada no fundo do mar
