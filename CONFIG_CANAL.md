@@ -12,6 +12,7 @@ Não coloque senhas aqui.
 
 ## HISTÓRICO DE ASSUNTOS (já feitos, NUNCA repetir o assunto, mesmo com outro título ou imagem)
 O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos são esquecidos. Esta lista é a memória completa: confira ela E o feed antes de escolher. Depois de publicar, acrescente aqui uma linha com o assunto do vídeo novo (e commite junto).
+- delta do Atchafalaya (terra nova na Louisiana)
 - cachoeira submarina do Estreito da Dinamarca
 - sombra da Lua vista do espaço (eclipse 2017)
 - fumaça de incêndios do Canadá cruzando o Atlântico
