@@ -41,6 +41,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - maior esponja já encontrada (esponja-de-vidro do tamanho de uma van, Havaí 2015)
 - Duobrachium sparksae: ctenóforo descrito só por vídeo (NOAA, 2015)
 - anéis de Saturno sumindo (chuva de anel, NASA 2018)
+- quíton predador (Placiphorella, NOAA Papahānaumokuākea 2025)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
