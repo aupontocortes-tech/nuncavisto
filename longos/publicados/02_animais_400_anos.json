@@ -1,7 +1,7 @@
 {
  "titulo": "Esse tubarão pode ter 400 anos (e não é o mais velho)",
  "resumo_pt": "10 animais que vivem séculos, do 10 ao 1: carpa de 226 anos até a esponja de 11 mil anos. Vídeo pronto (7min52), com capa.",
- "estado": "pronto",
+ "estado": "publicado",
  "partes": [
   {
    "falas": [
@@ -497,5 +497,6 @@
   }
  ],
  "meta": "longos/videos/02_animais_400_anos.json",
- "minutos": 8
+ "minutos": 8,
+ "video_id": "WK_EoSqI-XM"
 }
