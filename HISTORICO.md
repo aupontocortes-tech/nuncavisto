@@ -67,3 +67,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-10-11 | O deserto do Saara aduba a Floresta Amazônica
 - 2026-10-30 | O lago do Alasca que pega fogo
 - 2026-10-30 | A bola dourada do fundo do mar finalmente foi explicada
+- 2026-10-31 | O coral que já tinha mais de 4 mil anos (coral-negro Leiopathes)

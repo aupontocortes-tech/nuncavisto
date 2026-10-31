@@ -42,6 +42,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - maior esponja já encontrada (esponja-de-vidro do tamanho de uma van, Havaí 2015)
 - Duobrachium sparksae: ctenóforo descrito só por vídeo (NOAA, 2015)
 - anéis de Saturno sumindo (chuva de anel, NASA 2018)
+- coral-negro que vive mais de 4 mil anos (Leiopathes, NOAA)
 - quíton predador (Placiphorella, NOAA Papahānaumokuākea 2025)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
@@ -49,12 +50,6 @@ Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA li
 "🎥 Vídeo completo: <título do longo> → <link>"
 - Tema: oceano / fundo do mar / criaturas marinhas → "Filmaram isso no fundo do mar: 10 coisas que você nunca viu" → https://youtu.be/IMSlcE8tl_8
 - Tema: animais que vivem muito / idade / longevidade → "Esse tubarão pode ter 400 anos (e não é o mais velho)" → https://youtu.be/WK_EoSqI-XM
-
-### PRÓXIMO SHORT (só uma vez — depois de publicar, apague este bloco)
-O próximo Short tem que divulgar o vídeo longo dos animais que vivem séculos:
-- Assunto: um animal que vive muito tempo e que NÃO está no vídeo longo (lá já tem: carpa Hanako, tuatara, tartaruga Jonathan, proteu, peixe-rocha, baleia-da-groenlândia, tubarão-da-groenlândia, molusco Ming, água-viva imortal, esponja-de-vidro). Confira o HISTORICO.md.
-- Primeira linha da descrição: "🎥 Vídeo completo: Esse tubarão pode ter 400 anos (e não é o mais velho) → https://youtu.be/WK_EoSqI-XM"
-- Última frase da narração: "E tem animal que vive ainda mais. O vídeo completo com os dez está no canal."
 
 ## EVITAR
 - OBRIGATÓRIO: antes de escolher o tema, leia o arquivo HISTORICO.md (lista COMPLETA de todos os vídeos já feitos; o feed do YouTube só mostra os últimos 15). Proibido repetir qualquer assunto ou bicho de lá (ex.: o sifonóforo gigante saiu 2 vezes: 15/10 e 28/10).
