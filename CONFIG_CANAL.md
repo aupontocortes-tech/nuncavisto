@@ -54,6 +54,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - coral-negro que vive mais de 4 mil anos (Leiopathes, NOAA)
 - quíton predador (Placiphorella, NOAA Papahānaumokuākea 2025)
 - buraco negro que rasgou uma estrela (evento de ruptura por maré ASASSN-19bt, TESS)
+- Grande Mancha Vermelha de Júpiter (tempestade com mais de 100 anos, encolhendo e ficando mais alta)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
