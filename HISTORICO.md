@@ -73,3 +73,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-10-31 | O coral que já tinha mais de 4 mil anos (coral-negro Leiopathes)
 - 2026-10-31 | O deserto que ficou coberto de círculos verdes (irrigação com água fóssil na Arábia Saudita)
 - 2026-11-01 | O buraco negro que rasgou uma estrela inteira
+- 2026-11-01 | A estrela (pulsar J0002+6216) que corre a 4 milhões de km/h
