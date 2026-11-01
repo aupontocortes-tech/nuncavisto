@@ -11,7 +11,7 @@ Teste pedido pelo Thiago: TODOS os Shorts desta semana são sobre ESPAÇO, para 
 - Descrição: se tiver vídeo longo do mesmo tema, siga a regra de VÍDEOS LONGOS.
 
 ## SUGESTÕES DE VÍDEO
-- [ ] Sugestão de vídeo para hoje: BURACO NEGRO engolindo uma estrela (evento de ruptura por maré). Gancho de medo no 1º segundo. Use vídeo/simulação de alta qualidade da NASA SVS ou ESO com selo "IMAGEM ILUSTRATIVA". (01/11/2026)
+- [x] Sugestão de vídeo para hoje: BURACO NEGRO engolindo uma estrela (evento de ruptura por maré). Gancho de medo no 1º segundo. Use vídeo/simulação de alta qualidade da NASA SVS ou ESO com selo "IMAGEM ILUSTRATIVA". (01/11/2026)
 - [x] Sugestão de vídeo para hoje: células HeLa, as células humanas "imortais". Em 1951, tiraram células do tumor de Henrietta Lacks sem ela saber. Ela morreu meses depois, mas as células dela continuam se multiplicando em laboratórios até hoje e ajudaram a criar a vacina da pólio. Gancho: "Essa mulher mo (21/10/2026)
 
 ## O QUE PROCURAR
@@ -53,6 +53,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - anéis de Saturno sumindo (chuva de anel, NASA 2018)
 - coral-negro que vive mais de 4 mil anos (Leiopathes, NOAA)
 - quíton predador (Placiphorella, NOAA Papahānaumokuākea 2025)
+- buraco negro que rasgou uma estrela (evento de ruptura por maré ASASSN-19bt, TESS)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
