@@ -11,6 +11,7 @@ Teste pedido pelo Thiago: TODOS os Shorts desta semana são sobre ESPAÇO, para 
 - Descrição: se tiver vídeo longo do mesmo tema, siga a regra de VÍDEOS LONGOS.
 
 ## SUGESTÕES DE VÍDEO
+- [ ] Sugestão de vídeo para hoje: BURACO NEGRO engolindo uma estrela (evento de ruptura por maré). Gancho de medo no 1º segundo. Use vídeo/simulação de alta qualidade da NASA SVS ou ESO com selo "IMAGEM ILUSTRATIVA". (01/11/2026)
 - [x] Sugestão de vídeo para hoje: células HeLa, as células humanas "imortais". Em 1951, tiraram células do tumor de Henrietta Lacks sem ela saber. Ela morreu meses depois, mas as células dela continuam se multiplicando em laboratórios até hoje e ajudaram a criar a vacina da pólio. Gancho: "Essa mulher mo (21/10/2026)
 
 ## O QUE PROCURAR
