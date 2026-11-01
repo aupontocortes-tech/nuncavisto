@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-01 | O buraco negro que rasgou uma estrela inteira
 - 2026-10-31 | O deserto que ficou coberto de círculos verdes
 - 2026-10-31 | O coral que já tinha mais de 4 mil anos
 - 2026-10-31 | Esse tubarão pode ter 400 anos (e não é o mais velho) (vídeo longo https://youtu.be/WK_EoSqI-XM)
