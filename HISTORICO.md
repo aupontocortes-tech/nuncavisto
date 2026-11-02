@@ -79,3 +79,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-01 | A estrela (pulsar J0002+6216) que corre a 4 milhões de km/h
 - 2026-11-01 | A tempestade de Júpiter que dura mais de 100 anos (Grande Mancha Vermelha)
 - 2026-11-02 | O dia em que o Sol incendiou telégrafos (Evento Carrington 1859 e quase-colisão de 2012)
+- 2026-11-02 | O asteroide Apophis que vai passar mais perto que satélites em 2029 (13/04/2029)
