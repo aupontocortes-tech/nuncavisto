@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-02 | O dia em que o Sol incendiou telégrafos
 - 2026-11-01 | A tempestade de Júpiter que dura mais de 100 anos
 - 2026-11-01 | A estrela que corre a 4 milhões de km/h
 - 2026-11-01 | O buraco negro que rasgou uma estrela inteira
