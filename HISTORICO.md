@@ -81,3 +81,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-01 | A tempestade de Júpiter que dura mais de 100 anos (Grande Mancha Vermelha)
 - 2026-11-02 | O dia em que o Sol incendiou telégrafos (Evento Carrington 1859 e quase-colisão de 2012)
 - 2026-11-02 | O asteroide Apophis que vai passar mais perto que satélites em 2029 (13/04/2029)
+- 2026-11-03 | A explosão de magnetar que afetou a atmosfera da Terra (erupção gigante, NASA SVS 13792)
