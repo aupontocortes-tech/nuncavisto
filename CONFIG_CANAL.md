@@ -2,13 +2,10 @@
 
 Não coloque senhas aqui.
 
-## SEMANA DO ESPAÇO (de 01/11/2026 até 07/11/2026 — vale MAIS que o rodízio e a regra de variar temas)
-Teste pedido pelo Thiago: TODOS os Shorts desta semana são sobre ESPAÇO, para ver se as views sobem. Em 08/11 volta o rodízio normal.
-- Tom: coisas ASSUSTADORAS e impressionantes do universo, com gancho de medo ou choque no 1º segundo.
-- Ideias (não repetir nada do HISTORICO.md; cada uma vira 1 Short):
-  buraco negro que engole uma estrela (TDE) • buraco branco (só teoria — dizer "cientistas acreditam/uma teoria diz") • o que aconteceria se você caísse num buraco negro (espaguetificação) • estrela de nêutrons: uma colher pesa bilhões de toneladas • magnetar • planeta onde chove vidro (HD 189733b) • planeta que chove ferro (WASP-76b) • planetas errantes, sem estrela, vagando no escuro • asteroide Apophis passando perto da Terra em 2029 • o grande vazio de Boötes • Betelgeuse e a supernova • explosão de raios gama • tempestades solares e o Evento Carrington • o som de um buraco negro (sonificação da NASA) • Sagitário A*, o buraco negro do centro da galáxia • a Terra vista da Lua / da ISS de noite • Júpiter e a Grande Mancha Vermelha de perto (Juno)
-- IMAGENS: só alta definição. Prioridade: (1) vídeo REAL de satélite, telescópio ou sonda (NASA Image Library, NASA SVS, ESA, ESO, JWST, Hubble, SDO, Juno, ISS); (2) visualização/simulação científica de boa qualidade da NASA SVS, ESA ou ESO quando não existe filmagem real (ex.: buraco negro) — sempre com selo "IMAGEM ILUSTRATIVA". Nada de desenho, imagem borrada, baixa resolução ou IA.
-- Descrição: se tiver vídeo longo do mesmo tema, siga a regra de VÍDEOS LONGOS.
+## ESPAÇO (atualizado em 03/11/2026)
+A semana só de espaço foi testada e as views caíram (de ~1.000 para 100-350). Voltou o rodízio normal de categorias.
+- Espaço entra no máximo 1 a cada 4 vídeos, e só assunto de PERIGO ou ABSURDO (buraco negro engolindo estrela, asteroide perto da Terra, estrela em velocidade absurda) — os únicos de espaço que passaram de 800 views.
+- Nunca 2 vídeos de espaço seguidos.
 
 ## SUGESTÕES DE VÍDEO
 - [x] Sugestão de vídeo para hoje: BURACO NEGRO engolindo uma estrela (evento de ruptura por maré). Gancho de medo no 1º segundo. Use vídeo/simulação de alta qualidade da NASA SVS ou ESO com selo "IMAGEM ILUSTRATIVA". (01/11/2026)
