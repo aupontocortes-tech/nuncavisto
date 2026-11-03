@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-03 | Como seria cair dentro de um buraco negro
 - 2026-11-03 | A explosão que afetou a atmosfera da Terra
 - 2026-11-02 | O asteroide que vai passar perto demais da Terra
 - 2026-11-02 | O dia em que o Sol incendiou telégrafos
