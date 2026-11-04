@@ -8,6 +8,7 @@ A semana só de espaço foi testada e as views caíram (de ~1.000 para 100-350).
 - Nunca 2 vídeos de espaço seguidos.
 
 ## SUGESTÕES DE VÍDEO
+- [ ] PEDIDO DO THIAGO (fazer no PRÓXIMO vídeo, vale mais que o rodízio e a regra de espaço): COMPARAÇÃO DO TAMANHO DOS PLANETAS DO SISTEMA SOLAR. Gancho: muita gente acha que a Terra é um dos maiores planetas, mas 4 planetas são MUITO maiores (Júpiter, Saturno, Urano, Netuno). Mostre em ordem crescente: Mercúrio, Marte, Vênus, Terra (a maior das rochosas), Netuno, Urano, Saturno, Júpiter, e no fim o Sol. Use números simples e confirmados na NASA (ex.: quantas Terras cabem lado a lado no diâmetro de Júpiter; quantas Terras cabem dentro dele). Use imagens/vídeos REAIS da NASA de cada planeta e, se achar, a ilustração oficial da NASA de comparação de tamanhos (selo IMAGEM ILUSTRATIVA). Pode durar ATÉ 75 SEGUNDOS para explicar tudo direito (só neste vídeo, a regra de 28-40s não vale). (03/11/2026)
 - [x] Sugestão de vídeo para hoje: BURACO NEGRO engolindo uma estrela (evento de ruptura por maré). Gancho de medo no 1º segundo. Use vídeo/simulação de alta qualidade da NASA SVS ou ESO com selo "IMAGEM ILUSTRATIVA". (01/11/2026)
 - [x] Sugestão de vídeo para hoje: células HeLa, as células humanas "imortais". Em 1951, tiraram células do tumor de Henrietta Lacks sem ela saber. Ela morreu meses depois, mas as células dela continuam se multiplicando em laboratórios até hoje e ajudaram a criar a vacina da pólio. Gancho: "Essa mulher mo (21/10/2026)
 
