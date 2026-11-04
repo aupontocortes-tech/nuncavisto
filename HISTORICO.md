@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-04 | O maior lago salgado do hemisfério ocidental está sumindo
 - 2026-11-04 | O pepino que nada pelo fundo do mar
 - 2026-11-04 | A Terra é minúscula perto desses planetas
 - 2026-11-04 | A Terra é minúscula perto desses planetas (comparação de tamanho dos 8 planetas)
