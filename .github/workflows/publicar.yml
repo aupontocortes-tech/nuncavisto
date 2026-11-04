@@ -21,6 +21,7 @@ jobs:
       - name: Enviar cada vídeo da pasta publicar/
         env:
           YT_TOKEN_JSON: ${{ secrets.YT_TOKEN_JSON }}
+          GH_TOKEN: ${{ github.token }}
         run: |
           shopt -s nullglob
           enviados=0
@@ -29,6 +30,7 @@ jobs:
             if [ -f "$video" ]; then
               echo "Enviando $video"
               python3 yt.py up "$video" "$meta"
+              bash tiktok_release.sh "$video" "$meta" "nv_$(basename "${meta%.json}")"   # cópia pro TikTok (app Meus Canais)
               # registra no histórico completo (o agente consulta para não repetir assunto)
               python3 -c "import json,sys,datetime;t=json.load(open(sys.argv[1]))['title'].replace(' #Shorts','');L=open('HISTORICO.md').read().split('\n');L.insert(4,'- '+datetime.date.today().isoformat()+' | '+t);open('HISTORICO.md','w').write('\n'.join(L))" "$meta" || true
               git add HISTORICO.md
