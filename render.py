@@ -89,11 +89,17 @@ def main():
         z = 1.12 if is_img else 1.06  # imagem parada ganha zoom mais visível
         vf = (f"crop={cw}:{ch}:{x}:{y},scale={W}:{H},"
               f"zoompan=z='1+({z}-1)*on/({dur}*{FPS})':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps={FPS},setsar=1")
-        o = os.path.join(out, f'part{i:02d}.mp4')
-        inp = ['-loop', '1', '-i', p] if is_img else ['-ss', str(sc.get('start', 0)), '-i', p]
-        run(['ffmpeg', '-y', '-loglevel', 'error', *inp, '-t', f'{dur:.3f}', '-an', '-vf', vf,
-             '-r', str(FPS), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '18', '-pix_fmt', 'yuv420p', o])
-        parts.append(o)
+        tomadas = [(0.0, dur)] if dur <= 3.4 or sc.get('fit') else [(0.0, dur / 2), (dur / 2, dur / 2)]
+        for j, (off, d2) in enumerate(tomadas):   # cena longa = 2 tomadas (ritmo mais rápido, corte a cada ~2s)
+            o = os.path.join(out, f'part{i:02d}_{j}.mp4')
+            vf2 = vf.replace(f'*on/({dur}*{FPS})', f'*on/({d2}*{FPS})')
+            if j == 1:   # 2ª tomada: zoom mais fechado e enquadramento diferente
+                vf2 = vf2.replace(f"z='1+({z}-1)", f"z='{z}+(0.10)").replace("x='iw/2-(iw/zoom/2)'", "x='iw/2-(iw/zoom/2)+iw*0.04'")
+            ss = float(sc.get('start', 0)) + (off + (1.5 if j else 0))
+            inp = ['-loop', '1', '-i', p] if is_img else ['-ss', str(ss), '-i', p]
+            run(['ffmpeg', '-y', '-loglevel', 'error', *inp, '-t', f'{d2:.3f}', '-an', '-vf', vf2,
+                 '-r', str(FPS), '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '18', '-pix_fmt', 'yuv420p', o])
+            parts.append(o)
     lst = os.path.join(out, 'parts.txt'); open(lst, 'w').write(''.join(f"file '{os.path.abspath(p)}'\n" for p in parts))
     base = os.path.join(out, 'base.mp4')
     run(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', lst, '-c', 'copy', base])
@@ -112,9 +118,17 @@ def main():
         grad[y, :, 3] = a
     GRAD = Image.fromarray(grad, 'RGBA')
     final = os.path.join(out, 'final.mp4')
+    audio = os.path.join(out, 'narr.wav')
+    try:   # efeitos sonoros (whoosh nas trocas, impacto no fato principal)
+        subprocess.run([sys.executable, os.path.join(HERE, 'sfx.py'), sys.argv[1], out], check=True)
+        mix = os.path.join(out, 'audio_fx.wav')
+        run(['ffmpeg', '-y', '-loglevel', 'error', '-i', audio, '-i', os.path.join(out, 'fx.wav'), '-filter_complex',
+             '[0:a]aresample=48000[n];[1:a]aresample=48000[f];[n][f]amix=inputs=2:duration=first:normalize=0', mix])
+        audio = mix
+    except Exception as e: print('AVISO: sem efeitos sonoros:', e)
     dec = subprocess.Popen(['ffmpeg', '-loglevel', 'error', '-i', base, '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-'], stdout=subprocess.PIPE)
     enc = subprocess.Popen(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
-                            '-i', os.path.join(out, 'narr.wav'), '-c:v', 'libx264', '-preset', 'slow', '-crf', '20', '-maxrate', '4200k',
+                            '-i', audio, '-c:v', 'libx264', '-preset', 'slow', '-crf', '20', '-maxrate', '4200k',
                             '-bufsize', '8000k', '-pix_fmt', 'yuv420p', '-c:a', 'aac', '-b:a', '160k', '-ar', '48000',
                             '-af', 'loudnorm=I=-14:TP=-1.5:LRA=11', '-shortest', '-movflags', '+faststart', final], stdin=subprocess.PIPE)
     n = int(math.ceil(DUR * FPS)); fs = W * H * 3; last = None

@@ -2,6 +2,13 @@
 
 Não coloque senhas aqui.
 
+## QUALIDADE (desde 04/11/2026 — meta: sair dos 300-1.000 views)
+- VOZ: o tts_lines.py agora usa uma voz neural natural (sozinho). Não mude.
+- EFEITOS: o render.py já coloca um "whoosh" em toda troca de cena. No spec.json marque "impacto": true na cena do FATO MAIS SURPREENDENTE (só 1) e, quando combinar, "efeito": explosao | trovao | agua | vento | coracao | grave | brilho na cena certa.
+- RITMO: 8 a 10 cenas, frases curtas. Cena longa vira 2 tomadas sozinha (corte a cada ~2s).
+- FINAL: última cena com pergunta que DIVIDE opinião ("Você entraria nesse lago?", "Você teria coragem?") — comentário empurra o vídeo. Quando der, a última frase emenda no gancho (faz assistir de novo).
+- 1º SEGUNDO: a imagem mais impressionante + a frase mais forte. Se a pessoa precisar de 3 segundos para entender o que é, ela já pulou.
+
 ## ESPAÇO (atualizado em 03/11/2026)
 A semana só de espaço foi testada e as views caíram (de ~1.000 para 100-350). Voltou o rodízio normal de categorias.
 - Espaço entra no máximo 1 a cada 4 vídeos, e só assunto de PERIGO ou ABSURDO (buraco negro engolindo estrela, asteroide perto da Terra, estrela em velocidade absurda) — os únicos de espaço que passaram de 800 views.
