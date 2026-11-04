@@ -5,7 +5,9 @@ Não coloque senhas aqui.
 ## QUALIDADE (desde 04/11/2026 — meta: sair dos 300-1.000 views)
 - VOZ: o tts_lines.py agora usa uma voz neural natural (sozinho). Não mude.
 - EFEITOS: o render.py já coloca um "whoosh" em toda troca de cena. No spec.json marque "impacto": true na cena do FATO MAIS SURPREENDENTE (só 1) e, quando combinar, "efeito": explosao | trovao | agua | vento | coracao | grave | brilho na cena certa.
-- RITMO: 8 a 10 cenas, frases curtas. Cena longa vira 2 tomadas sozinha (corte a cada ~2s).
+- RITMO DA IMAGEM rápido (cena longa vira 2 tomadas sozinha), mas a FALA calma e clara: no máximo 2,8 palavras por segundo. Nunca encurte frase cortando palavra.
+- EXPLICAR SEM PULAR ETAPA (pedido do Thiago): cada frase leva à próxima, na ordem: o que é -> onde/quando -> por que acontece -> o número que impressiona -> o que isso significa. Se o espectador precisar saber algo para entender a próxima frase, essa informação TEM que vir antes. Termos difíceis: explique em 4 ou 5 palavras simples. Pode durar até 50 segundos se precisar para explicar direito.
+- Antes de publicar, leia o roteiro como alguém de 14 anos que nunca ouviu falar do assunto: entendeu tudo de primeira? Se não, reescreva.
 - FINAL: última cena com pergunta que DIVIDE opinião ("Você entraria nesse lago?", "Você teria coragem?") — comentário empurra o vídeo. Quando der, a última frase emenda no gancho (faz assistir de novo).
 - 1º SEGUNDO: a imagem mais impressionante + a frase mais forte. Se a pessoa precisar de 3 segundos para entender o que é, ela já pulou.
 
