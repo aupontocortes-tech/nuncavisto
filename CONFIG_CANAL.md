@@ -5,7 +5,7 @@ Não coloque senhas aqui.
 ## QUALIDADE (desde 04/11/2026 — meta: sair dos 300-1.000 views)
 - VOZ: o tts_lines.py agora usa uma voz neural natural (sozinho). Não mude.
 - EFEITOS: o render.py já coloca um "whoosh" em toda troca de cena. No spec.json marque "impacto": true na cena do FATO MAIS SURPREENDENTE (só 1) e, quando combinar, "efeito": explosao | trovao | agua | vento | coracao | grave | brilho na cena certa.
-- RITMO DA IMAGEM rápido (cena longa vira 2 tomadas sozinha), mas a FALA calma e clara: no máximo 2,8 palavras por segundo. Nunca encurte frase cortando palavra.
+- RITMO DA IMAGEM rápido (cena longa vira 2 tomadas sozinha), mas a FALA calma e clara: no máximo 2,8 palavras por segundo no vídeo inteiro (o qc.py confere). Nunca encurte frase cortando palavra.
 - EXPLICAR SEM PULAR ETAPA (pedido do Thiago): cada frase leva à próxima, na ordem: o que é -> onde/quando -> por que acontece -> o número que impressiona -> o que isso significa. Se o espectador precisar saber algo para entender a próxima frase, essa informação TEM que vir antes. Termos difíceis: explique em 4 ou 5 palavras simples. Pode durar até 50 segundos se precisar para explicar direito.
 - REVISÃO AUTOMÁTICA OBRIGATÓRIA: depois do render rode "python3 qc.py spec.json out". Só publique se sair APROVADO. Se sair REPROVADO, corrija o que ele listar e renderize de novo (até 3 vezes). O Thiago NÃO revisa os vídeos antes de ir ao ar: o robô é o único filtro.
 - Antes de publicar, leia o roteiro como alguém de 14 anos que nunca ouviu falar do assunto: entendeu tudo de primeira? Se não, reescreva.

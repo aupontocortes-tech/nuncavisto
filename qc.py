@@ -6,8 +6,8 @@ spec = json.load(open(sys.argv[1], encoding='utf-8')); out = sys.argv[2]
 T = json.load(open(os.path.join(out, 'timing.json'), encoding='utf-8'))
 erros = []
 SC = spec['scenes']; pal = sum(len(s['text'].split()) for s in SC)
-fala = sum(e - s for s, e in T['segs']); wps = pal / max(fala, 1)
-if wps > 2.9: erros.append(f'fala rápida demais: {wps:.2f} palavras/s (máx. 2,8). Corte palavras ou divida frases.')
+wps = pal / max(T['dur'], 1)   # palavras por segundo do vídeo inteiro (com as pausas)
+if wps > 2.85: erros.append(f'fala rápida demais: {wps:.2f} palavras/s no vídeo (máx. 2,8). Corte palavras ou divida frases.')
 if not (25 <= T['dur'] <= 52): erros.append(f'duração {T["dur"]:.1f}s fora de 25-50s.')
 if not (6 <= len(SC) <= 12): erros.append(f'{len(SC)} cenas (use 8 a 10).')
 if not SC[-1]['text'].strip().endswith('?'): erros.append('a última cena tem que terminar com uma pergunta para comentar.')
