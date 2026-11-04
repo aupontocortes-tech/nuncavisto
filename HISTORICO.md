@@ -86,3 +86,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-02 | O asteroide Apophis que vai passar mais perto que satélites em 2029 (13/04/2029)
 - 2026-11-03 | A explosão de magnetar que afetou a atmosfera da Terra (erupção gigante, NASA SVS 13792)
 - 2026-11-03 | Como seria cair dentro de um buraco negro (simulação NASA SVS 14576)
+- 2026-11-04 | O pepino-do-mar que nada (Enypniastes, 'monstro galinha sem cabeça', NOAA)

@@ -65,6 +65,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - buraco negro que rasgou uma estrela (evento de ruptura por maré ASASSN-19bt, TESS)
 - Grande Mancha Vermelha de Júpiter (tempestade com mais de 100 anos, encolhendo e ficando mais alta)
 - tempestade solar de 1859 (Carrington) e a de 2012 que errou a Terra
+- pepino-do-mar que nada (monstro galinha sem cabeça, Enypniastes, NOAA)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
