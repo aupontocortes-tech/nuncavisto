@@ -89,3 +89,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-03 | A explosão de magnetar que afetou a atmosfera da Terra (erupção gigante, NASA SVS 13792)
 - 2026-11-03 | Como seria cair dentro de um buraco negro (simulação NASA SVS 14576)
 - 2026-11-04 | O pepino-do-mar que nada (Enypniastes, 'monstro galinha sem cabeça', NOAA)
+- 2026-11-04 | O maior lago salgado do hemisfério ocidental está sumindo (Grande Lago Salgado, Utah, NASA SVS)
