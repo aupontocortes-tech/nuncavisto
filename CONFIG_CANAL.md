@@ -67,6 +67,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - tempestade solar de 1859 (Carrington) e a de 2012 que errou a Terra
 - pepino-do-mar que nada (monstro galinha sem cabeça, Enypniastes, NOAA)
 - Grande Lago Salgado de Utah encolhendo (NASA SVS, recorde de baixa 2022)
+- raios que sobem de tempestades: sprites, jatos azuis e fantasmas verdes vistos da ISS (NASA ScienceCast, 2026-11-05)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
