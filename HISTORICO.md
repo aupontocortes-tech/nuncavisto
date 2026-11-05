@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-05 | A geleira do Alasca que recuou mais de 20 km
 - 2026-11-05 | Eles derrubaram 4 represas e o rio voltou
 - 2026-11-05 | Eles derrubaram 4 represas e o rio voltou (rio Klamath, NASA SVS)
 - 2026-11-05 | O raio que sobe da tempestade para o espaço
