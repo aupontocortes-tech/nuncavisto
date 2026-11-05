@@ -77,6 +77,9 @@ Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA li
 - Tema: animais que vivem muito / idade / longevidade → "Esse tubarão pode ter 400 anos (e não é o mais velho)" → https://youtu.be/WK_EoSqI-XM
 
 ## EVITAR
+- (05/11/2026, o Thiago apagou um vídeo por isso) PROIBIDO por 30 dias qualquer assunto de RIO, LAGO, REPRESA, DELTA ou ÁGUA DOCE: o canal fez 5 vídeos de rio/lago em 3 semanas e ficou repetitivo. Assunto já publicado sobre rio (Klamath/represas, Louisiana, rio que voltou ao mar, rio dentro do oceano, Grande Lago Salgado) NUNCA mais.
+- FAMÍLIA DE ASSUNTO: antes de escolher, veja os últimos 15 títulos do HISTORICO.md e agrupe por família (ex.: rio/lago/represa = mesma família; vulcão/terremoto; buraco negro/estrela; tubarão/peixe). Se a família do seu tema aparece 2 vezes ou mais nos últimos 15, escolha outra família.
+- Se o Thiago apagou um vídeo, o assunto dele está proibido para sempre (não refaça o mesmo vídeo).
 - OBRIGATÓRIO: antes de escolher o tema, leia o arquivo HISTORICO.md (lista COMPLETA de todos os vídeos já feitos; o feed do YouTube só mostra os últimos 15). Proibido repetir qualquer assunto ou bicho de lá (ex.: o sifonóforo gigante saiu 2 vezes: 15/10 e 28/10).
 - Assuntos banais, que a pessoa já viu na escola ou no Google
 - Lendas, teorias sem prova e exageros
