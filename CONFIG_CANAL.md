@@ -68,6 +68,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - pepino-do-mar que nada (monstro galinha sem cabeça, Enypniastes, NOAA)
 - Grande Lago Salgado de Utah encolhendo (NASA SVS, recorde de baixa 2022)
 - raios que sobem de tempestades: sprites, jatos azuis e fantasmas verdes vistos da ISS (NASA ScienceCast, 2026-11-05)
+- rio Klamath: 4 represas derrubadas (maior remoção do mundo), salmões voltando (NASA SVS 15027, 2026-11-05)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:

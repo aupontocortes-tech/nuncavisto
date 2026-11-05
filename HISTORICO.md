@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-05 | Eles derrubaram 4 represas e o rio voltou (rio Klamath, NASA SVS)
 - 2026-11-05 | O raio que sobe da tempestade para o espaço
 - 2026-11-04 | O maior lago salgado do hemisfério ocidental está sumindo
 - 2026-11-04 | O pepino que nada pelo fundo do mar
