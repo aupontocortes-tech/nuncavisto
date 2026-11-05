@@ -77,6 +77,7 @@ Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA li
 - Tema: animais que vivem muito / idade / longevidade → "Esse tubarão pode ter 400 anos (e não é o mais velho)" → https://youtu.be/WK_EoSqI-XM
 
 ## EVITAR
+- (05/11/2026, o Thiago achou repetitivo e ruim) PROIBIDO por 30 dias o tipo "algo está SUMINDO / SECANDO / RECUANDO / DERRETENDO" (geleira, lago, rio, gelo, mudança do clima). Foram 4 seguidos. Volte ao que dava ~1.000 views: "parece mentira mas é real" com imagem impressionante — animal com comportamento absurdo, criatura do fundo do mar, fenômeno raro filmado (raio, explosão, vulcão), corpo humano surpreendente.
 - UM VÍDEO POR EXECUÇÃO: antes do push, confira que a pasta publicar/ tem EXATAMENTE 1 .mp4 e 1 .json (em 04/11 foram 2 vídeos iguais de uma vez). Se tiver sobra de execução anterior, apague antes do commit.
 - O histórico de assuntos é o HISTORICO.md (não só o feed do YouTube): vídeo que sumiu do feed foi APAGADO pelo Thiago, não está liberado para refazer.
 - (05/11/2026, o Thiago apagou um vídeo por isso) PROIBIDO por 30 dias qualquer assunto de RIO, LAGO, REPRESA, DELTA ou ÁGUA DOCE: o canal fez 5 vídeos de rio/lago em 3 semanas e ficou repetitivo. Assunto já publicado sobre rio (Klamath/represas, Louisiana, rio que voltou ao mar, rio dentro do oceano, Grande Lago Salgado) NUNCA mais.
