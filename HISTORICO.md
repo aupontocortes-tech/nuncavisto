@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-06 | A NASA viu um tsunami chegando pelo céu
 - 2026-11-06 | O pinguim que mergulha 500 metros sem respirar
 - 2026-11-06 | Lulas atacando umas às outras no fundo do mar
 - 2026-11-05 | O peixe que anda no fundo do mar
