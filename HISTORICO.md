@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-06 | Lulas atacando umas às outras no fundo do mar
 - 2026-11-05 | O peixe que anda no fundo do mar
 - 2026-11-05 | A geleira do Alasca que recuou mais de 20 km
 - 2026-11-05 | Eles derrubaram 4 represas e o rio voltou
