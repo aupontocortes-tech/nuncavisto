@@ -71,6 +71,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - rio Klamath: 4 represas derrubadas (maior remoção do mundo), salmões voltando (NASA SVS 15027, 2026-11-05)
 - peixe que anda no fundo do mar (armored searobin, NOAA; tamboril de Schaefer também "caminha", 2026-11-05)
 - lulas Illex que se atacam e lagosta comendo os pedaços (squid storm, NOAA Deep Connections 2019, 2026-11-06)
+- pinguim-imperador que mergulha mais de 500 m e baixa o coração a ~6 batidas/min (Jessica Meir, NASA JSC, 2026-11-06)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
