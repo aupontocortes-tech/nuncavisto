@@ -99,3 +99,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-05 | O raio que sobe da tempestade para o espaço (sprites e jatos azuis vistos da ISS, NASA ScienceCast)
 - 2026-11-05 | A geleira Columbia (Alasca) que recuou mais de 20 km desde 1980 (NASA Landsat; iceberg B-46 de Pine Island, IceBridge)
 - 2026-11-05 | O peixe que anda no fundo do mar (armored searobin, NOAA; tamboril de Schaefer também caminha)
+- 2026-11-06 | Lulas canibais e lagosta (squid storm Illex illecebrosus, NOAA Deep Connections 2019)
