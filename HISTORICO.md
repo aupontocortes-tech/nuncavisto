@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-07 | A NASA mandou lulas bebês para o espaço
 - 2026-11-07 | A cratera de 31 km escondida sob o gelo
 - 2026-11-06 | A NASA viu um tsunami chegando pelo céu
 - 2026-11-06 | O pinguim que mergulha 500 metros sem respirar
