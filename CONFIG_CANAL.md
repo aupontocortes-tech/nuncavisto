@@ -82,6 +82,7 @@ Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA li
 - Tema: animais que vivem muito / idade / longevidade → "Esse tubarão pode ter 400 anos (e não é o mais velho)" → https://youtu.be/WK_EoSqI-XM
 
 ## EVITAR
+- (07/11/2026) LULA PROIBIDA por 30 dias (saíram 3 de lula em 3 semanas e "lulas bebês no espaço" foi REPETIDO: 20/10 e 07/11). ANTES de escolher o tema, leia o HISTORICO.md INTEIRO e procure o animal/assunto pelo nome: se já saiu, é PROIBIDO, mesmo com outro título.
 - (05/11/2026, o Thiago achou repetitivo e ruim) PROIBIDO por 30 dias o tipo "algo está SUMINDO / SECANDO / RECUANDO / DERRETENDO" (geleira, lago, rio, gelo, mudança do clima). Foram 4 seguidos. Volte ao que dava ~1.000 views: "parece mentira mas é real" com imagem impressionante — animal com comportamento absurdo, criatura do fundo do mar, fenômeno raro filmado (raio, explosão, vulcão), corpo humano surpreendente.
 - UM VÍDEO POR EXECUÇÃO: antes do push, confira que a pasta publicar/ tem EXATAMENTE 1 .mp4 e 1 .json (em 04/11 foram 2 vídeos iguais de uma vez). Se tiver sobra de execução anterior, apague antes do commit.
 - O histórico de assuntos é o HISTORICO.md (não só o feed do YouTube): vídeo que sumiu do feed foi APAGADO pelo Thiago, não está liberado para refazer.
