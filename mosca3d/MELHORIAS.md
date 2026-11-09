@@ -19,3 +19,15 @@ Teste 1: mosca (1min37). Thiago: "ficou muito bom, qualidade ótima, mas pode me
 ## Técnica (para não demorar de novo)
 - O render realista (Cycles) no GitHub levou ~7 h. Próximos: usar EEVEE no PC do Thiago com placa de vídeo (20-40 min) ou cenas mais leves no GitHub (menos desfoque/samples, 720p).
 - Modelo da mosca: "housefly rigged" (Casuallboy55, CC BY) — crédito na descrição.
+
+## Análise do vídeo da barata do @CriamosAssim x o nosso (09/11/2026) — Thiago não gostou da nossa barata v1
+Medido: o deles tem ~46 cortes em 2min26 (1 a cada ~3 s); o nosso teve 4 em 1min32.
+O que eles fazem e o nosso não fez:
+- Troca de plano a cada frase (às vezes 2 por frase): close, plano aberto, de cima, de baixo, por dentro do corpo.
+- Cenário muda: floresta de 300 milhões de anos, cozinha, fresta do azulejo, rua à noite, embaixo do pé.
+- Letra/infográfico em quase todo plano: "300 MILHÕES DE ANOS", calendário "1 DIA", relógio 03:12, velocímetro 100/300 KM/H, "0,014 s", régua "3 MM / 2 CM", "363x / 900x O SEU PESO", etiquetas "• LUZ ACESA", "• ÚNICA SAÍDA", "• PISÃO", "• COAGULOU", setas vermelhas/laranjas.
+- Humano aparece de corpo inteiro e com reação (susto, mão na cabeça); humano correndo na rua com velocímetro pra comparar velocidade.
+- Mostra o mecanismo: pelos do cerco em macro com linhas de vento, corpo achatando com placas coloridas, corte do corpo por dentro, multidão de baratas empilhadas pra mostrar peso.
+- A barata sempre se desloca de verdade no quadro (migalhas e chão passando).
+Erros da nossa v1 (apontados pelo Thiago): chinelo/cavalo mal enquadrado; barata "patinando" (patas rápidas, corpo parado); virada na pia lenta demais; ralo: ela não sobe, fica esticada por cima; planos repetidos; não teve o humano correndo ao lado; voz robótica e lenta.
+Regra para a v2: no mínimo 30 planos, 1 infográfico por plano, humano de corpo inteiro em 4+ planos, comparação de velocidade com o cavalo correndo, voz mais natural e ~10% mais rápida.
