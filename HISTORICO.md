@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-09 | Já pensou em como é ser uma MOSCA? 🪰
 - 2026-11-08 | E se você fosse um POLVO? 🐙 3 corações e sangue AZUL
 - 2026-11-08 | A Lua solta água quando chove meteoro
 - 2026-11-07 | A NASA mandou lulas bebês para o espaço
