@@ -1,0 +1,57 @@
+name: Render 3D (barata)
+on:
+  workflow_dispatch:
+    inputs:
+      partes: {description: 'quantas partes em paralelo', default: '20'}
+      so: {description: 'renderizar só estas partes (ex: 1,2,5) — vazio = todas', default: ''}
+      rapido: {description: '1 = render mais rápido', default: '0'}
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        parte: [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.13'}
+      - run: pip install -q bpy==5.2.3
+      - name: Render
+        env:
+          RAPIDO: ${{ inputs.rapido }}
+          SO: ${{ inputs.so }}
+        run: |
+          if [ -n "$SO" ] && ! echo ",$SO," | grep -q ",${{ matrix.parte }},"; then echo pulando; mkdir -p frames; tar cf ../parte_${{ matrix.parte }}.tar frames; exit 0; fi
+          cd barata3d
+          TOT=$(python3 -c "import json;print(json.load(open('shots.json'))['total'])")
+          N=20; P=${{ matrix.parte }}
+          A=$(( P * (TOT + 1) / N )); B=$(( (P + 1) * (TOT + 1) / N - 1 ))
+          echo "frames $A-$B"
+          python3 cena.py shots.json $A $B frames 2>&1 | grep -vE "^Fra:|INFO" | tail -5
+          tar cf ../parte_$P.tar frames
+      - uses: actions/upload-artifact@v4
+        with:
+          name: parte_${{ matrix.parte }}
+          path: parte_${{ matrix.parte }}.tar
+          retention-days: 3
+  juntar:
+    needs: render
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        with: {path: partes}
+      - name: Juntar e publicar no release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p frames && for t in partes/*/*.tar; do tar xf $t; done
+          ls frames | wc -l
+          ffmpeg -v error -y -framerate 24 -pattern_type glob -i 'frames/*.jpg' -c:v libx264 -crf 15 -pix_fmt yuv420p barata3d_silencioso.mp4
+          gh release view barata3d >/dev/null 2>&1 || gh release create barata3d -t "Render 3D (teste)" -n "renders do teste 3D" --prerelease
+          gh release upload barata3d barata3d_silencioso.mp4 --clobber
