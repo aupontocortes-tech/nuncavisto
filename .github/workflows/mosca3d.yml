@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
     inputs:
       partes: {description: 'quantas partes em paralelo', default: '20'}
+      so: {description: 'renderizar só estas partes (ex: 1,2,5) — vazio = todas', default: ''}
+      rapido: {description: '1 = render mais rápido', default: '0'}
 permissions:
   contents: write
 jobs:
@@ -20,7 +22,11 @@ jobs:
         with: {python-version: '3.13'}
       - run: pip install -q bpy==5.2.3
       - name: Render
+        env:
+          RAPIDO: ${{ inputs.rapido }}
+          SO: ${{ inputs.so }}
         run: |
+          if [ -n "$SO" ] && ! echo ",$SO," | grep -q ",${{ matrix.parte }},"; then echo pulando; mkdir -p frames; tar cf ../parte_${{ matrix.parte }}.tar frames; exit 0; fi
           cd mosca3d
           TOT=$(python3 -c "import json;print(json.load(open('shots.json'))['total'])")
           N=20; P=${{ matrix.parte }}

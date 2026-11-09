@@ -326,8 +326,9 @@ bpy.app.handlers.frame_change_pre.append(handler)
 
 # ---------------- render ----------------
 sc.render.engine = 'CYCLES'; sc.cycles.device = 'CPU'; sc.render.threads_mode = 'AUTO'
-sc.cycles.samples = 8 if PREVIEW else 32; sc.cycles.use_denoising = True
-sc.cycles.max_bounces = 6; sc.cycles.transmission_bounces = 6
+RAPIDO = os.environ.get('RAPIDO') == '1'
+sc.cycles.samples = 8 if PREVIEW else (12 if RAPIDO else 32); sc.cycles.use_denoising = True
+sc.cycles.max_bounces = 3 if RAPIDO else 6; sc.cycles.transmission_bounces = 4 if RAPIDO else 6
 sc.render.resolution_x = 360 if PREVIEW else 900; sc.render.resolution_y = 640 if PREVIEW else 1600
 sc.render.resolution_percentage = 100
 sc.render.image_settings.file_format = 'JPEG'; sc.render.image_settings.quality = 92
