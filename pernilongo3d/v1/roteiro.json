@@ -1,0 +1,349 @@
+{
+"linhas": [
+{
+"t": "Pernilongo.",
+"shot": "abre",
+"r": "+0%",
+"p": "-4Hz",
+"g": 0.45,
+"info": {
+"tipo": "big",
+"txt": "PERNILONGO"
+}
+},
+{
+"t": "Sabe aquele zumbido no ouvido, bem na hora de dormir?",
+"shot": "zumbe",
+"r": "+12%",
+"p": "+6Hz",
+"g": 0.2
+},
+{
+"t": "Então... agora o pernilongo é você.",
+"shot": "voce",
+"r": "+8%",
+"p": "-2Hz",
+"g": 0.4
+},
+{
+"t": "Três da manhã. Tá tudo escuro.",
+"shot": "hora",
+"r": "+0%",
+"p": "-6Hz",
+"g": 0.3,
+"info": {
+"tipo": "big",
+"txt": "03:00"
+}
+},
+{
+"t": "Lá do outro lado do quarto, tem alguém dormindo.",
+"shot": "cama_longe",
+"r": "+10%",
+"p": "+0Hz",
+"g": 0.2,
+"info": {
+"tipo": "label",
+"txt": "ALVO"
+}
+},
+{
+"t": "E cada vez que ele respira... sai gás carbônico.",
+"shot": "bafo",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.2,
+"info": {
+"tipo": "label",
+"txt": "GÁS CARBÔNICO"
+}
+},
+{
+"t": "Você sente isso de mais de dez metros!",
+"shot": "dez",
+"r": "+8%",
+"p": "+8Hz",
+"g": 0.3,
+"info": {
+"tipo": "big",
+"txt": "+10 m"
+}
+},
+{
+"t": "Chegou perto? O calor da pele dele brilha pra você.",
+"shot": "termica",
+"r": "+10%",
+"p": "+4Hz",
+"g": 0.35,
+"info": {
+"tipo": "titulo",
+"txt": "VISÃO DE CALOR"
+}
+},
+{
+"t": "Só que... peraí. Tem duas pessoas na cama.",
+"shot": "duas",
+"r": "+6%",
+"p": "+6Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "QUEM VOCÊ ESCOLHE?"
+}
+},
+{
+"t": "Todo mundo acha que você escolhe pelo tipo de sangue, né?",
+"shot": "sangue",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.2,
+"info": {
+"tipo": "label",
+"txt": "TIPO SANGUÍNEO?"
+}
+},
+{
+"t": "Nada disso. O que manda é o cheiro da pele.",
+"shot": "cheiro",
+"r": "+8%",
+"p": "-2Hz",
+"g": 0.3,
+"info": {
+"tipo": "big",
+"txt": "O CHEIRO"
+}
+},
+{
+"t": "Tem uns ácidos na pele que têm cheiro de queijo.",
+"shot": "queijo",
+"r": "+12%",
+"p": "+4Hz",
+"g": 0.2,
+"info": {
+"tipo": "label",
+"txt": "ÁCIDOS DA PELE"
+}
+},
+{
+"t": "E quem tem mais... vira ímã de pernilongo!",
+"shot": "ima",
+"r": "+10%",
+"p": "+6Hz",
+"g": 0.25,
+"info": {
+"tipo": "titulo",
+"txt": "ÍMÃ DE PERNILONGO"
+}
+},
+{
+"t": "E hoje? O ímã é ele.",
+"shot": "escolhe",
+"r": "+4%",
+"p": "-4Hz",
+"g": 0.35
+},
+{
+"t": "Ah, e só a fêmea pica, tá? Ela precisa do sangue pra fazer os ovos.",
+"shot": "femea",
+"r": "+12%",
+"p": "+4Hz",
+"g": 0.25,
+"info": {
+"tipo": "label",
+"txt": "SÓ A FÊMEA"
+}
+},
+{
+"t": "Suas asas batem centenas de vezes por segundo...",
+"shot": "asas",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.15,
+"info": {
+"tipo": "big",
+"txt": "+300x",
+"sub": "POR SEGUNDO"
+}
+},
+{
+"t": "É daí que vem o zumbido.",
+"shot": "zumbido",
+"r": "+8%",
+"p": "+0Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "ZUMBIDO"
+}
+},
+{
+"t": "Ele acorda... e lá vem a mão.",
+"shot": "mao",
+"r": "+8%",
+"p": "+4Hz",
+"g": 0.1
+},
+{
+"t": "Pá!",
+"shot": "tapa",
+"r": "+0%",
+"p": "+8Hz",
+"g": 0.35,
+"info": {
+"tipo": "big",
+"txt": "PÁ!"
+}
+},
+{
+"t": "Errou! O vento da mão te joga pro lado.",
+"shot": "errou",
+"r": "+12%",
+"p": "+6Hz",
+"g": 0.35,
+"info": {
+"tipo": "label",
+"txt": "ERROU"
+}
+},
+{
+"t": "Ele dorme de novo. E você pousa no braço dele.",
+"shot": "pousa",
+"r": "+8%",
+"p": "+0Hz",
+"g": 0.25
+},
+{
+"t": "Seu ferrão não é uma agulha, não... são seis!",
+"shot": "seis",
+"r": "+10%",
+"p": "+4Hz",
+"g": 0.25,
+"info": {
+"tipo": "big",
+"txt": "6 AGULHAS"
+}
+},
+{
+"t": "Duas serram a pele, duas seguram aberto.",
+"shot": "serra",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.15,
+"info": {
+"tipo": "label",
+"txt": "SERRA"
+}
+},
+{
+"t": "Uma solta saliva, e a outra suga.",
+"shot": "suga",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.25,
+"info": {
+"tipo": "label",
+"txt": "SALIVA + CANUDO"
+}
+},
+{
+"t": "E você bebe até duas vezes o seu peso!",
+"shot": "peso",
+"r": "+8%",
+"p": "+6Hz",
+"g": 0.15,
+"info": {
+"tipo": "big",
+"txt": "2x",
+"sub": "O SEU PESO"
+}
+},
+{
+"t": "É tipo você tomar uma banheira inteira.",
+"shot": "banheira",
+"r": "+12%",
+"p": "+4Hz",
+"g": 0.3
+},
+{
+"t": "E a coceira? É o corpo dele reagindo à sua saliva.",
+"shot": "coceira",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "COCEIRA"
+}
+},
+{
+"t": "Cheia, você vai se esconder atrás do guarda-roupa.",
+"shot": "esconde",
+"r": "+8%",
+"p": "+0Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "ESCONDIDO"
+}
+},
+{
+"t": "E se chover?",
+"shot": "chuva",
+"r": "+10%",
+"p": "+6Hz",
+"g": 0.2
+},
+{
+"t": "Uma gota pesa até cinquenta vezes mais que você.",
+"shot": "gota",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.15,
+"info": {
+"tipo": "big",
+"txt": "50x",
+"sub": "MAIS PESADA"
+}
+},
+{
+"t": "Mas você não quebra. Pega carona nela... e se solta no ar.",
+"shot": "carona",
+"r": "+10%",
+"p": "+4Hz",
+"g": 0.35,
+"info": {
+"tipo": "titulo",
+"txt": "CARONA NA GOTA"
+}
+},
+{
+"t": "De manhã, ele acorda todo picado.",
+"shot": "manha",
+"r": "+6%",
+"p": "-2Hz",
+"g": 0.2
+},
+{
+"t": "E ela? Nenhuma picada.",
+"shot": "anjo",
+"r": "+10%",
+"p": "+6Hz",
+"g": 0.4,
+"info": {
+"tipo": "label",
+"txt": "0 PICADAS"
+}
+},
+{
+"t": "Você é um pernilongo.",
+"shot": "final",
+"r": "+0%",
+"p": "-6Hz",
+"g": 0.6,
+"info": {
+"tipo": "big",
+"txt": "PERNILONGO"
+}
+}
+]
+}
