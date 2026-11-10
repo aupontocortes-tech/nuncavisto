@@ -31,3 +31,10 @@ O que eles fazem e o nosso não fez:
 - A barata sempre se desloca de verdade no quadro (migalhas e chão passando).
 Erros da nossa v1 (apontados pelo Thiago): chinelo/cavalo mal enquadrado; barata "patinando" (patas rápidas, corpo parado); virada na pia lenta demais; ralo: ela não sobe, fica esticada por cima; planos repetidos; não teve o humano correndo ao lado; voz robótica e lenta.
 Regra para a v2: no mínimo 30 planos, 1 infográfico por plano, humano de corpo inteiro em 4+ planos, comparação de velocidade com o cavalo correndo, voz mais natural e ~10% mais rápida.
+
+## PADRÃO APROVADO (barata v2, 10/11/2026) — Thiago: "quero que os outros vídeos sejam igual a esse ou melhor"
+- Referência: barata3d/v2 (cena2.py = head.py + shots_def.py + tail.py, compor.py).
+- Uma cena por frase (41 cortes em 83 s), texto/infográfico em quase toda cena, legenda palavra a palavra.
+- Voz Antonio conversada (rate/pitch por frase), sem cara de leitura.
+- Fluxo: teste de voz → storyboard com todas as cenas pra aprovação → render no GitHub (20 partes, ~1h30) → montagem.
+- Interpolação LINEAR dentro da cena (câmera acompanha o bicho), câmera nunca dentro de móveis.
