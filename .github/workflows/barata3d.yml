@@ -35,7 +35,7 @@ jobs:
           A=$(( P * (TOT + 1) / N )); B=$(( (P + 1) * (TOT + 1) / N - 1 ))
           echo "frames $A-$B"
           python3 ${{ inputs.cena }} shots.json $A $B frames 2>&1 | grep -vE "^Fra:|INFO" | tail -5
-          tar cf ../parte_$P.tar frames
+          tar cf $GITHUB_WORKSPACE/parte_$P.tar frames
       - uses: actions/upload-artifact@v4
         with:
           name: parte_${{ matrix.parte }}
