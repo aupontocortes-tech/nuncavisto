@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-11 | Já pensou em como é ser um PERNILONGO? 🦟
 - 2026-11-10 | Já pensou em como é ser uma BARATA? 🪳
 - 2026-11-09 | Já pensou em como é ser uma MOSCA? 🪰
 - 2026-11-08 | E se você fosse um POLVO? 🐙 3 corações e sangue AZUL
