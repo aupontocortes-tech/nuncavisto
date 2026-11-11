@@ -1,0 +1,224 @@
+{
+"linhas": [
+{
+"t": "Você derrubou o maior exército da Europa... sem dar um único tiro.",
+"shot": "abre",
+"r": "+6%",
+"p": "-2Hz",
+"g": 0.4,
+"info": {
+"tipo": "big",
+"txt": "500 MIL",
+"sub": "SOLDADOS"
+}
+},
+{
+"t": "Você é um piolho.",
+"shot": "piolho",
+"r": "+0%",
+"p": "-6Hz",
+"g": 0.45,
+"info": {
+"tipo": "big",
+"txt": "PIOLHO"
+}
+},
+{
+"t": "Mil oitocentos e doze. Napoleão entra na Rússia com mais de meio milhão de homens.",
+"shot": "marcha",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.25,
+"info": {
+"tipo": "big",
+"txt": "1812"
+}
+},
+{
+"t": "Sem banho, roupa sem trocar por semanas, todo mundo dormindo grudado...",
+"shot": "sujeira",
+"r": "+12%",
+"p": "+4Hz",
+"g": 0.2
+},
+{
+"t": "Pra você, isso é o paraíso!",
+"shot": "paraiso",
+"r": "+8%",
+"p": "+8Hz",
+"g": 0.3,
+"info": {
+"tipo": "titulo",
+"txt": "PARAÍSO DO PIOLHO"
+}
+},
+{
+"t": "Você vai pulando de soldado em soldado... e leva junto uma bactéria.",
+"shot": "pula",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.2
+},
+{
+"t": "O tifo.",
+"shot": "tifo",
+"r": "+0%",
+"p": "-4Hz",
+"g": 0.35,
+"info": {
+"tipo": "big",
+"txt": "TIFO"
+}
+},
+{
+"t": "E o truque é nojento: você nem injeta a doença. Ela sai no seu cocô!",
+"shot": "coco",
+"r": "+12%",
+"p": "+6Hz",
+"g": 0.25,
+"info": {
+"tipo": "label",
+"txt": "ARMA SECRETA"
+}
+},
+{
+"t": "O soldado coça a mordida... e esfrega a bactéria pra dentro da própria pele.",
+"shot": "coca",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "AUTOGOL"
+}
+},
+{
+"t": "Febre, delírio, manchas pelo corpo. Os soldados vão caindo pela estrada.",
+"shot": "febre",
+"r": "+10%",
+"p": "+0Hz",
+"g": 0.3,
+"info": {
+"tipo": "titulo",
+"txt": "GENERAL TIFO"
+}
+},
+{
+"t": "Quando Napoleão chega em Moscou, sobraram uns noventa mil.",
+"shot": "moscou",
+"r": "+10%",
+"p": "+0Hz",
+"g": 0.2,
+"info": {
+"tipo": "big",
+"txt": "90 MIL"
+}
+},
+{
+"t": "E a cidade tá vazia... pegando fogo.",
+"shot": "fogo",
+"r": "+6%",
+"p": "-2Hz",
+"g": 0.3
+},
+{
+"t": "Aí começa a volta pra casa. No inverno.",
+"shot": "volta",
+"r": "+8%",
+"p": "-2Hz",
+"g": 0.25,
+"info": {
+"tipo": "label",
+"txt": "RETIRADA"
+}
+},
+{
+"t": "Frio, fome... e você, cada vez mais forte.",
+"shot": "combo",
+"r": "+8%",
+"p": "+2Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "COMBO MORTAL"
+}
+},
+{
+"t": "Só alguns milhares saem vivos da Rússia.",
+"shot": "poucos",
+"r": "+6%",
+"p": "-4Hz",
+"g": 0.35,
+"info": {
+"tipo": "label",
+"txt": "POUCOS MIL"
+}
+},
+{
+"t": "E por quase duzentos anos, a culpa foi do inverno.",
+"shot": "culpa",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "CULPA DO INVERNO?"
+}
+},
+{
+"t": "Até que, em dois mil e um, acharam uma vala com soldados de Napoleão, na Lituânia.",
+"shot": "vala",
+"r": "+10%",
+"p": "+0Hz",
+"g": 0.25,
+"info": {
+"tipo": "big",
+"txt": "2001"
+}
+},
+{
+"t": "No meio dos ossos... pedaços de piolho, com o DNA das doenças.",
+"shot": "prova",
+"r": "+8%",
+"p": "+2Hz",
+"g": 0.35,
+"info": {
+"tipo": "titulo",
+"txt": "A PROVA"
+}
+},
+{
+"t": "Ah, e o detalhe mais irônico: o tifo também mata você.",
+"shot": "ironia",
+"r": "+12%",
+"p": "+6Hz",
+"g": 0.3,
+"info": {
+"tipo": "label",
+"txt": "VOCÊ TAMBÉM MORRE"
+}
+},
+{
+"t": "Você derrotou Napoleão... e morreu junto com o exército dele.",
+"shot": "empate",
+"r": "+8%",
+"p": "+0Hz",
+"g": 0.45,
+"info": {
+"tipo": "label",
+"txt": "EMPATE"
+}
+},
+{
+"t": "Você é o piolho.",
+"shot": "final",
+"r": "+0%",
+"p": "-6Hz",
+"g": 0.6,
+"info": {
+"tipo": "big",
+"txt": "PIOLHO"
+}
+}
+]
+}
