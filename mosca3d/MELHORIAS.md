@@ -38,3 +38,8 @@ Regra para a v2: no mínimo 30 planos, 1 infográfico por plano, humano de corpo
 - Voz Antonio conversada (rate/pitch por frase), sem cara de leitura.
 - Fluxo: teste de voz → storyboard com todas as cenas pra aprovação → render no GitHub (20 partes, ~1h30) → montagem.
 - Interpolação LINEAR dentro da cena (câmera acompanha o bicho), câmera nunca dentro de móveis.
+
+## Piolho de Napoleão (11/11/2026) — feedback do Thiago: "gráfico dava pra melhorar", "roupa do Napoleão ficou ruim"
+- Personagens históricos: não improvisar roupa por cima do boneco de moletom. Buscar modelo pronto (Sketchfab CC0/CC BY) com a roupa da época, ou pelo menos casaco longo com gola, abas e botões.
+- Cenários: chão e céu com mais textura/detalhe (céu com gradiente/nuvens, neblina), menos cor chapada.
+- Sets diferentes não podem aparecer no fundo uns dos outros (Moscou apareceu atrás da cena da pele).
