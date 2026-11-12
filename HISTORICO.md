@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-12 | Essas formigas fazem ponte com o próprio corpo
 - 2026-11-12 | Esse vulcão abriu uma mangueira de lava no mar
 - 2026-11-12 | Essas tartarugas travaram de frio e voltaram de avião
 - 2026-11-11 | Essa água passa de 350 graus e não ferve
