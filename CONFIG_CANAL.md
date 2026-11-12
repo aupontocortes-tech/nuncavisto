@@ -76,6 +76,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - pinguim-imperador que mergulha mais de 500 m e baixa o coração a ~6 batidas/min (Jessica Meir, NASA JSC, 2026-11-06)
 - tsunami de Kamchatka detectado pelo céu (GUARDIAN, NASA SVS 5625; SWOT, 2026-11-06)
 - lulas-do-Havaí bebês na ISS, experimento UMAMI (NASA, CRS-22, 2026-11-07)
+- formigas-de-correição que fazem ponte viva com o corpo (Eciton burchellii, Garnier et al. 2013 PLOS, 2026-11-12)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
