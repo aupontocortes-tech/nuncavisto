@@ -84,6 +84,9 @@ Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA li
 - Tema: animais que vivem muito / idade / longevidade → "Esse tubarão pode ter 400 anos (e não é o mais velho)" → https://youtu.be/WK_EoSqI-XM
 
 ## EVITAR
+- (12/11/2026, o Thiago reclamou de NOVO) Três vídeos seguidos de ÁGUA/MAR ("água a 350 graus", "tartarugas travadas de frio", "vulcão com mangueira de lava no mar") = repetitivo e quase sem views (6 a 68). PROIBIDO por 30 dias: mar, oceano, água, vulcão submarino, lava no mar, fonte termal, tartaruga marinha.
+- (12/11/2026) FILTRO "INÉDITO" OBRIGATÓRIO: só passa animal ou fenômeno que uma pessoa comum NUNCA viu e NUNCA ouviu falar. Prefira: espécies descobertas nos últimos anos, bicho bizarro FILMADO fazendo algo que parece mentira, fenômeno raro registrado em vídeo. Se o assunto é conhecido (já virou meme, aparece em todo canal de curiosidade, é matéria de escola), DESCARTE e escolha outro.
+- (12/11/2026) FINAL SEM PERGUNTA BESTA: PROIBIDO terminar com "Você sabia?", "O que você acha?", "Você teria coragem?", "Comenta aí" ou qualquer pergunta. Vale MAIS que a regra do prompt sobre a última cena: a última cena (cta:true) narra o fato MAIS chocante/a virada do vídeo, em frase curta e forte. Pode, no máximo, completar com "Segue o canal pra ver o que você nunca viu." Na descrição do YouTube também não ponha pergunta.
 - (12/11/2026, o Thiago reclamou: "só espaço e mar, nada da Terra") NOVO RODÍZIO, vale MAIS que o rodízio do prompt: Animais -> Terra -> Corpo Humano -> Animais -> Terra -> Oceano/Espaço (um OU outro) -> repete. ESPAÇO no máximo 1 vídeo a cada 6 e OCEANO no máximo 1 a cada 6. Motivo (views): bicho e Terra deram ~1.000 (pinguim 966, cratera sob o gelo 1.053, lulas 1.007, mosca/barata/pernilongo 900-1.100); espaço deu 86-215.
   * TERRA = coisas do planeta que a pessoa nunca viu: fenômenos (raio vulcânico, nuvem estranha, deserto que floresce, cristais gigantes, cavernas, terremoto filmado, areia que canta), lugares absurdos. ANIMAIS = bicho com comportamento que parece mentira, de preferência que o brasileiro conhece (tatu, capivara, formiga, urubu, sapo, tamanduá) ou bicho bizarro filmado.
 - (07/11/2026) LULA PROIBIDA por 30 dias (saíram 3 de lula em 3 semanas e "lulas bebês no espaço" foi REPETIDO: 20/10 e 07/11). ANTES de escolher o tema, leia o HISTORICO.md INTEIRO e procure o animal/assunto pelo nome: se já saiu, é PROIBIDO, mesmo com outro título.
@@ -100,6 +103,5 @@ Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA li
 - Final bagunçado: as 2 últimas cenas precisam de imagem clara e inteira (nada de tela quase preta, imagem cortada no canto, quadro todo vermelho/branco de sinal perdido, ou legenda em inglês queimada embaixo). Se não tiver imagem boa pro final, termine na imagem mais forte do vídeo.
 - Números mal explicados (ex.: '33 minutos mais rápido' em vez de 'a volta ficou 33 minutos mais curta'): fale do jeito que uma pessoa leiga entende na hora.
 - Mesmo personagem/lugar/bicho de um vídeo dos últimos 15 dias (astronauta, polvo, Marte, Lua...)
-- Terminar SEMPRE sem chamada: em mais ou menos metade dos vídeos (alternando), a última cena narra a pergunta e logo depois "Segue o canal pra ver o que você nunca viu."
 
 ## PAUSAS
