@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-12 | Essas tartarugas travaram de frio e voltaram de avião
 - 2026-11-11 | Essa água passa de 350 graus e não ferve
 - 2026-11-11 | Você é o PIOLHO que derrotou Napoleão 🪖
 - 2026-11-11 | Já pensou em como é ser um PERNILONGO? 🦟
