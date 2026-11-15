@@ -1,0 +1,405 @@
+{
+"linhas": [
+{
+"t": "Você pesa até duas toneladas.",
+"shot": "abre",
+"r": "+4%",
+"p": "-4Hz",
+"g": 0.3,
+"info": {
+"tipo": "big",
+"txt": "2 TONELADAS",
+"sub": "OS MAIORES ADULTOS"
+}
+},
+{
+"t": "E é maior que um carro.",
+"shot": "regua",
+"r": "+8%",
+"p": "+2Hz",
+"g": 0.3,
+"info": {
+"tipo": "big",
+"txt": "ATÉ 6 m"
+}
+},
+{
+"t": "Você é um tubarão-branco.",
+"shot": "nome",
+"r": "+0%",
+"p": "-6Hz",
+"g": 0.45,
+"info": {
+"tipo": "big",
+"txt": "TUBARÃO-BRANCO"
+}
+},
+{
+"t": "E vive com uma regra cruel: nunca pode parar de nadar.",
+"shot": "regra",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.3,
+"info": {
+"tipo": "titulo",
+"txt": "NUNCA PARE"
+}
+},
+{
+"t": "Peixe comum tem uma bexiga de ar pra boiar.",
+"shot": "bexiga",
+"r": "+12%",
+"p": "+4Hz",
+"g": 0.2,
+"etq": [
+{
+"txt": "BEXIGA DE AR",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Você não tem.",
+"shot": "sem",
+"r": "+4%",
+"p": "-4Hz",
+"g": 0.3,
+"etq": [
+{
+"txt": "SEM BEXIGA",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "No lugar, tem um fígado gigante, cheio de óleo.",
+"shot": "figado",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.2,
+"info": {
+"tipo": "big",
+"txt": "25%",
+"sub": "DO SEU PESO É FÍGADO"
+},
+"etq": [
+{
+"txt": "ÓLEO: MAIS LEVE QUE A ÁGUA",
+"x": 0.5,
+"y": 0.73
+}
+]
+},
+{
+"t": "Parou? Afunda. E sem água passando na guelra, sufoca.",
+"shot": "afunda",
+"r": "+12%",
+"p": "+4Hz",
+"g": 0.4,
+"etq": [
+{
+"txt": "AFUNDANDO",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Agora olha a sua pele de perto.",
+"shot": "pele1",
+"r": "+10%",
+"p": "+4Hz",
+"g": 0.2,
+"info": {
+"tipo": "titulo",
+"txt": "ZOOM NA PELE"
+}
+},
+{
+"t": "Não é escama. São milhões de dentinhos, deitados pra trás.",
+"shot": "pele2",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.25,
+"etq": [
+{
+"txt": "DENTÍCULOS",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "A água desliza neles, e você nada rápido e em silêncio.",
+"shot": "pele3",
+"r": "+12%",
+"p": "+2Hz",
+"g": 0.35,
+"info": {
+"tipo": "titulo",
+"txt": "SILENCIADOR"
+},
+"etq": [
+{
+"txt": "ÁGUA DESLIZA",
+"x": 0.5,
+"y": 0.73
+}
+]
+},
+{
+"t": "Dizem que você caça pelo cheiro de sangue.",
+"shot": "mito",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.2,
+"info": {
+"tipo": "riscado",
+"txt": "CHEIRO DE SANGUE"
+}
+},
+{
+"t": "Mas o seu truque de verdade é mais estranho.",
+"shot": "poros",
+"r": "+10%",
+"p": "+0Hz",
+"g": 0.2,
+"etq": [
+{
+"txt": "POROS COM GEL",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Os poros do seu focinho sentem eletricidade.",
+"shot": "eletr",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.2,
+"info": {
+"tipo": "titulo",
+"txt": "SENTIDO ELÉTRICO"
+}
+},
+{
+"t": "Você acha um peixe escondido na areia só pelo coração dele batendo.",
+"shot": "coracao",
+"r": "+12%",
+"p": "+4Hz",
+"g": 0.4,
+"etq": [
+{
+"txt": "PEIXE ESCONDIDO",
+"x": 0.5,
+"y": 0.73
+},
+{
+"txt": "CAMPO ELÉTRICO",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Na hora de morder, sua boca é uma esteira rolante.",
+"shot": "boca",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.2,
+"info": {
+"tipo": "titulo",
+"txt": "ESTEIRA DE DENTES"
+},
+"etq": [
+{
+"txt": "FILEIRAS DE RESERVA",
+"x": 0.5,
+"y": 0.73
+}
+]
+},
+{
+"t": "Quebrou um dente?",
+"shot": "quebrou",
+"r": "+6%",
+"p": "+6Hz",
+"g": 0.15,
+"etq": [
+{
+"txt": "QUEBROU",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "O de trás desliza pro lugar.",
+"shot": "novo",
+"r": "+8%",
+"p": "+0Hz",
+"g": 0.25,
+"etq": [
+{
+"txt": "DENTE NOVO",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "São milhares de dentes numa vida só.",
+"shot": "milhares",
+"r": "+8%",
+"p": "+2Hz",
+"g": 0.4,
+"info": {
+"tipo": "big",
+"txt": "MILHARES",
+"sub": "DE DENTES NA VIDA"
+}
+},
+{
+"t": "E no instante da mordida...",
+"shot": "lenta",
+"r": "+4%",
+"p": "-2Hz",
+"g": 0.2,
+"etq": [
+{
+"txt": "CÂMERA LENTA",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Seu olho gira pra trás, pra não ser furado.",
+"shot": "olho",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.3,
+"info": {
+"tipo": "titulo",
+"txt": "ESCUDO DO OLHO"
+},
+"etq": [
+{
+"txt": "OLHO PROTEGIDO",
+"x": 0.5,
+"y": 0.73
+}
+]
+},
+{
+"t": "E a sua mandíbula de cima salta pra fora da boca.",
+"shot": "mandibula",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.4,
+"etq": [
+{
+"txt": "MANDÍBULA SALTA",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Só que essa máquina tem um ponto fraco.",
+"shot": "fraco",
+"r": "+8%",
+"p": "-2Hz",
+"g": 0.3,
+"info": {
+"tipo": "titulo",
+"txt": "PONTO FRACO"
+}
+},
+{
+"t": "Se alguém te vira de barriga pra cima, você apaga.",
+"shot": "vira",
+"r": "+10%",
+"p": "+2Hz",
+"g": 0.25,
+"etq": [
+{
+"txt": "DE BARRIGA PRA CIMA",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Fica paralisado, como se desligassem você.",
+"shot": "apaga",
+"r": "+8%",
+"p": "-2Hz",
+"g": 0.3,
+"info": {
+"tipo": "titulo",
+"txt": "BOTÃO DE DESLIGAR"
+},
+"etq": [
+{
+"txt": "PARALISADO",
+"x": 0.5,
+"y": 0.73
+}
+]
+},
+{
+"t": "E tem um bicho que aprendeu esse truque: a orca.",
+"shot": "orca",
+"r": "+10%",
+"p": "+4Hz",
+"g": 0.4,
+"etq": [
+{
+"txt": "ORCA",
+"x": 0.5,
+"y": 0.29
+}
+]
+},
+{
+"t": "Mesmo assim, o mar precisa de você.",
+"shot": "mar",
+"r": "+6%",
+"p": "-2Hz",
+"g": 0.25
+},
+{
+"t": "Sem você no topo, a cadeia inteira desaba.",
+"shot": "cadeia",
+"r": "+10%",
+"p": "+0Hz",
+"g": 0.4,
+"info": {
+"tipo": "titulo",
+"txt": "ZELADOR DO OCEANO"
+},
+"etq": [
+{
+"txt": "COLAPSO",
+"x": 0.5,
+"y": 0.73
+}
+]
+},
+{
+"t": "Você é um tubarão-branco.",
+"shot": "final",
+"r": "+0%",
+"p": "-6Hz",
+"g": 0.5,
+"info": {
+"tipo": "big",
+"txt": "TUBARÃO-BRANCO"
+}
+}
+]
+}
