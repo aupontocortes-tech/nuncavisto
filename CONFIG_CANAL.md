@@ -107,3 +107,4 @@ Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA li
 - Mesmo personagem/lugar/bicho de um vídeo dos últimos 15 dias (astronauta, polvo, Marte, Lua...)
 
 ## PAUSAS
+- 18h
