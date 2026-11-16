@@ -82,6 +82,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - tetraz greater sage-grouse que infla bolsas de ar no peito na dança de acasalamento (lek, BLM/USFWS, 2026-11-15)
 - cigarras periódicas de 17 anos (Magicicada, Brood X; dupla emergência 2024 XIII+XIX, 1ª desde 1803; vídeos NPS, 2026-11-16)
 - colapso da cratera do Kīlauea em 2018 (62 desabamentos de magnitude 5, Halemaʻumaʻu de 85 m para ~500 m de fundo, 2,5 km de largura; vídeos USGS HVO, 2026-11-16)
+- mais da metade dos ossos estão nas mãos e nos pés (27 por mão, 26 por pé = 106 de 206; filme de raio-X em movimento, Oxford 1945, Wellcome Collection, 2026-11-16)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
