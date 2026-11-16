@@ -80,6 +80,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - megarraio de 829 km, o raio mais longo já registrado (Texas–Kansas City, 22/10/2017, OMM 2025, NOAA GOES-16, 2026-11-13)
 - tecido de coração humano feito de células-tronco que "envelheceu" após 30 dias na ISS (heart-on-a-chip, PNAS 2024, Johns Hopkins; vídeo NASA CRS-27 EHT, 2026-11-15)
 - tetraz greater sage-grouse que infla bolsas de ar no peito na dança de acasalamento (lek, BLM/USFWS, 2026-11-15)
+- cabelo de Pele: fios de vidro vulcânico que caem do Kīlauea (fontes de lava de até 300 m, USGS HVO, 2026-11-16)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:

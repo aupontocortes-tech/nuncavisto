@@ -123,3 +123,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-06 | A NASA viu um tsunami chegando pelo céu (terremoto 8,8 em Kamchatka, sistema GUARDIAN, NASA SVS 5625)
 - 2026-11-07 | A cratera Hiawatha de 31 km escondida sob o gelo da Groenlândia (NASA SVS 4572)
 - 2026-11-07 | Lulas bebês (Euprymna scolopes) levadas à ISS, experimento UMAMI (NASA, CRS-22)
+- 2026-11-16 | Esse vulcão faz chover fios de vidro (cabelo de Pele, Kīlauea, USGS HVO) [TERRA]
