@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-16 | Esse inseto passou 17 anos enterrado
 - 2026-11-16 | O oceano esquentou? El Niño explicado
 - 2026-11-15 | Esse pássaro infla o peito como um balão
 - 2026-11-15 | Esse coração de laboratório "envelheceu" no espaço
