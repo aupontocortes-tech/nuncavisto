@@ -10,7 +10,7 @@ Não coloque senhas aqui.
 - REVISÃO AUTOMÁTICA OBRIGATÓRIA: depois do render rode "python3 qc.py spec.json out". Só publique se sair APROVADO. Se sair REPROVADO, corrija o que ele listar e renderize de novo (até 3 vezes). O Thiago NÃO revisa os vídeos antes de ir ao ar: o robô é o único filtro.
 - Antes de publicar, leia o roteiro como alguém de 14 anos que nunca ouviu falar do assunto: entendeu tudo de primeira? Se não, reescreva.
 - FINAL: última cena com pergunta que DIVIDE opinião ("Você entraria nesse lago?", "Você teria coragem?") — comentário empurra o vídeo. Quando der, a última frase emenda no gancho (faz assistir de novo).
-- 1º SEGUNDO: a imagem mais impressionante + a frase mais forte. Se a pessoa precisar de 3 segundos para entender o que é, ela já pulou.
+- 1º SEGUNDO (regra do Thiago, 16/11/2026, para reter o público): o vídeo COMEÇA na imagem mais impactante do vídeo inteiro, já na primeira cena, sem logo, sem tela de título, sem fade e sem cena de introdução. A primeira frase falada é a mais forte. Se a pessoa precisar de 3 segundos para entender o que é, ela já pulou. Ao montar o spec.json, a cena 1 é a imagem de maior impacto; o fato que ela mostra pode ser explicado depois, mas a imagem tem que aparecer primeiro.
 
 ## ESPAÇO (atualizado em 03/11/2026)
 A semana só de espaço foi testada e as views caíram (de ~1.000 para 100-350). Voltou o rodízio normal de categorias.
