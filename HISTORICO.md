@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-17 | Essa vespa deixa a tarântula viva para ser comida
 - 2026-11-16 | Mais da metade dos seus ossos estão nas mãos e nos pés
 - 2026-11-16 | A cratera desse vulcão desabou quase todo dia
 - 2026-11-16 | Esse inseto passou 17 anos enterrado
