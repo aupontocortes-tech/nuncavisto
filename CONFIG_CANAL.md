@@ -85,6 +85,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - mais da metade dos ossos estão nas mãos e nos pés (27 por mão, 26 por pé = 106 de 206; filme de raio-X em movimento, Oxford 1945, Wellcome Collection, 2026-11-16)
 - vespa-caçadora-de-tarântulas (Pepsis thisbe): paralisa a tarântula, bota 1 ovo, larva come a aranha viva por semanas (vídeos NPS Grand Canyon, 2026-11-17)
 - rampa do USGS que cria deslizamentos de lama de propósito (debris-flow flume, Oregon, 95 m, até 40 t, ~36 km/h; Armero/Nevado del Ruiz 1985 citado; vídeos USGS OFR 2007-1315, 2026-11-17)
+- neutrófilo (glóbulo branco) caçando e engolindo bactéria; 100 bilhões por dia; redes de DNA (NETs, Brinkmann 2004); vídeo Andrei Savitsky CC BY 4.0, 2026-11-17)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
