@@ -192,16 +192,6 @@ def s_boca(a, b):
     modo(a, 'azul'); kfo(a, b, (0, 0, 0), (0, 0, 0), (0, 0, 0)); ca(a, b, p(2.8, 3.5, 2.2), p(0, 2.8, 1.4), 50, 4)
 def s_respira(a, b):
     modo(a, 'claro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(-4, -2, 3.2), p(0, 1.2, 1.4), 40, 6)
-def s_espiraculo(a, b):
-    modo(a, 'claro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(1.2, 2.2, 3.8), p(0, 2.2, 3.0), 60, 3)
-def s_pulmoes(a, b):
-    modo(a, 'raiox'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -9, 1.2), p(0, 0, 0.5), 35, 8)
-def s_tampa(a, b):
-    modo(a, 'azul'); kfo(a, b, (0, 0, 0)); ca(a, b, p(2.2, 2.6, 2.6), p(0, 2.4, 2.4), 55, 4)
-def s_coracao(a, b):
-    modo(a, 'raiox'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -9, 0.6), p(0, 0, 0.2), 35, 8)
-def s_mioglobina(a, b):
-    modo(a, 'escuro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(-1.5, -4, 0.9), p(0, 0, 0.3), 80, 2.8)
 def s_mergulho(a, b):
     modo(a, 'fundoA'); kfo(a, b, (0, 0, -3.0), (0, 0, 0), (0, 0, -0.5)); ca(a, b, p(6, -5, -1), p(0, 0, -2.6))
 def s_peixe(a, b):
@@ -216,8 +206,6 @@ def s_tecido(a, b):
     modo(a, 'raiox'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0.8, -3, 2.0), p(0, 0, 1.6), 55, 3)
 def s_estabiliza(a, b):
     modo(a, 'azul'); kfo(a, b, (0, 0, 0), (0, 0, 0), (0, 0, R(12))); ca(a, b, p(-6, 3, 1.5), p(0, 0, 0))
-def s_gordura(a, b):
-    modo(a, 'raiox'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -6, 0.5), p(0, 0, 0))
 def s_casaco(a, b):
     modo(a, 'lab'); kfo(a, b, (0, 0, 0)); ca(a, b, p(4, -6, 1.5), p(0, 0, 0))
 def s_dentes(a, b):
@@ -228,6 +216,52 @@ def s_sobe(a, b):
     modo(a, 'claro'); kfo(a, b, (0, 0, 4.0), (0, 0, 0)); ca(a, b, p(4, -6, 2.5), p(0, 0, 4.0))
 def s_final(a, b):
     modo(a, 'azul'); kfo(a, b, (0, 0, -0.5)); ca(a, b, p(7, -16, 0.8), p(0, -2, 0))
+
+# ---------- cortes internos (aproximados; ajustar pela prévia) ----------
+def osso_bola(loc, esc, m):
+    return esf(p(*loc), esc, m, True, 32)
+PULMAO_M = mat('pulmao', (0.9, 0.35, 0.45), 0.5, emis=((1.0, 0.4, 0.5), 2.2))
+CORACAO_M = mat('coracao_o', (1.0, 0.15, 0.2), 0.4, emis=((1.0, 0.1, 0.15), 3.5))
+MUSC_M = mat('mioglob', (1.0, 0.45, 0.1), 0.4, emis=((1.0, 0.4, 0.05), 3.0), alpha=0.85)
+GORD_M = mat('gordura_c', (1.0, 0.92, 0.6), 0.6, emis=((1.0, 0.9, 0.5), 1.2), alpha=0.35)
+ESPI_M = mat('espiraculo_o', (1.0, 0.85, 0.2), 0.4, emis=((1.0, 0.8, 0.1), 4))
+TAMPA_M = mat('tampa_o', (1.0, 0.25, 0.2), 0.4, emis=((1.0, 0.2, 0.1), 3))
+PULM = [esf(p(sx*0.45, 0.8, 0.25), (0.42, 1.3, 0.55), PULMAO_M, True, 24) for sx in (-1, 1)]
+for o in PULM: o.parent = ORCA
+CORA = esf(p(0, 0.2, -0.05), (0.32, 0.36, 0.3), CORACAO_M, True, 20); CORA.parent = ORCA
+ESPI = cone(p(0, 2.7, 1.0), 0.16, 0.12, 0.25, ESPI_M, v=12); ESPI.parent = ORCA
+TAMPA = caixa(p(0, 2.7, 1.2), (0.32, 0.05, 0.32), TAMPA_M); TAMPA.parent = ORCA
+MUSC = esf(p(0, 0, 0), (1.05, 2.8, 0.85), MUSC_M, True, 32); MUSC.parent = ORCA
+GORD = esf(p(0, 0, 0), (1.35, 3.1, 1.1), GORD_M, True, 32); GORD.parent = ORCA
+
+ORGAOS = PULM + [CORA, ESPI, TAMPA, MUSC, GORD]
+for o in ORGAOS: VISIVEL[o] = set()
+CORPO = [o for o in ONOV if o.type == 'MESH']
+INTERNO = []
+def interno(a, b, *objs):
+    INTERNO.append((a, b))
+    for o in objs: mostra(o, a, b)
+def kfinterna(a, b, *objs, mostra_=True):
+    for o in objs: o.hide_render = False
+def s_espiraculo(a, b):
+    interno(a, b, ESPI, TAMPA); modo(a, 'claro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(1.8, 1.5, 3.4), p(0, 2.5, 1.0), 60, 3)
+    kf(TAMPA, a, p(0, 2.7, 1.2), (0, 0, 0)); kf(TAMPA, b, p(0, 2.7, 1.2), (0, 0, 0))
+def s_pulmoes(a, b):
+    interno(a, b, *PULM); modo(a, 'raiox'); kfo(a, b, (0, 0, 0), (0, 0, 0)); ca(a, b, p(0, -9, 1.0), p(0, 0.5, 0.3), 35, 8)
+def s_tampa(a, b):
+    interno(a, b, TAMPA, ESPI); modo(a, 'azul'); kfo(a, b, (0, 0, 0)); ca(a, b, p(2.5, 2.2, 3.0), p(0, 2.6, 1.0), 60, 3)
+    kf(TAMPA, a, p(0, 2.7, 1.2), (R(-70), 0, 0)); kf(TAMPA, b, p(0, 2.7, 1.2), (0, 0, 0))
+def s_coracao(a, b):
+    interno(a, b, CORA, *PULM); modo(a, 'raiox'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -8, 0.6), p(0, 0.2, 0.0), 35, 8)
+    kf(CORA, a, p(0, 0.2, -0.05), (0, 0, 0), esc=(1, 1, 1)); kf(CORA, b, p(0, 0.2, -0.05), (0, 0, 0), esc=(1, 1, 1))
+def s_mioglobina(a, b):
+    modo(a, 'escuro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(-3, -6, 1.2), p(0, 0, 0.1), 60, 3)
+def s_gordura(a, b):
+    modo(a, 'raiox'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -9, 0.5), p(0, 0, 0), 35, 8)
+
+# corpo some só nos cortes internos
+_fora = set(range(0, 1800)) - {f for a, b in INTERNO for f in range(a, b + 1)}
+for o in CORPO: VISIVEL[o] = _fora
 
 FUN = {k[2:]: v for k, v in globals().items() if k.startswith('s_')}
 for s in SHOTS['shots']:
