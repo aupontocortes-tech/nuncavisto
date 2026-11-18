@@ -187,7 +187,7 @@ def kfo(a, b, loc=(0, 0, 0), rot=(0, 0, 0), rot2=None):
 def ca(a, b, cam, alvo, lens=35, fstop=8):
     mira(cam, alvo, a, lens, fstop); mira(cam, alvo, b, lens, fstop)
 def s_abre(a, b):
-    modo(a, 'azul'); kfo(a, b, (0, 6, 0.4), (0, 0, 0), (0, -2, 0.4)); ca(a, b, p(2.5, -9, 1.2), p(0, 0, 0.3))
+    modo(a, 'azul'); kfo(a, b, (0, 6, 0.4), (0, 0, 0), (0, -2, 0.4)); ca(a, b, p(5.5, -12, 2.2), p(0, -0.5, 0.2), 40, 6)
 def s_boca(a, b):
     modo(a, 'azul'); kfo(a, b, (0, 0, 0), (0, 0, 0), (0, 0, 0)); ca(a, b, p(2.8, 3.5, 2.2), p(0, 2.8, 1.4), 50, 4)
 def s_respira(a, b):
@@ -197,7 +197,7 @@ def s_mergulho(a, b):
 def s_peixe(a, b):
     modo(a, 'azul'); kfo(a, b, (0, 0, 0)); ca(a, b, p(3.5, -6, 0.5), p(0, 0, 0))
 def s_cauda(a, b):
-    modo(a, 'azul'); kfo(a, b, (0, 0, 0), (R(0), 0, 0), (R(18), 0, 0)); ca(a, b, p(-4, -5, 1.8), p(0, -3.1, 0.2), 50, 4)
+    modo(a, 'azul'); kfo(a, b, (0, 0, 0), (R(0), 0, 0), (R(18), 0, 0)); ca(a, b, p(4.5, -11, 1.6), p(0, -1.0, 0.2), 45, 5)
 def s_motor(a, b):
     modo(a, 'escuro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -4, 0), p(0, -3, 0), 60, 3)
 def s_barbatana(a, b):
@@ -262,6 +262,34 @@ def s_gordura(a, b):
 # corpo some só nos cortes internos
 _fora = set(range(0, 1800)) - {f for a, b in INTERNO for f in range(a, b + 1)}
 for o in CORPO: VISIVEL[o] = _fora
+
+# ---------- esqueleto por código + pesos automáticos + nado animado ----------
+import math
+NB = 6
+ARMD = bpy.data.armatures.new('orca_arm')
+ARM = bpy.data.objects.new('orca_arm', ARMD); sc.collection.objects.link(ARM)
+bpy.context.view_layer.objects.active = ARM
+bpy.ops.object.mode_set(mode='EDIT')
+prev = None
+for k in range(NB):
+    b = ARMD.edit_bones.new(f'b{k}')
+    y0 = -3.2 + k * (6.4 / NB); y1 = -3.2 + (k + 1) * (6.4 / NB)
+    b.head = (0, y0, 0); b.tail = (0, y1, 0)
+    if prev is not None: b.parent = prev; b.use_connect = True
+    prev = b
+bpy.ops.object.mode_set(mode='OBJECT')
+bpy.ops.object.select_all(action='DESELECT')
+for o in CORPO: o.select_set(True)
+ARM.select_set(True); bpy.context.view_layer.objects.active = ARM
+bpy.ops.object.parent_set(type='ARMATURE_AUTO')
+bpy.ops.object.select_all(action='DESELECT')
+ARM.parent = ORCA
+for f in range(0, 1800, 2):
+    for k in range(NB):
+        pb = ARM.pose.bones[f'b{k}']; pb.rotation_mode = 'XYZ'
+        amp = 0.10 + 0.22 * k / NB
+        pb.rotation_euler = (0, 0, amp * math.sin(2 * math.pi * f / 36.0 - k * 0.7))
+        pb.keyframe_insert('rotation_euler', frame=f)
 
 FUN = {k[2:]: v for k, v in globals().items() if k.startswith('s_')}
 for s in SHOTS['shots']:
