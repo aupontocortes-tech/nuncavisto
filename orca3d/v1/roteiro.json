@@ -23,6 +23,17 @@
    }
   },
   {
+   "t": "Quando ela dorme, só um lado do cérebro desliga. O olho do lado que fica acordado continua aberto.",
+   "shot": "cerebro",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.3,
+   "info": {
+    "tipo": "titulo",
+    "txt": "METADE DO CÉREBRO"
+   }
+  },
+  {
    "t": "O ar entra por um único buraco no alto da cabeça.",
    "shot": "espiraculo",
    "r": "+4%",

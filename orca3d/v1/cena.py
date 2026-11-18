@@ -199,7 +199,7 @@ def s_peixe(a, b):
 def s_cauda(a, b):
     modo(a, 'azul'); kfo(a, b, (0, 0, 0), (R(0), 0, 0), (R(18), 0, 0)); ca(a, b, p(4.5, -11, 1.6), p(0, -1.0, 0.2), 45, 5)
 def s_motor(a, b):
-    modo(a, 'escuro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -4, 0), p(0, -3, 0), 60, 3)
+    modo(a, 'escuro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(-4, -10, 1.4), p(0, 0, 0), 45, 5)
 def s_barbatana(a, b):
     modo(a, 'claro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(3, -3, 3.8), p(0, 0, 1.6), 40, 6)
 def s_tecido(a, b):
@@ -262,6 +262,17 @@ def s_gordura(a, b):
 # corpo some só nos cortes internos
 _fora = set(range(0, 1800)) - {f for a, b in INTERNO for f in range(a, b + 1)}
 for o in CORPO: VISIVEL[o] = _fora
+
+# ---------- cérebro: um hemisfério dorme, olho do lado acordado fica aberto ----------
+CER_E = mat('cer_e', (0.3, 0.9, 1.0), 0.3, emis=((0.2, 0.9, 1.0), 4))
+CER_D = mat('cer_d', (0.25, 0.3, 0.45), 0.5)
+CEREB_E = esf(p(-0.32, 1.85, 0.75), (0.34, 0.5, 0.3), CER_E, True, 24); CEREB_E.parent = ORCA
+CEREB_D = esf(p(0.32, 1.85, 0.75), (0.34, 0.5, 0.3), CER_D, True, 24); CEREB_D.parent = ORCA
+OLHO_A = esf(p(0.95, 1.6, 0.9), (0.14, 0.14, 0.14), mat('olho_a', (0.02, 0.02, 0.03), 0.2), True, 16); OLHO_A.parent = ORCA
+OLHO_F = esf(p(-0.95, 1.6, 0.9), (0.14, 0.14, 0.02), mat('olho_f', (0.02, 0.02, 0.03), 0.2), True, 16); OLHO_F.parent = ORCA
+for o in (CEREB_E, CEREB_D, OLHO_A, OLHO_F): VISIVEL[o] = set()
+def s_cerebro(a, b):
+    modo(a, 'claro'); kfo(a, b, (0, 0, 0)); ca(a, b, p(-9.0, -4.0, 4.5), p(0, 0.5, 0.8), 55, 8)
 
 # ---------- esqueleto por código + pesos automáticos + nado animado ----------
 import math
