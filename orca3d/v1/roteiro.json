@@ -1,0 +1,251 @@
+{
+ "linhas": [
+  {
+   "t": "Essa é a orca. Parece um submarino vivo, mas o corpo dela esconde várias adaptações.",
+   "shot": "abre",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "info": {
+    "tipo": "big",
+    "txt": "MÁQUINA SUBMARINA"
+   }
+  },
+  {
+   "t": "Primeiro: ela não respira pela boca.",
+   "shot": "boca",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.2,
+   "info": {
+    "tipo": "titulo",
+    "txt": "NÃO PELA BOCA"
+   }
+  },
+  {
+   "t": "O ar entra por um único buraco no alto da cabeça.",
+   "shot": "espiraculo",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.2,
+   "etq": [
+    {
+     "txt": "ESPIRÁCULO",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Esse buraco se chama espiráculo. Por ele ela enche os pulmões.",
+   "shot": "pulmoes",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.2,
+   "etq": [
+    {
+     "txt": "ESPIRÁCULO",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Quando mergulha, um músculo fecha a abertura como uma tampa hermética.",
+   "shot": "tampa",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "etq": [
+    {
+     "txt": "TAMPA MUSCULAR",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Ela mergulha e o coração desacelera pra economizar oxigênio.",
+   "shot": "coracao",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "etq": [
+    {
+     "txt": "BATIMENTO LENTO",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Os músculos guardam oxigênio numa proteína chamada mioglobina.",
+   "shot": "mioglobina",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "etq": [
+    {
+     "txt": "MIOGLOBINA",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Algumas orcas já passaram de 15 minutos debaixo d'água.",
+   "shot": "mergulho",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.3,
+   "info": {
+    "tipo": "big",
+    "txt": "MAIS DE 15 MIN"
+   }
+  },
+  {
+   "t": "Agora olha a cauda. O peixe mexe de um lado pro outro.",
+   "shot": "peixe",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.2,
+   "info": {
+    "tipo": "titulo",
+    "txt": "PEIXE: LADO A LADO"
+   }
+  },
+  {
+   "t": "A orca faz diferente: bate a cauda pra cima e pra baixo.",
+   "shot": "cauda",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.2,
+   "info": {
+    "tipo": "titulo",
+    "txt": "PARA CIMA E PARA BAIXO"
+   }
+  },
+  {
+   "t": "Isso vem da evolução de mamífero. Parece um motor vertical.",
+   "shot": "motor",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "info": {
+    "tipo": "big",
+    "txt": "MOTOR VERTICAL"
+   }
+  },
+  {
+   "t": "A barbatana gigante nas costas parece um osso.",
+   "shot": "barbatana",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.2,
+   "etq": [
+    {
+     "txt": "BARBATANA",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Mas não tem osso nem cartilagem. É tecido conjuntivo resistente.",
+   "shot": "tecido",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.3,
+   "info": {
+    "tipo": "big",
+    "txt": "SEM OSSOS"
+   }
+  },
+  {
+   "t": "Ela ajuda a estabilizar o corpo enquanto a orca nada.",
+   "shot": "estabiliza",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "etq": [
+    {
+     "txt": "ESTABILIZA",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Debaixo da pele tem uma camada grossa de gordura.",
+   "shot": "gordura",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.2,
+   "etq": [
+    {
+     "txt": "GORDURA",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "Ela funciona como um casaco térmico natural.",
+   "shot": "casaco",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.3,
+   "info": {
+    "tipo": "big",
+    "txt": "CASACO NATURAL"
+   }
+  },
+  {
+   "t": "A boca tem até 56 dentes afiados.",
+   "shot": "dentes",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "info": {
+    "tipo": "big",
+    "txt": "ATÉ 56 DENTES"
+   }
+  },
+  {
+   "t": "Eles não são pra mastigar. Servem pra agarrar e segurar a presa.",
+   "shot": "agarrar",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.3,
+   "info": {
+    "tipo": "titulo",
+    "txt": "AGARRAR, NÃO MASTIGAR"
+   }
+  },
+  {
+   "t": "Lá em cima, ela sobe pra respirar ar, igual a nós.",
+   "shot": "sobe",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.25,
+   "etq": [
+    {
+     "txt": "AR, IGUAL A NÓS",
+     "x": 0.5,
+     "y": 0.3
+    }
+   ]
+  },
+  {
+   "t": "A natureza não economizou no projeto dessa máquina.",
+   "shot": "final",
+   "r": "+4%",
+   "p": "-2Hz",
+   "g": 0.6,
+   "info": {
+    "tipo": "titulo",
+    "txt": "A MÁQUINA DOS OCEANOS"
+   }
+  }
+ ]
+}
