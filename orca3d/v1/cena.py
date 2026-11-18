@@ -177,51 +177,6 @@ def cardume(base, n=40, espalha=3.0, cor=None):
         t = cone((o.location.x, o.location.y - 0.17, o.location.z), 0.07, 0.0, 0.1, m, rot=(R(-90), 0, 0), v=4); t.parent = g; t.scale = (0.3, 1, 1)
     return g
 AGUA_A, AGUA_B, AGUA_C = (0.02, 0.22, 0.5), (0.02, 0.12, 0.3), (0.03, 0.3, 0.22)
-A = p(0, 0, 0); mar(A, AGUA_A, fundo=-5.0)                 # mar aberto azul
-B = p(300, 0, 0); mar(B, AGUA_B, fundo=-1.6, raios=4)       # fundo de areia (sentido elétrico)
-C = p(600, 0, 0); mar(C, AGUA_C, fundo=-6.0)                # água verde (orca)
-CARD = cardume(A + p(3, 8, 1.5))
-# carro para a comparação de tamanho + régua
-CARRO = vazio('carro')
-cm = mat('lataria', (0.85, 0.15, 0.12), 0.3, 0.3)
-pai_de(caixa((0, 0, 0.55), (1.7, 4.2, 0.6), cm), CARRO); pai_de(caixa((0, -0.2, 1.05), (1.5, 2.2, 0.55), mat('vidro_c', (0.15, 0.2, 0.25), 0.1)), CARRO)
-for sx in (-1, 1):
-    for sy in (-1.3, 1.3):
-        bpy.ops.mesh.primitive_cylinder_add(radius=0.36, depth=0.25, location=(0.85 * sx, sy, 0.36), rotation=(0, R(90), 0)); r_ = bpy.context.object; r_.data.materials.append(mat('pneu', (0.03, 0.03, 0.03), 0.8)); r_.parent = CARRO
-REGUA = vazio('regua'); rm = mat('regua', (1.0, 0.8, 0.1), 0.4, emis=((1.0, 0.75, 0.05), 3))
-pai_de(caixa((0, 0, 0), (0.05, 4.6, 0.05), rm), REGUA); pai_de(caixa((0, 2.3, 0), (0.05, 0.05, 0.5), rm), REGUA); pai_de(caixa((0, -2.3, 0), (0.05, 0.05, 0.5), rm), REGUA)
-
-# ================= raio-x: peixe comum com bexiga de ar =================
-PX = vazio('peixe_x'); vidro = brilho('raiox_p', (1.0, 0.85, 0.4), 0.9, 0.3)
-pai_de(esf((0, 0, 0), (0.28, 1.0, 0.5), vidro), PX); pai_de(cone((0, -1.2, 0), 0.5, 0.0, 0.5, vidro, rot=(R(-90), 0, 0), v=4), PX).scale = (0.25, 1, 1)
-BEXIGA = pai_de(esf((0, 0.1, 0.12), (0.14, 0.42, 0.16), mat('bexiga', (0.9, 0.97, 1.0), 0.2, emis=((0.8, 0.95, 1.0), 4))), PX)
-
-# ================= zoom na pele (laboratório) =================
-SK = p(0, 300, 0)
-plano(SK, (30, 30), mat('pele_fundo', (0.42, 0.46, 0.5), 0.6))
-DM = mat('denticulo', (0.82, 0.85, 0.88), 0.25, 0.2)
-for ix in range(-9, 10):
-    for iy in range(-4, 24):
-        d_ = cone(SK + p(ix * 0.5 + (0.25 if iy % 2 else 0), iy * 0.42, 0.07), 0.27, 0.02, 0.6, DM, rot=(R(72), 0, 0), v=5); d_.scale = (1, 0.35, 1)
-LISA = plano(SK + p(40, 4, 0), (12, 14), mat('pele_lisa', (0.75, 0.6, 0.55), 0.5))
-AGUA_M = mat('agua', (0.5, 0.8, 1.0), 0.05, emis=((0.3, 0.6, 1.0), 0.8))
-GOTAS = [esf(SK, 0.09, AGUA_M, True, 12) for _ in range(46)]
-GOTAS2 = [esf(SK, 0.09, AGUA_M, True, 12) for _ in range(30)]
-
-# ================= mito do sangue =================
-SANGUE = [esf(A + p(random.uniform(-1.2, 1.2), 6 + random.uniform(-1, 1), random.uniform(-0.8, 0.8)), random.uniform(0.3, 0.8), brilho(f'sg{i}', (0.8, 0.02, 0.05), 0.7, 0.35), True, 12) for i in range(14)]
-
-# ================= sentido elétrico =================
-PRESA = B + p(0, 4.5, -1.6)
-pai_presa = vazio('presa'); pai_presa.location = PRESA
-pai_de(esf((0, 0, 0.02), (0.3, 0.7, 0.2), mat('linguado', (0.7, 0.62, 0.42), 0.9)), pai_presa)
-CORACAO = pai_de(esf((0, 0.15, 0.2), 0.09, mat('coracao', (1, 0.1, 0.2), 0.3, emis=((1.0, 0.05, 0.15), 8))), pai_presa)
-ANEIS = []
-ROSA = brilho('campo', (1.0, 0.25, 0.9), 5.0, 0.8)
-for i in range(6):
-    bpy.ops.mesh.primitive_torus_add(major_radius=1, minor_radius=0.018, location=PRESA + p(0, 0, 0.1), rotation=(R(90 if i % 2 else 60), 0, R(i * 30))); t = bpy.context.object; t.data.materials.append(ROSA); ANEIS.append(t)
-# poros no focinho (bolinhas pretas grudadas na cabeça do tubarão)
-from mathutils.bvhtree import BVHTree
 # ================= orca =================
 OG, ONOV, _ = importa('orca.glb')
 ORCA = normaliza(OG, ONOV, 6.5, p(0, 99, 0))
