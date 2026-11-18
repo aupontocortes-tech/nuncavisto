@@ -215,7 +215,7 @@ def s_agarrar(a, b):
 def s_sobe(a, b):
     modo(a, 'claro'); kfo(a, b, (0, 0, 4.0), (0, 0, 0)); ca(a, b, p(4, -6, 2.5), p(0, 0, 4.0))
 def s_final(a, b):
-    modo(a, 'azul'); kfo(a, b, (0, 0, -0.5)); ca(a, b, p(7, -16, 0.8), p(0, -2, 0))
+    modo(a, "azul"); kfo(a, b, (0, 0, -0.5)); ca(a, b, p(7, -16, 0.8), p(0, -2, 0))
 
 # ---------- cortes internos (aproximados; ajustar pela prévia) ----------
 def osso_bola(loc, esc, m):
@@ -260,7 +260,7 @@ def s_gordura(a, b):
     modo(a, 'raiox'); kfo(a, b, (0, 0, 0)); ca(a, b, p(0, -9, 0.5), p(0, 0, 0), 35, 8)
 
 # corpo some só nos cortes internos
-_fora = set(range(0, 1800)) - {f for a, b in INTERNO for f in range(a, b + 1)}
+_fora = set(range(0, 2000)) - {f for a, b in INTERNO for f in range(a, b + 1)}
 for o in CORPO: VISIVEL[o] = _fora
 
 # ---------- cérebro: um hemisfério dorme, olho do lado acordado fica aberto ----------
@@ -295,7 +295,7 @@ ARM.select_set(True); bpy.context.view_layer.objects.active = ARM
 bpy.ops.object.parent_set(type='ARMATURE_AUTO')
 bpy.ops.object.select_all(action='DESELECT')
 ARM.parent = ORCA
-for f in range(0, 1800, 2):
+for f in range(0, 2000, 2):
     for k in range(NB):
         pb = ARM.pose.bones[f'b{k}']; pb.rotation_mode = 'XYZ'
         amp = 0.10 + 0.22 * k / NB
