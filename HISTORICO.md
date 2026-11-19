@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-19 | Você nunca viu uma orca POR DENTRO 🐋
 - 2026-11-18 | Esse incêndio criou a própria tempestade
 - 2026-11-18 | Esses ursos aprenderam a arrombar carros
 - 2026-11-17 | Essa célula do seu sangue está caçando uma bactéria
