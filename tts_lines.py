@@ -18,7 +18,7 @@ PRON = {'NASA': 'Nása', 'NOAA': 'Nôa', 'Shorts': 'Xórts', 'km': 'quilômetros
 
 spec = json.load(open(sys.argv[1], encoding='utf-8')); out = sys.argv[2]; os.makedirs(out, exist_ok=True)
 
-# VOZ NOVA (nov/2026): voz neural natural da Microsoft (grátis). Se falhar, cai na voz antiga (piper) abaixo.
+# VOZ (nov/2026): voz neural natural da Microsoft (grátis). Se falhar, PARA (a voz antiga piper é robótica e não pode ir ao ar).
 VOZ = os.environ.get('NV_VOZ', 'pt-BR-AntonioNeural'); RATE = os.environ.get('NV_RATE', '+0%'); PITCH = os.environ.get('NV_PITCH', '+0Hz')
 def voz_neural():
     import asyncio, ssl, subprocess, tempfile, time
@@ -51,7 +51,9 @@ def voz_neural():
         for w in ws:
             wd = dur * (len(w) + 1) / tot; words.append({'w': w, 's': round(cur, 3), 'e': round(cur + wd, 3), 'seg': i}); cur += wd
         segs.append([t, t + dur]); audio.append(x); t += dur
-        gap = 0.38; audio.append(np.zeros(int(SR * gap), np.float32)); t += gap
+        fim = c.rstrip()[-1:] if c.strip() else '.'
+        gap = 0.5 if fim in '?!' else 0.32 if fim in '.…' else 0.2   # pausa natural conforme a pontuação
+        audio.append(np.zeros(int(SR * gap), np.float32)); t += gap
         time.sleep(0.5)
     audio.append(np.zeros(int(SR * 0.5), np.float32)); t += 0.5
     y = np.concatenate(audio); y = y / np.max(np.abs(y)) * 0.89
@@ -61,7 +63,9 @@ def voz_neural():
 if os.environ.get('NV_VOZ_ANTIGA') != '1':
     try: voz_neural(); sys.exit(0)
     except SystemExit: raise
-    except Exception as e: print('AVISO: voz neural falhou, usando a voz antiga:', e)
+    except Exception as e:
+        # NÃO usar a voz antiga (piper): ela é robótica. Sem voz natural, não publica.
+        print('ERRO: voz neural falhou, vídeo NÃO deve ser publicado (voz antiga é robótica):', e); sys.exit(1)
 
 d = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'vits-piper-pt_BR-faber-medium') + '/'
 if not os.path.isdir(d): d = 'vits-piper-pt_BR-faber-medium/'

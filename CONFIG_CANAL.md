@@ -3,7 +3,7 @@
 Não coloque senhas aqui.
 
 ## QUALIDADE (desde 04/11/2026 — meta: sair dos 300-1.000 views)
-- VOZ: o tts_lines.py agora usa uma voz neural natural (sozinho). Não mude.
+- VOZ: o tts_lines.py agora usa uma voz neural natural (sozinho). Não mude. Se a voz neural falhar, NÃO publique (nunca usar a voz antiga piper, que é robótica) — tente de novo mais tarde e avise no relatório. Escreva o roteiro como fala: frases curtas e naturais, com vírgula e reticências onde se respira; nada de frase em lista ou telegráfica.
 - EFEITOS: o render.py já coloca um "whoosh" em toda troca de cena. No spec.json marque "impacto": true na cena do FATO MAIS SURPREENDENTE (só 1) e, quando combinar, "efeito": explosao | trovao | agua | vento | coracao | grave | brilho na cena certa.
 - RITMO DA IMAGEM rápido (cena longa vira 2 tomadas sozinha), mas a FALA calma e clara: no máximo 2,8 palavras por segundo no vídeo inteiro (o qc.py confere). Nunca encurte frase cortando palavra.
 - EXPLICAR SEM PULAR ETAPA (pedido do Thiago): cada frase leva à próxima, na ordem: o que é -> onde/quando -> por que acontece -> o número que impressiona -> o que isso significa. Se o espectador precisar saber algo para entender a próxima frase, essa informação TEM que vir antes. Termos difíceis: explique em 4 ou 5 palavras simples. Pode durar até 50 segundos se precisar para explicar direito.
