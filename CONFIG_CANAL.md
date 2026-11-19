@@ -88,6 +88,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - neutrófilo (glóbulo branco) caçando e engolindo bactéria; 100 bilhões por dia; redes de DNA (NETs, Brinkmann 2004); vídeo Andrei Savitsky CC BY 4.0, 2026-11-17)
 - ursos-negros de Yosemite que arrombam carros (1998: ~1.600 incidentes, US$ 660 mil; minivans 7% dos carros e 29% dos arrombamentos, Breck 2009; vídeos NPS "Bears in Cars", 2026-11-18)
 - incêndio que cria a própria tempestade (pirocumulonimbo/pyroCb: raios, ventos, tornados, fumaça na estratosfera; CIRA/NOAA, CIMSS, NASA FIREX-AQ, 2026-11-18)
+- morcegos da caverna Bracken que aparecem no radar como chuva (15 milhões, Tadarida brasiliensis, 160 km/h McCracken 2016; radar NWS KEWX, USFWS, USGS, 2026-11-19)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
