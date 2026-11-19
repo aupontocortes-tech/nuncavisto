@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-19 | Essas pegadas humanas têm mais de 21 mil anos
 - 2026-11-19 | Essa mancha no radar não é chuva: são morcegos
 - 2026-11-19 | Você nunca viu uma orca POR DENTRO 🐋
 - 2026-11-18 | Esse incêndio criou a própria tempestade
