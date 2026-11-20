@@ -136,3 +136,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-07 | A cratera Hiawatha de 31 km escondida sob o gelo da Groenlândia (NASA SVS 4572)
 - 2026-11-07 | Lulas bebês (Euprymna scolopes) levadas à ISS, experimento UMAMI (NASA, CRS-22)
 - 2026-11-19 | Pegadas humanas de mais de 21 mil anos em White Sands (pegadas fantasmas, NPS/USGS)
+- 2026-11-20 | Ressonância magnética em tempo real: o corpo filmado por dentro (trompa, coração, gole de suco de abacaxi; Max Planck, CC BY-SA/CC BY)
