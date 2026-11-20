@@ -92,6 +92,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - pegadas humanas de 21-23 mil anos em White Sands ("pegadas fantasmas", mamute e preguiça-gigante; Bennett 2021, Pigati 2023 USGS; vídeos B-roll NPS, 2026-11-19)
 - ressonância magnética em tempo real: corpo filmado por dentro (trompa, coração, gole com suco de abacaxi/manganês); 1ª ressonância de 1977 ~5 h, 2010 Max Planck 50/s, hoje até 100/s; vídeos Biomedizinische NMR CC BY-SA e Hirsch 2021 CC BY, 2026-11-20)
 - furão-de-patas-negras clonado (Elizabeth Ann 2020 e Antonia, clone de Willa com células de 1988, teve filhotes em 2024; extinto em 1979, redescoberto 1981 pelo cachorro Shep, 18 restantes em 1987; vídeos USFWS PD, 2026-11-20)
+- hospital de tuberculose dentro da Mammoth Cave (1842-43, Dr. John Croghan, casas de pedra a 56 m, 5 mortos, Pedra do Cadáver; vídeos NPS, gravura 1877 LOC, 2026-11-20)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
