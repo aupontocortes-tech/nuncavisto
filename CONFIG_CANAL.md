@@ -91,6 +91,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - morcegos da caverna Bracken que aparecem no radar como chuva (15 milhões, Tadarida brasiliensis, 160 km/h McCracken 2016; radar NWS KEWX, USFWS, USGS, 2026-11-19)
 - pegadas humanas de 21-23 mil anos em White Sands ("pegadas fantasmas", mamute e preguiça-gigante; Bennett 2021, Pigati 2023 USGS; vídeos B-roll NPS, 2026-11-19)
 - ressonância magnética em tempo real: corpo filmado por dentro (trompa, coração, gole com suco de abacaxi/manganês); 1ª ressonância de 1977 ~5 h, 2010 Max Planck 50/s, hoje até 100/s; vídeos Biomedizinische NMR CC BY-SA e Hirsch 2021 CC BY, 2026-11-20)
+- besouro-rola-bosta que se guia pela Via Láctea (Scarabaeus satyrus, planetário de Joanesburgo, Dacke 2013; dança na bola, Baird 2012; vídeos Flickr B. Dupont CC BY-SA e C. Jones PDM, 2026-11-20)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
