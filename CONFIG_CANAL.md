@@ -94,6 +94,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - furão-de-patas-negras clonado (Elizabeth Ann 2020 e Antonia, clone de Willa com células de 1988, teve filhotes em 2024; extinto em 1979, redescoberto 1981 pelo cachorro Shep, 18 restantes em 1987; vídeos USFWS PD, 2026-11-20)
 - hospital de tuberculose dentro da Mammoth Cave (1842-43, Dr. John Croghan, casas de pedra a 56 m, 5 mortos, Pedra do Cadáver; vídeos NPS, gravura 1877 LOC, 2026-11-20)
 - bisão de Yellowstone, o animal que mais fere pessoas no parque (900 kg, 55 km/h, 23 m de distância; caça do séc. 19, só ~2 dúzias em 1902; vídeos NPS, 2026-11-21)
+- dunas que cantam / areia que zumbe (Great Sand Dunes, Colorado; avalanche de areia, ~3 dúzias de lugares no mundo, Marco Polo no Gobi; som real NPS, 2026-11-21)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
