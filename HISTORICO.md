@@ -142,3 +142,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-20 | Ressonância magnética em tempo real: o corpo filmado por dentro (trompa, coração, gole de suco de abacaxi; Max Planck, CC BY-SA/CC BY)
 - 2026-11-20 | Clone de furão-de-patas-negras de células de 1988 teve filhotes (Elizabeth Ann, Antonia; USFWS)
 - 2026-11-20 | Hospital de tuberculose dentro da Mammoth Cave em 1842 (casas de pedra, Pedra do Cadáver; NPS)
+- 2026-11-21 | Cometa Lovejoy passou pela coroa do Sol e saiu vivo (dez/2011; NASA SDO/SOHO, foto ISS)

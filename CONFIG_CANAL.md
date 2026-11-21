@@ -94,6 +94,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - furão-de-patas-negras clonado (Elizabeth Ann 2020 e Antonia, clone de Willa com células de 1988, teve filhotes em 2024; extinto em 1979, redescoberto 1981 pelo cachorro Shep, 18 restantes em 1987; vídeos USFWS PD, 2026-11-20)
 - hospital de tuberculose dentro da Mammoth Cave (1842-43, Dr. John Croghan, casas de pedra a 56 m, 5 mortos, Pedra do Cadáver; vídeos NPS, gravura 1877 LOC, 2026-11-20)
 
+- cometa Lovejoy que passou pela coroa do Sol e sobreviveu (dez/2011, 140 mil km; SDO/SOHO/STEREO, foto ISS de Dan Burbank; NASA SVS 10886/3932/11158, 2026-11-21)
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
 "🎥 Vídeo completo: <título do longo> → <link>"
