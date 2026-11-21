@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-21 | O animal que mais fere gente em Yellowstone não é o urso
 - 2026-11-20 | Doentes moraram meses dentro dessa caverna
 - 2026-11-20 | Esse filhote foi clonado de células congeladas em 1988
 - 2026-11-20 | Isso é uma pessoa tocando trompa, vista por dentro
