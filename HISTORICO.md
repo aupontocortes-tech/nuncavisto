@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-22 | Uma barra de ferro atravessou a cabeça dele, e ele viveu
 - 2026-11-21 | Essa areia canta de verdade: ouça o som da duna
 - 2026-11-21 | O animal que mais fere gente em Yellowstone não é o urso
 - 2026-11-20 | Doentes moraram meses dentro dessa caverna
