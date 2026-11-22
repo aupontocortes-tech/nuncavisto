@@ -19,7 +19,7 @@ Problema: 51,5% deslizam nos primeiros segundos; 94,7% das views vêm do feed de
 - GANCHO: o 1º segundo traz o fato mais forte ou uma contradição ("25 graus pra ele é emergência"). Nunca abra com informação neutra. O melhor fato vem logo no começo. Um fato novo a cada 3 a 4 segundos, sem repetir a mesma ideia em duas telas. Humor leve quando combinar.
 - FINAL EM LOOP: a última frase emenda no começo do vídeo. Mantenha a pergunta que divide opinião.
 - TÍTULO: contraste, paradoxo ou aflição, falando com "você". Varie o começo; nunca sempre "Esse/Essa...".
-- NÃO use mais a chamada "Segue o canal pra ver o que você nunca viu" falada (substitui a regra antiga do EVITAR). Nunca usar vermelho em nada (selo, texto, botão).
+- NÃO use mais a chamada "Segue o canal pra ver o que você nunca viu" falada (substitui a regra antiga do EVITAR). Nunca usar vermelho em nada (selo, texto, botão): NÃO use "cta": true em nenhuma cena do spec.json (é o botão vermelho SEGUE O CANAL).
 - DURAÇÃO: alterne entre ~20-25 s e 28-40 s e anote no HISTORICO.md qual foi cada um, para comparar a retenção.
 - Fatos só de fonte oficial (NPS, NASA, NOAA, ICMBio, universidades), sem inventar número. Varie ângulo, estrutura e formato (o YouTube derruba conteúdo repetitivo).
 - Vídeo longo (3-5 min, 1 por semana) e capa A/B ainda NÃO são automáticos: ficam como próxima etapa, combinar com o Thiago.
