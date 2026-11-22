@@ -12,6 +12,18 @@ Não coloque senhas aqui.
 - FINAL: última cena com pergunta que DIVIDE opinião ("Você entraria nesse lago?", "Você teria coragem?") — comentário empurra o vídeo. Quando der, a última frase emenda no gancho (faz assistir de novo).
 - 1º SEGUNDO (regra do Thiago, 16/11/2026, para reter o público): o vídeo COMEÇA na imagem mais impactante do vídeo inteiro, já na primeira cena, sem logo, sem tela de título, sem fade e sem cena de introdução. A primeira frase falada é a mais forte. Se a pessoa precisar de 3 segundos para entender o que é, ela já pulou. Ao montar o spec.json, a cena 1 é a imagem de maior impacto; o fato que ela mostra pode ser explicado depois, mas a imagem tem que aparecer primeiro.
 
+## ESTRATÉGIA PARA RETENÇÃO (22/11/2026) — VALE MAIS que regras antigas em conflito
+Problema: 51,5% deslizam nos primeiros segundos; 94,7% das views vêm do feed de Shorts; público: homens de 25 a 34 anos, 92% novos. Meta: retenção de 48,5% para 60%+.
+- RODÍZIO DE FORMATO (nunca dois iguais seguidos; veja o formato do último vídeo no HISTORICO.md): 1) FILMADO DE VERDADE (cena real impressionante), 2) MITO OU VERDADE, 3) ESCALA ABSURDA (comparar tamanho/número com algo do dia a dia), 4) MISTÉRIO (pergunta que prende até o fim), 5) "JÁ PENSOU EM SER...?" (ex.: ser um astronauta, um mergulhador, uma célula), 6) 3 COISAS SOBRE UM BICHO. Anote o formato no HISTORICO.md.
+- RECORTE (teste de 2 semanas, até 06/12/2026): "ciência e natureza filmada de verdade", com ênfase no BRASIL quando houver imagem livre (Amazônia, Pantanal, Fernando de Noronha, fenômenos do Brasil). Prefira temas que tocam quem assiste: Brasil, "você", corpo, casa, dia a dia.
+- GANCHO: o 1º segundo traz o fato mais forte ou uma contradição ("25 graus pra ele é emergência"). Nunca abra com informação neutra. O melhor fato vem logo no começo. Um fato novo a cada 3 a 4 segundos, sem repetir a mesma ideia em duas telas. Humor leve quando combinar.
+- FINAL EM LOOP: a última frase emenda no começo do vídeo. Mantenha a pergunta que divide opinião.
+- TÍTULO: contraste, paradoxo ou aflição, falando com "você". Varie o começo; nunca sempre "Esse/Essa...".
+- NÃO use mais a chamada "Segue o canal pra ver o que você nunca viu" falada (substitui a regra antiga do EVITAR). Nunca usar vermelho em nada (selo, texto, botão).
+- DURAÇÃO: alterne entre ~20-25 s e 28-40 s e anote no HISTORICO.md qual foi cada um, para comparar a retenção.
+- Fatos só de fonte oficial (NPS, NASA, NOAA, ICMBio, universidades), sem inventar número. Varie ângulo, estrutura e formato (o YouTube derruba conteúdo repetitivo).
+- Vídeo longo (3-5 min, 1 por semana) e capa A/B ainda NÃO são automáticos: ficam como próxima etapa, combinar com o Thiago.
+
 ## ESPAÇO (atualizado em 03/11/2026)
 A semana só de espaço foi testada e as views caíram (de ~1.000 para 100-350). Voltou o rodízio normal de categorias.
 - Espaço entra no máximo 1 a cada 4 vídeos, e só assunto de PERIGO ou ABSURDO (buraco negro engolindo estrela, asteroide perto da Terra, estrela em velocidade absurda) — os únicos de espaço que passaram de 800 views.
