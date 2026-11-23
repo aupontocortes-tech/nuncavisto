@@ -14,10 +14,7 @@ elif sys.argv[1] == 'up':
     # trava de segurança: só publica no canal Nunca Visto
     me = yt.channels().list(part='snippet', mine=True).execute()['items'][0]
     if me['id'] != 'UCIKnhxWJaxbmCudg2Qp9YhA': sys.exit('ERRO: a chave não é do canal Nunca Visto (' + me['snippet']['title'] + ')')
-    desc = m['description']
-    if os.path.isdir(os.path.join(os.path.dirname(os.path.abspath(__file__)), 'musica')) and 'Kevin MacLeod' not in desc:
-        desc += '\n\nMúsica: Kevin MacLeod (incompetech.com), licença CC BY 4.0 (creativecommons.org/licenses/by/4.0)'
-    body = {'snippet': {'title': m['title'], 'description': desc, 'tags': m.get('tags', []), 'categoryId': '28',
+    body = {'snippet': {'title': m['title'], 'description': m['description'], 'tags': m.get('tags', []), 'categoryId': '28',
                         'defaultLanguage': 'pt-BR', 'defaultAudioLanguage': 'pt-BR'},
             'status': {'privacyStatus': m.get('privacy', 'public'), 'selfDeclaredMadeForKids': False, 'containsSyntheticMedia': False}}
     r = yt.videos().insert(part='snippet,status', body=body, media_body=MediaFileUpload(sys.argv[2], chunksize=-1, resumable=True)).execute()
