@@ -110,6 +110,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - Phineas Gage: barra de ferro de 1,10 m e ~6 kg atravessou a cabeça em 1848 e ele sobreviveu ~12 anos, personalidade mudou (reconstrução 3D Van Horn 2012 PLOS ONE CC BY; crânio em Harvard, 2026-11-22)
 - pika-americano que faz pilhas de feno para o inverno (até ~1 m) e pode morrer com algumas horas a ~25 °C (NPS Craters of the Moon/Mount Rainier/Valles Caldera; ESA 2019, 2026-11-22)
 - pedras que andam sozinhas no Racetrack Playa, Vale da Morte (até 320 kg, empurradas por placas de gelo finas + vento fraco; GPS, Norris 2014 PLOS ONE; vídeo NPS + fotos NASA GSFC; formato MISTÉRIO, 39 s, 2026-11-22)
+- mãe jacaré que tira os filhotes do ninho com a boca + temperatura do ninho decide o sexo (~33 °C machos, ~29 °C fêmeas; câmera escondida NPS Everglades 2021, fotos NASA KSC; formato FILMADO DE VERDADE, 34 s, 2026-11-23)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
