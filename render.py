@@ -130,7 +130,18 @@ def main():
         import glob, hashlib
         faixas = sorted(glob.glob(os.path.join(HERE, 'musica', '*.mp3')))
         if faixas and os.environ.get('SEM_TRILHA') != '1':
-            fx = faixas[int(hashlib.md5(open(sys.argv[1], 'rb').read()).hexdigest(), 16) % len(faixas)]
+            MOOD = {'espaco': 'floating_cities', 'natureza': 'floating_cities', 'leve': 'dreamy_flashback', 'corpo': 'dreamy_flashback',
+                    'escala': 'constancy_part_three', 'misterio': 'hidden_past', 'perigo': 'ossuary_6_-_air'}
+            sp = json.load(open(sys.argv[1], encoding='utf-8'))
+            txt = (str(sp.get('trilha', '')) + ' ' + str(sp.get('formato', '')) + ' ' + str(sp.get('title', '')) + ' ' + ' '.join(str(c.get('text', '')) for c in SC)).lower()
+            CH_ = [('perigo', 'perigo mortal assust venenos ataque morre matar sombri'), ('misterio', 'misterio mistério segredo ninguém ninguem enigma sumiu'),
+                   ('espaco', 'espaço espaco planeta estrela galáxia oceano mar lua'), ('corpo', 'corpo cérebro cerebro célula celula humano coração'),
+                   ('escala', 'escala maior vezes gigante absurd tamanho')]
+            nome = (sp.get('trilha') or '').strip().lower()
+            if nome not in MOOD:
+                nome = next((m for m, ks in CH_ if any(k in txt for k in ks.split())), 'natureza')
+            fx = os.path.join(HERE, 'musica', MOOD[nome] + '.mp3')
+            if not os.path.exists(fx): fx = faixas[0]
             mus = os.path.join(out, 'audio_mus.wav')
             run(['ffmpeg', '-y', '-loglevel', 'error', '-i', audio, '-stream_loop', '-1', '-i', fx, '-filter_complex',
                  f'[0:a]aresample=48000,asplit=2[n1][n2];[1:a]aresample=48000,volume=0.30,atrim=0:{DUR + 1:.2f},'

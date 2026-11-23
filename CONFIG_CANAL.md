@@ -25,7 +25,7 @@ Problema: 51,5% deslizam nos primeiros segundos; 94,7% das views vêm do feed de
 - Vídeo longo (3-5 min, 1 por semana) e capa A/B ainda NÃO são automáticos: ficam como próxima etapa, combinar com o Thiago.
 
 ## TRILHA SONORA (23/11/2026)
-- O render.py já põe trilha sem direitos autorais (pasta musica/, Kevin MacLeod CC BY) em TODO Short, escolhida sozinha entre 5 faixas, e ela ABAIXA sozinha quando o narrador fala (sidechain) e sobe nas pausas. O yt.py põe o crédito do artista na descrição sozinho. Não mexa nisso, não apague a pasta musica/ e não escreva o crédito na mão. Para vídeo longo (longos/), use a mesma pasta e a mesma regra de volume.
+- O render.py já põe trilha sem direitos autorais (pasta musica/, Kevin MacLeod CC BY) em TODO Short, escolhida pelo CLIMA do vídeo (opcional no spec.json: "trilha": "espaco"|"natureza"|"leve"|"corpo"|"escala"|"misterio"|"perigo"; se não puser, o render escolhe pelo texto). Espaço/natureza=Floating Cities, leve/corpo=Dreamy Flashback, escala=Constancy, mistério=Hidden Past, perigo=Ossuary, e ela ABAIXA sozinha quando o narrador fala (sidechain) e sobe nas pausas. O yt.py põe o crédito do artista na descrição sozinho. Não mexa nisso, não apague a pasta musica/ e não escreva o crédito na mão. Para vídeo longo (longos/), use a mesma pasta e a mesma regra de volume.
 
 ## ESPAÇO (atualizado em 03/11/2026)
 A semana só de espaço foi testada e as views caíram (de ~1.000 para 100-350). Voltou o rodízio normal de categorias.
