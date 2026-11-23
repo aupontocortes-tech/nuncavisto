@@ -126,6 +126,19 @@ def main():
              '[0:a]aresample=48000[n];[1:a]aresample=48000[f];[n][f]amix=inputs=2:duration=first:normalize=0', mix])
         audio = mix
     except Exception as e: print('AVISO: sem efeitos sonoros:', e)
+    try:   # trilha sonora sem direitos (Kevin MacLeod, CC BY) que abaixa sozinha quando o narrador fala
+        import glob, hashlib
+        faixas = sorted(glob.glob(os.path.join(HERE, 'musica', '*.mp3')))
+        if faixas and os.environ.get('SEM_TRILHA') != '1':
+            fx = faixas[int(hashlib.md5(open(sys.argv[1], 'rb').read()).hexdigest(), 16) % len(faixas)]
+            mus = os.path.join(out, 'audio_mus.wav')
+            run(['ffmpeg', '-y', '-loglevel', 'error', '-i', audio, '-stream_loop', '-1', '-i', fx, '-filter_complex',
+                 f'[0:a]aresample=48000,asplit=2[n1][n2];[1:a]aresample=48000,volume=0.30,atrim=0:{DUR + 1:.2f},'
+                 f'afade=t=in:d=1.5,afade=t=out:st={max(DUR - 2.5, 0):.2f}:d=2.5[m];'
+                 '[m][n1]sidechaincompress=threshold=0.015:ratio=14:attack=15:release=500:makeup=1[d];'
+                 '[n2][d]amix=inputs=2:duration=first:normalize=0', mus])
+            audio = mus; print('trilha:', os.path.basename(fx))
+    except Exception as e: print('AVISO: sem trilha:', e)
     dec = subprocess.Popen(['ffmpeg', '-loglevel', 'error', '-i', base, '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-'], stdout=subprocess.PIPE)
     enc = subprocess.Popen(['ffmpeg', '-y', '-loglevel', 'error', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}', '-r', str(FPS), '-i', '-',
                             '-i', audio, '-c:v', 'libx264', '-preset', 'slow', '-crf', '20', '-maxrate', '4200k',
