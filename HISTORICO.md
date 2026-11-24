@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-24 | Esse avião entra de propósito dentro de furacões
 - 2026-11-24 | Ela fecha a boca a 230 km/h e usa isso pra voar
 - 2026-11-24 | 5 insetos que parecem IMPOSSÍVEIS (o último navega pela Via Láctea) (vídeo longo https://youtu.be/mQPH33Szc8M)
 - 2026-11-24 | O sapo engoliu. O besouro saiu vivo
