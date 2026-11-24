@@ -116,6 +116,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - mãe jacaré que tira os filhotes do ninho com a boca + temperatura do ninho decide o sexo (~33 °C machos, ~29 °C fêmeas; câmera escondida NPS Everglades 2021, fotos NASA KSC; formato FILMADO DE VERDADE, 34 s, 2026-11-23)
 - raio cai sim duas vezes no mesmo lugar (Empire State ~23/ano NWS; Grand Canyon ~25 mil/ano NPS; árvore com para-raios NPS Andersonville; raio a 10-15 milhas da tempestade; Brasil ~78 milhões/ano ELAT/INPE; formato MITO OU VERDADE, 29,5 s, 2026-11-23)
 - cabras-da-montanha do Parque Olympic levadas de helicóptero (12 soltas nos anos 1920, >1.000 em 1983, atraídas pelo sal do xixi/suor humano, ataque fatal 2010, 325 translocadas 2018-2020; vídeos NPS Olympic/Glacier; formato MISTÉRIO, 34,9 s, 2026-11-23)
+- besouro-bombardeiro vomitado vivo pelo sapo (Pheropsophus jessoensis, jato quente ~100 °C, 43% dos sapos vomitaram, 12-107 min, maiores escapam mais; vídeos Sugiura & Sato 2018 Biology Letters CC BY; pedido do Thiago; formato FILMADO DE VERDADE, 34,7 s, sem pergunta no final, 2026-11-24)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
