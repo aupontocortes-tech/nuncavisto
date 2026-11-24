@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-24 | 5 insetos que parecem IMPOSSÍVEIS (o último navega pela Via Láctea) (vídeo longo https://youtu.be/mQPH33Szc8M)
 - 2026-11-24 | O sapo engoliu. O besouro saiu vivo
 - 2026-11-23 | Essas cabras voaram de helicóptero por causa do xixi humano
 - 2026-11-23 | Raio não cai 2 vezes no mesmo lugar? É mito
