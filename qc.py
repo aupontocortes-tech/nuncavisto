@@ -14,6 +14,9 @@ if not SC[-1]['text'].strip().endswith('?'): erros.append('a última cena tem qu
 if not any(s.get('impacto') for s in SC): erros.append('marque "impacto": true na cena do fato mais surpreendente.')
 for i, s in enumerate(SC):
     if len(s['text'].split()) > 22: erros.append(f'cena {i + 1} longa demais ({len(s["text"].split())} palavras): divida em duas.')
+if len(SC[0]['text'].split()) > 12: erros.append(f'gancho longo ({len(SC[0]["text"].split())} palavras): a 1ª frase tem que ter no máx. 12 palavras e trazer o fato mais forte.')
+if SC[0].get('title') and any(len(l.split()) > 3 for l in SC[0]['title'].split('|')): erros.append('título do gancho: no máx. 3 palavras por linha (tem que ser lido em 1 segundo).')
+if T['words'] and T['words'][0]['s'] > 0.25: erros.append('a voz demora a começar: tem que falar já no 1º instante.')
 if not SC[0].get('title'): erros.append('a 1ª cena precisa de título amarelo (o choque em 2 linhas).')
 final = os.path.join(out, 'final.mp4')
 if os.path.exists(final):

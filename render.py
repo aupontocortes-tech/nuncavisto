@@ -90,9 +90,13 @@ def main():
         vf = (f"crop={cw}:{ch}:{x}:{y},scale={W}:{H},"
               f"zoompan=z='1+({z}-1)*on/({dur}*{FPS})':x='iw/2-(iw/zoom/2)':y='ih/2-(ih/zoom/2)':d=1:s={W}x{H}:fps={FPS},setsar=1")
         tomadas = [(0.0, dur)] if dur <= 3.4 or sc.get('fit') else [(0.0, dur / 2), (dur / 2, dur / 2)]
+        if i == 0 and dur > 2.2:   # GANCHO: 1º corte rápido (1,4s) para o vídeo já começar em movimento
+            tomadas = [(0.0, 1.4), (1.4, dur - 1.4)]
         for j, (off, d2) in enumerate(tomadas):   # cena longa = 2 tomadas (ritmo mais rápido, corte a cada ~2s)
             o = os.path.join(out, f'part{i:02d}_{j}.mp4')
             vf2 = vf.replace(f'*on/({dur}*{FPS})', f'*on/({d2}*{FPS})')
+            if i == 0 and j == 0:   # GANCHO: começa com zoom fechado e abre rápido (movimento já no 1º quadro)
+                vf2 = vf2.replace(f"z='1+({z}-1)*on/({d2}*{FPS})'", f"z='max(1.0,1.22-0.22*on/({FPS}*0.6))'")
             if j == 1:   # 2ª tomada: zoom mais fechado e enquadramento diferente
                 vf2 = vf2.replace(f"z='1+({z}-1)", f"z='{z}+(0.10)").replace("x='iw/2-(iw/zoom/2)'", "x='iw/2-(iw/zoom/2)+iw*0.04'")
             ss = float(sc.get('start', 0)) + (off + (1.5 if j else 0))
@@ -109,7 +113,7 @@ def main():
         cur.append(w); txt = ' '.join(x['w'] for x in cur)
         if len(cur) >= 3 or len(txt) >= 15 or w['w'][-1] in '.,:?!': chunks.append(cur); cur = []
     if cur: chunks.append(cur)
-    CH = [(c[0]['s'], min(chunks[i + 1][0]['s'] if i + 1 < len(chunks) else DUR, c[-1]['e'] + 0.45), c) for i, c in enumerate(chunks)]
+    CH = [(0.0 if i == 0 else c[0]['s'], min(chunks[i + 1][0]['s'] if i + 1 < len(chunks) else DUR, c[-1]['e'] + 0.45), c) for i, c in enumerate(chunks)]
     grad = np.zeros((H, W, 4), np.uint8)
     for y in range(H):
         a = 0
@@ -170,7 +174,7 @@ def main():
             for j, ln in enumerate(lines):
                 f = ANTON[150] if len(ln) <= 11 else (ANTON[130] if len(ln) <= 15 else ANTON[110])
                 c = COLORS.get(sc.get('title_color', 'teal'), COLORS['teal']) if j == len(lines) - 1 else WHITE
-                paste_text(im, ln, f, (W / 2, 320 + j * (f.size + 10)), pop(lt, 0.05 + 0.2 * j), c)
+                paste_text(im, ln, f, (W / 2, 320 + j * (f.size + 10)), 1.0 if s == 0 else pop(lt, 0.05 + 0.2 * j), c)   # gancho: título já legível no 1º quadro
         if sc.get('cta') and lt > 0.3:
             k = pop(lt, 0.3); bw = 680 * k
             if bw > 10:

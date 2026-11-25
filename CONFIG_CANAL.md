@@ -12,6 +12,10 @@ Não coloque senhas aqui.
 - FINAL: última cena com pergunta que DIVIDE opinião ("Você entraria nesse lago?", "Você teria coragem?") — comentário empurra o vídeo. Quando der, a última frase emenda no gancho (faz assistir de novo).
 - 1º SEGUNDO (regra do Thiago, 16/11/2026, para reter o público): o vídeo COMEÇA na imagem mais impactante do vídeo inteiro, já na primeira cena, sem logo, sem tela de título, sem fade e sem cena de introdução. A primeira frase falada é a mais forte. Se a pessoa precisar de 3 segundos para entender o que é, ela já pulou. Ao montar o spec.json, a cena 1 é a imagem de maior impacto; o fato que ela mostra pode ser explicado depois, mas a imagem tem que aparecer primeiro.
 
+## GANCHO AUTOMÁTICO (25/11/2026) — reforço pedido pelo Thiago (retenção 48,7%, meta 60%)
+O render.py e o qc.py já forçam: voz começa no 1º instante, título e legenda já aparecem no 1º quadro, 1ª cena abre com zoom em movimento e corta em 1,4s.
+Você tem que: 1ª frase com NO MÁXIMO 12 palavras trazendo o fato mais forte; "title" da 1ª cena com NO MÁXIMO 3 palavras por linha (número ou choque, ex.: "VIVE|400 ANOS"); 1ª cena = a imagem mais impressionante do vídeo. O qc.py reprova se não cumprir.
+
 ## ESTRATÉGIA PARA RETENÇÃO (22/11/2026) — VALE MAIS que regras antigas em conflito
 Problema: 51,5% deslizam nos primeiros segundos; 94,7% das views vêm do feed de Shorts; público: homens de 25 a 34 anos, 92% novos. Meta: retenção de 48,5% para 60%+.
 - RODÍZIO DE FORMATO (nunca dois iguais seguidos; veja o formato do último vídeo no HISTORICO.md): 1) FILMADO DE VERDADE (cena real impressionante), 2) MITO OU VERDADE, 3) ESCALA ABSURDA (comparar tamanho/número com algo do dia a dia), 4) MISTÉRIO (pergunta que prende até o fim), 5) "JÁ PENSOU EM SER...?" (ex.: ser um astronauta, um mergulhador, uma célula), 6) 3 COISAS SOBRE UM BICHO. Anote o formato no HISTORICO.md.

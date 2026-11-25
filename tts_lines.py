@@ -32,7 +32,7 @@ def voz_neural():
     except ImportError:
         subprocess.run([sys.executable, '-m', 'pip', 'install', '-q', '--break-system-packages', 'edge-tts'], check=True); import edge_tts
     pron = dict(PRON); pron.update(spec.get('pron', {}))
-    SR = 24000; audio = [np.zeros(int(SR * 0.12), np.float32)]; t = 0.12; words = []; segs = []
+    SR = 24000; audio = [np.zeros(int(SR * 0.03), np.float32)]; t = 0.03; words = []; segs = []   # voz já no 1º instante (retenção)
     tmp = tempfile.mkdtemp()
     for i, sc in enumerate(spec['scenes']):
         c = sc['text']; sp = c
