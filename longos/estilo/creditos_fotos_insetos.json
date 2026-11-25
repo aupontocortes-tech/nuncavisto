@@ -1,0 +1,1130 @@
+{
+ "cortadeira_00.jpg": {
+  "autor": "Kai Squires",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/254852599",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_01.jpg": {
+  "autor": "Philipp Hoenle",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/137555396",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_02.jpg": {
+  "autor": "Jonghyun Park",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/261959627",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_03.jpg": {
+  "autor": "Jake Nitta",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/142039850",
+  "tax": "Atta mexicana"
+ },
+ "cortadeira_04.jpg": {
+  "autor": "Jonghyun Park",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/261407932",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_05.jpg": {
+  "autor": "suellenalves",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/388764173",
+  "tax": "Atta laevigata"
+ },
+ "cortadeira_06.jpg": {
+  "autor": "avocat",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/260671280",
+  "tax": "Atta cephalotes"
+ },
+ "cortadeira_07.jpg": {
+  "autor": "Jonghyun Park",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/74341536",
+  "tax": "Atta sexdens"
+ },
+ "cortadeira_08.jpg": {
+  "autor": "John Rosford",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/391616795",
+  "tax": "Atta texana"
+ },
+ "cortadeira_09.jpg": {
+  "autor": "Reid Hardin",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/61741580",
+  "tax": "Atta texana"
+ },
+ "cortadeira_10.jpg": {
+  "autor": "CH Hemphill",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/600062",
+  "tax": "Atta texana"
+ },
+ "cortadeira_11.jpg": {
+  "autor": "Scott Allen Davis",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/242037200",
+  "tax": "Atta cephalotes"
+ },
+ "cigarras_00.jpg": {
+  "autor": "Adam Kranz",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/81817510",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_01.jpg": {
+  "autor": "Zachary Dankowicz",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/79602905",
+  "tax": "Magicicada cassinii"
+ },
+ "cigarras_02.jpg": {
+  "autor": "Elizabeth Axley",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/69860315",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_03.jpg": {
+  "autor": "RD",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/80445704",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_04.jpg": {
+  "autor": "Jake McCumber",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/80655728",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_05.jpg": {
+  "autor": "Lexi Amico",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/221918583",
+  "tax": "Magicicada"
+ },
+ "cigarras_06.jpg": {
+  "autor": "Zachary Dankowicz",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/75954039",
+  "tax": "Magicicada"
+ },
+ "cigarras_07.jpg": {
+  "autor": "Sinéad Tuttle-Lerner",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/308437587",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_08.jpg": {
+  "autor": "Mirko Schoenitz",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/82354119",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_09.jpg": {
+  "autor": "Zachary Dankowicz",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/80315930",
+  "tax": "Magicicada"
+ },
+ "cigarras_10.jpg": {
+  "autor": "Martin Kalfatovic",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/81775081",
+  "tax": "Magicicada cassinii"
+ },
+ "cigarras_11.jpg": {
+  "autor": "Kaden Slone",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/82092540",
+  "tax": "Magicicada"
+ },
+ "bombardeiro_00.jpg": {
+  "autor": "Вячеслав Юсупов",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/306816212",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_01.jpg": {
+  "autor": "IDClaire",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/270709060",
+  "tax": "Brachinus geniculatus"
+ },
+ "bombardeiro_02.jpg": {
+  "autor": "Romilson Silva Lopes Junior",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/316110290",
+  "tax": "Pheropsophus aequinoctialis"
+ },
+ "bombardeiro_03.jpg": {
+  "autor": "Jared Zachary Herman",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/392641735",
+  "tax": "Pheropsophus fastigiatus"
+ },
+ "bombardeiro_04.jpg": {
+  "autor": "Samartha S G",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/362023632",
+  "tax": "Pheropsophus nigricollis"
+ },
+ "bombardeiro_05.jpg": {
+  "autor": "Arabella Willing",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/278361158",
+  "tax": "Pheropsophus africanus"
+ },
+ "bombardeiro_06.jpg": {
+  "autor": "hr_dragonfly",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/300937380",
+  "tax": "Brachinus adustipennis"
+ },
+ "bombardeiro_07.jpg": {
+  "autor": "renshuchu",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/155476720",
+  "tax": "Pheropsophus jessoensis"
+ },
+ "bombardeiro_08.jpg": {
+  "autor": "Adrien Nouailhane",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/171853234",
+  "tax": "Brachinus sclopeta"
+ },
+ "bombardeiro_09.jpg": {
+  "autor": "りなべる",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/76514906",
+  "tax": "Pheropsophus jessoensis"
+ },
+ "bombardeiro_10.jpg": {
+  "autor": "Ruebezahl",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/108423692",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_11.jpg": {
+  "autor": "Owen Strickland",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/45449122",
+  "tax": "Brachinus janthinipennis"
+ },
+ "formigaleao_00.jpg": {
+  "autor": "Julien Tchilinguirian",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/95302206",
+  "tax": "Puer maculatus"
+ },
+ "formigaleao_01.jpg": {
+  "autor": "Ian Manning",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/88287967",
+  "tax": "Neleon immaculatus"
+ },
+ "formigaleao_02.jpg": {
+  "autor": "strewick",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/152589905",
+  "tax": "Weeleus acutus"
+ },
+ "formigaleao_03.jpg": {
+  "autor": "Matt Pelikan",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/322793194",
+  "tax": "Neleon immaculatus"
+ },
+ "formigaleao_04.jpg": {
+  "autor": "ajott",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/51617481",
+  "tax": "Euroleon nostras"
+ },
+ "formigaleao_05.jpg": {
+  "autor": "Matteo Marcandella",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/316559724",
+  "tax": "Myrmeleon formicarius"
+ },
+ "formigaleao_06.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/294419930",
+  "tax": "Myrmecaelurus trigrammus"
+ },
+ "formigaleao_07.jpg": {
+  "autor": "Kai Squires",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/73444567",
+  "tax": "Myrmeleon carolinus"
+ },
+ "formigaleao_08.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/320009906",
+  "tax": "Neleon inconspicuus"
+ },
+ "formigaleao_09.jpg": {
+  "autor": "Олег Кудров",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/121196963",
+  "tax": "Myrmeleon formicarius"
+ },
+ "formigaleao_10.jpg": {
+  "autor": "Weiting Liu",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/324511971",
+  "tax": "Suphalomitus okinavensis"
+ },
+ "formigaleao_11.jpg": {
+  "autor": "Tia Offner",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/9502712",
+  "tax": "Vella americana"
+ },
+ "rolabosta_00.jpg": {
+  "autor": "Roman",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/95842275",
+  "tax": "Scarabaeus typhon"
+ },
+ "rolabosta_01.jpg": {
+  "autor": "Duarte Frade",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/189944703",
+  "tax": "Scarabaeus cicatricosus"
+ },
+ "rolabosta_02.jpg": {
+  "autor": "Bruno - Yolande Zanette",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/322066037",
+  "tax": "Kheper lamarcki"
+ },
+ "rolabosta_03.jpg": {
+  "autor": "Ryan Donnelly",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/117786612",
+  "tax": "Scarabaeus galenus"
+ },
+ "rolabosta_04.jpg": {
+  "autor": "Julien Renoult",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/23011388",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_05.jpg": {
+  "autor": "Blanchemain Joël",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/329109619",
+  "tax": "Scarabaeus sacer"
+ },
+ "rolabosta_06.jpg": {
+  "autor": "Alain Le Magueresse",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/327248316",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_07.jpg": {
+  "autor": "Jean-Paul Boerekamps",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/66782805",
+  "tax": "Kheper nigroaeneus"
+ },
+ "rolabosta_08.jpg": {
+  "autor": "Jean-Paul Boerekamps",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/66818922",
+  "tax": "Kheper nigroaeneus"
+ },
+ "rolabosta_09.jpg": {
+  "autor": "Robert Taylor",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/39041173",
+  "tax": "Kheper cupreus"
+ },
+ "rolabosta_10.jpg": {
+  "autor": "Julia Moning",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/99982085",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_11.jpg": {
+  "autor": "Santiago Soto Maurer",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/15561020",
+  "tax": "Scarabaeus sacer"
+ },
+ "bombardeiro_12.jpg": {
+  "autor": "renshuchu",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/154894978",
+  "tax": "Brachinus stenoderus"
+ },
+ "bombardeiro_13.jpg": {
+  "autor": "renshuchu",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/226422692",
+  "tax": "Brachinus stenoderus"
+ },
+ "bombardeiro_14.jpg": {
+  "autor": "vinicius_s_domingues",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/178294833",
+  "tax": "Pheropsophus aequinoctialis"
+ },
+ "bombardeiro_15.jpg": {
+  "autor": "Tommy Andriollo",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/360584185",
+  "tax": "Brachinus sclopeta"
+ },
+ "bombardeiro_16.jpg": {
+  "autor": "renshuchu",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/258638303",
+  "tax": "Brachinus scotomedes"
+ },
+ "bombardeiro_17.jpg": {
+  "autor": "Michael Knapp",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/205357805",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_18.jpg": {
+  "autor": "げっとり",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/361162869",
+  "tax": "Pheropsophus jessoensis"
+ },
+ "bombardeiro_19.jpg": {
+  "autor": "Arabella Willing",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/244472306",
+  "tax": "Pheropsophus africanus"
+ },
+ "bombardeiro_20.jpg": {
+  "autor": "Ruebezahl",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/207957197",
+  "tax": "Brachinus explodens"
+ },
+ "bombardeiro_21.jpg": {
+  "autor": "りなべる",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/233051959",
+  "tax": "Pheropsophus jessoensis"
+ },
+ "bombardeiro_22.jpg": {
+  "autor": "Carlos Muñoz-Amezcua",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/202781056",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_23.jpg": {
+  "autor": "renshuchu",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/151716138",
+  "tax": "Brachinus stenoderus"
+ },
+ "bombardeiro_24.jpg": {
+  "autor": "renshuchu",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/288442760",
+  "tax": "Brachinus aeneicostis"
+ },
+ "bombardeiro_25.jpg": {
+  "autor": "Nathan T. Jones",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/185357388",
+  "tax": "Brachinus tenuicollis"
+ },
+ "bombardeiro_26.jpg": {
+  "autor": "renjus box",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/147756036",
+  "tax": "Pheropsophus picicollis"
+ },
+ "bombardeiro_27.jpg": {
+  "autor": "Brandon Johnson",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/243477690",
+  "tax": "Brachinus adustipennis"
+ },
+ "bombardeiro_28.jpg": {
+  "autor": "Rafael Carbonell Font",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/259254471",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_29.jpg": {
+  "autor": "Valentin Moser",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/15753414",
+  "tax": "Pheropsophus verticalis"
+ },
+ "bombardeiro_30.jpg": {
+  "autor": "Duarte Frade",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/341746966",
+  "tax": "Brachinus exhalans"
+ },
+ "bombardeiro_31.jpg": {
+  "autor": "Matt Muir",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/101515402",
+  "tax": "Brachinus"
+ },
+ "bombardeiro_32.jpg": {
+  "autor": "Patrick Jackson",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/124560412",
+  "tax": "Brachinus"
+ },
+ "bombardeiro_33.jpg": {
+  "autor": "RAP",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/178076460",
+  "tax": "Brachinus marginellus"
+ },
+ "bombardeiro_34.jpg": {
+  "autor": "Jan Ebr &amp; Ivana Ebrová",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/152634981",
+  "tax": "Pheropsophus africanus"
+ },
+ "bombardeiro_35.jpg": {
+  "autor": "Owen Strickland",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/81387101",
+  "tax": "Brachinus"
+ },
+ "bombardeiro_36.jpg": {
+  "autor": "Zoe Coombes",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/161708292",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_37.jpg": {
+  "autor": "Adrien Nouailhane",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/412184422",
+  "tax": "Brachinus sclopeta"
+ },
+ "bombardeiro_38.jpg": {
+  "autor": "Simon Oliver",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/67705245",
+  "tax": "Brachinus sclopeta"
+ },
+ "bombardeiro_39.jpg": {
+  "autor": "Connor Margetts",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/323192856",
+  "tax": "Pheropsophus verticalis"
+ },
+ "bombardeiro_40.jpg": {
+  "autor": "Paul Cook",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/80656505",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_41.jpg": {
+  "autor": "Ruebezahl",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/193502028",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_42.jpg": {
+  "autor": "Sam Kieschnick",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/187862851",
+  "tax": "Brachinus tenuicollis"
+ },
+ "bombardeiro_43.jpg": {
+  "autor": "Simon Oliver",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/67705374",
+  "tax": "Brachinus sclopeta"
+ },
+ "bombardeiro_44.jpg": {
+  "autor": "Винер Фаритович Хабибуллин",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/267021473",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_45.jpg": {
+  "autor": "Ruebezahl",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/262285104",
+  "tax": "Brachinus explodens"
+ },
+ "bombardeiro_46.jpg": {
+  "autor": "Frank Ashwood",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/221763469",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_47.jpg": {
+  "autor": "Roland Godon",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/57011660",
+  "tax": "Brachinus sclopeta"
+ },
+ "bombardeiro_48.jpg": {
+  "autor": "りなべる",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/68996354",
+  "tax": "Pheropsophus jessoensis"
+ },
+ "bombardeiro_49.jpg": {
+  "autor": "Michael Knapp",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/204194027",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_50.jpg": {
+  "autor": "Joshua Ebright",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/229187340",
+  "tax": "Brachinus adustipennis"
+ },
+ "bombardeiro_51.jpg": {
+  "autor": "Gold eagle Kroll",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/232186312",
+  "tax": "Brachinus adustipennis"
+ },
+ "bombardeiro_52.jpg": {
+  "autor": "Ruebezahl",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/231457004",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_53.jpg": {
+  "autor": "Radu Teodoreanu",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/364191617",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_54.jpg": {
+  "autor": "Dr. Sven Gippner",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/364997550",
+  "tax": "Brachinus crepitans"
+ },
+ "bombardeiro_55.jpg": {
+  "autor": "Ramnarayan K",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/280579316",
+  "tax": "Pheropsophus sobrinus"
+ },
+ "bombardeiro_56.jpg": {
+  "autor": "katunchik",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/68797882",
+  "tax": "Brachinus alexandri"
+ },
+ "bombardeiro_57.jpg": {
+  "autor": "Ramnarayan K",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/280579316",
+  "tax": "Pheropsophus sobrinus"
+ },
+ "bombardeiro_58.jpg": {
+  "autor": "げっとり",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/389136985",
+  "tax": "Brachinus scotomedes"
+ },
+ "bombardeiro_59.jpg": {
+  "autor": "Nick Bédard",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/103148830",
+  "tax": "Brachinus fumans"
+ },
+ "rolabosta_12.jpg": {
+  "autor": "Sara Navarro",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/281108549",
+  "tax": "Scarabaeus sacer"
+ },
+ "rolabosta_13.jpg": {
+  "autor": "Bernard DUPONT",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/252579366",
+  "tax": "Kheper cupreus"
+ },
+ "rolabosta_14.jpg": {
+  "autor": "David Pereira",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/338916800",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_15.jpg": {
+  "autor": "Julien Tchilinguirian",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/97707660",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_16.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/66195784",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_17.jpg": {
+  "autor": "Jens-Christian Svenning",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/37892373",
+  "tax": "Scarabaeus zambesianus"
+ },
+ "rolabosta_18.jpg": {
+  "autor": "ju_stine",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/360127120",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_19.jpg": {
+  "autor": "Juan C. Espinosa",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/186411886",
+  "tax": "Scarabaeus sacer"
+ },
+ "rolabosta_20.jpg": {
+  "autor": "Thierry Arbault",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/293092453",
+  "tax": "Scarabaeus variolosus"
+ },
+ "rolabosta_21.jpg": {
+  "autor": "Eridan Xharahi",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/6495109",
+  "tax": "Scarabaeus pius"
+ },
+ "rolabosta_22.jpg": {
+  "autor": "Andrea Quadrio",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/8657908",
+  "tax": "Scarabaeus sacer"
+ },
+ "rolabosta_23.jpg": {
+  "autor": "Lisa Hester",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/329566458",
+  "tax": "Kheper lamarcki"
+ },
+ "rolabosta_24.jpg": {
+  "autor": "martin ingemansson",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/264152911",
+  "tax": "Kheper nigroaeneus"
+ },
+ "rolabosta_25.jpg": {
+  "autor": "Robert Taylor",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/103480516",
+  "tax": "Kheper prodigiosus"
+ },
+ "rolabosta_26.jpg": {
+  "autor": "Светлана Царахова",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/294592169",
+  "tax": "Scarabaeus typhon"
+ },
+ "rolabosta_27.jpg": {
+  "autor": "Tom Heijnen",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/39181216",
+  "tax": "Kheper lamarcki"
+ },
+ "rolabosta_28.jpg": {
+  "autor": "Pirataber",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/73304216",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_29.jpg": {
+  "autor": "Samuel GUIRAUDOU",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/315481803",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_30.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/377984778",
+  "tax": "Scarabaeus laticollis"
+ },
+ "rolabosta_31.jpg": {
+  "autor": "Skjold Søndergaard",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/258853891",
+  "tax": "Scarabaeus galenus"
+ },
+ "formigaleao_12.jpg": {
+  "autor": "Bartosz Czołczyński",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/356207398",
+  "tax": "Myrmeleon formicarius"
+ },
+ "formigaleao_13.jpg": {
+  "autor": "Joey Santore",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/321300179",
+  "tax": "Brachynemurus nebulosus"
+ },
+ "formigaleao_14.jpg": {
+  "autor": "Daughter Dad",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/276888423",
+  "tax": "Neleon immaculatus"
+ },
+ "formigaleao_15.jpg": {
+  "autor": "Victor Hooper",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/281040965",
+  "tax": "Neleon exitialis"
+ },
+ "formigaleao_16.jpg": {
+  "autor": "Lorenzo Locati",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/137224033",
+  "tax": "Distoleon tetragrammicus"
+ },
+ "formigaleao_17.jpg": {
+  "autor": "DDutrey",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/372934024",
+  "tax": "Palpares libelluloides"
+ },
+ "formigaleao_18.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/319589232",
+  "tax": "Euroleon nostras"
+ },
+ "formigaleao_19.jpg": {
+  "autor": "りなべる",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/145412690",
+  "tax": "Distoleon contubernallis"
+ },
+ "formigaleao_20.jpg": {
+  "autor": "Julien Tchilinguirian",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/196670738",
+  "tax": "Puer maculatus"
+ },
+ "formigaleao_21.jpg": {
+  "autor": "Sinéad Tuttle-Lerner",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/308697820",
+  "tax": "Neleon immaculatus"
+ },
+ "formigaleao_22.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/294419923",
+  "tax": "Myrmecaelurus trigrammus"
+ },
+ "formigaleao_23.jpg": {
+  "autor": "Bastien Le Mort",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/242062674",
+  "tax": "Distoleon tetragrammicus"
+ },
+ "formigaleao_24.jpg": {
+  "autor": "Weiting Liu",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/324503093",
+  "tax": "Suphalomitus okinavensis"
+ },
+ "formigaleao_25.jpg": {
+  "autor": "Ashwin Srinivasan",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/245973571",
+  "tax": "Vella americana"
+ },
+ "formigaleao_26.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/319589242",
+  "tax": "Euroleon nostras"
+ },
+ "formigaleao_27.jpg": {
+  "autor": "Kai Löhr",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/405897274",
+  "tax": "Myrmeleon formicarius"
+ },
+ "formigaleao_28.jpg": {
+  "autor": "K.P.",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/369632455",
+  "tax": "Myrmeleon formicarius"
+ },
+ "formigaleao_29.jpg": {
+  "autor": "Louis Aureglia",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/263661179",
+  "tax": "Puer maculatus"
+ },
+ "formigaleao_30.jpg": {
+  "autor": "Thierry Arbault",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/193607007",
+  "tax": "Distoleon tetragrammicus"
+ },
+ "formigaleao_31.jpg": {
+  "autor": "Yves Bas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/320917803",
+  "tax": "Neleon inconspicuus"
+ },
+ "cortadeira_12.jpg": {
+  "autor": "Christen Warkoczewski",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/214390151",
+  "tax": "Atta texana"
+ },
+ "cortadeira_13.jpg": {
+  "autor": "E Santos Ortega",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/283801648",
+  "tax": "Atta saltensis"
+ },
+ "cortadeira_14.jpg": {
+  "autor": "Ann McKenzie",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/336724873",
+  "tax": "Atta laevigata"
+ },
+ "cortadeira_15.jpg": {
+  "autor": "Andrés Ramírez-Barrera",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/22918473",
+  "tax": "Atta laevigata"
+ },
+ "cortadeira_16.jpg": {
+  "autor": "João Vitor Oliveira de Souza",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/320552392",
+  "tax": "Atta laevigata"
+ },
+ "cortadeira_17.jpg": {
+  "autor": "portioid",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/269630941",
+  "tax": "Atta cephalotes"
+ },
+ "cortadeira_18.jpg": {
+  "autor": "Sara Navarro",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/240066978",
+  "tax": "Atta cephalotes"
+ },
+ "cortadeira_19.jpg": {
+  "autor": "Morgan Hay",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/23137076",
+  "tax": "Atta texana"
+ },
+ "cortadeira_20.jpg": {
+  "autor": "Andrew Meeds",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/191589035",
+  "tax": "Atta mexicana"
+ },
+ "cortadeira_21.jpg": {
+  "autor": "portioid",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/255236641",
+  "tax": "Atta cephalotes"
+ },
+ "cortadeira_22.jpg": {
+  "autor": "Jonghyun Park",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/264601734",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_23.jpg": {
+  "autor": "Jan Ebr &amp; Ivana Ebrová",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/165950713",
+  "tax": "Atta laevigata"
+ },
+ "cortadeira_24.jpg": {
+  "autor": "Ricard Busquets Reverte",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/152933164",
+  "tax": "Atta cephalotes"
+ },
+ "cortadeira_25.jpg": {
+  "autor": "Jake Nitta",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/149289078",
+  "tax": "Atta mexicana"
+ },
+ "cortadeira_26.jpg": {
+  "autor": "Brighton Lee",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/398864297",
+  "tax": "Trachymyrmex septentrionalis"
+ },
+ "cortadeira_27.jpg": {
+  "autor": "Kai Squires",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/238913515",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_28.jpg": {
+  "autor": "Jonghyun Park",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/190946000",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_29.jpg": {
+  "autor": "Jonghyun Park",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/264578199",
+  "tax": "Carebara affinis"
+ },
+ "cortadeira_30.jpg": {
+  "autor": "Luan Mazzeo",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/293942009",
+  "tax": "Atta laevigata"
+ },
+ "cortadeira_31.jpg": {
+  "autor": "Nonbinary-Naturalist",
+  "lic": "cc0",
+  "obs": "https://www.inaturalist.org/observations/293510263",
+  "tax": "Trachymyrmex septentrionalis"
+ },
+ "cigarras_12.jpg": {
+  "autor": "Nicholas Stockmaster",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/215413524",
+  "tax": "Magicicada tredecassini"
+ },
+ "cigarras_13.jpg": {
+  "autor": "Rebecca Gimenez Husted",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/217199414",
+  "tax": "Magicicada tredecim"
+ },
+ "cigarras_14.jpg": {
+  "autor": "Cricket Raspet",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/70560178",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_15.jpg": {
+  "autor": "Zachary Dankowicz",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/79429188",
+  "tax": "Magicicada"
+ },
+ "cigarras_16.jpg": {
+  "autor": "Jeff Clark",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/80925972",
+  "tax": "Magicicada cassinii"
+ },
+ "cigarras_17.jpg": {
+  "autor": "Martin Kalfatovic",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/81775759",
+  "tax": "Magicicada cassinii"
+ },
+ "cigarras_18.jpg": {
+  "autor": "Sam Kieschnick",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/224994252",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_19.jpg": {
+  "autor": "Martin Kalfatovic",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/81774953",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_20.jpg": {
+  "autor": "Zachary Dankowicz",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/79427428",
+  "tax": "Magicicada"
+ },
+ "cigarras_21.jpg": {
+  "autor": "Peter Chen 2.0",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/224483012",
+  "tax": "Magicicada cassinii"
+ },
+ "cigarras_22.jpg": {
+  "autor": "Peter Chen 2.0",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/49510812",
+  "tax": "Magicicada cassinii"
+ },
+ "cigarras_23.jpg": {
+  "autor": "Nicholas Stockmaster",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/218539627",
+  "tax": "Magicicada"
+ },
+ "cigarras_24.jpg": {
+  "autor": "Chris McAnlis",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/3437076",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_25.jpg": {
+  "autor": "Nathan T. Jones",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/80429846",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_26.jpg": {
+  "autor": "Jake McCumber",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/81381378",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_27.jpg": {
+  "autor": "Ray Fisher",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/215767737",
+  "tax": "Magicicada tredecim"
+ },
+ "cigarras_28.jpg": {
+  "autor": "Carrie Seltzer",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/77472270",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_29.jpg": {
+  "autor": "Zachary Dankowicz",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/79580567",
+  "tax": "Magicicada septendecim"
+ },
+ "cigarras_30.jpg": {
+  "autor": "Rosario Douglas",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/214264934",
+  "tax": "Magicicada"
+ },
+ "cigarras_31.jpg": {
+  "autor": "Whitney Mattila",
+  "lic": "cc-by",
+  "obs": "https://www.inaturalist.org/observations/87883444",
+  "tax": "Magicicada septendecim"
+ }
+}
