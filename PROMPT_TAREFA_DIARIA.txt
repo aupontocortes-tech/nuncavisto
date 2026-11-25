@@ -43,6 +43,7 @@ MONTAGEM:
 - QC no MP4 FINAL: 1080x1920, sem tela preta, áudio ok, olhe ~8 frames (assunto visível, títulos sem cobrir o principal, acentos certos, sem marca d'água). Se algo estiver errado, corrija e renderize de novo.
 
 PUBLICAÇÃO:
+- Copie também out/capa.jpg para publicar/AAAA-MM-DD_HHMM.jpg (capa limpa: imagem + título, sem legenda; o GitHub envia junto).
 - Crie publicar/AAAA-MM-DD_HHMM.mp4 e publicar/AAAA-MM-DD_HHMM.json com {"title": "... #Shorts", "description": "...", "tags": [...], "privacy": "public"}.
   Título: curiosidade verdadeira, sem mentir (até ~60 caracteres + #Shorts).
   Descrição: 1-2 frases sobre o fato + pergunta para comentar + "Segue o @nuncavistobr pra ver o que você nunca viu." + "Fontes:" (links dos fatos) + "Imagens:" (links dos vídeos/imagens e créditos/licença exigidos) + 3 a 5 hashtags (#curiosidades #ciencia + do tema).

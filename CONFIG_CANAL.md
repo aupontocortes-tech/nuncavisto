@@ -15,6 +15,7 @@ Não coloque senhas aqui.
 ## GANCHO AUTOMÁTICO (25/11/2026) — reforço pedido pelo Thiago (retenção 48,7%, meta 60%)
 O render.py e o qc.py já forçam: voz começa no 1º instante, título e legenda já aparecem no 1º quadro, 1ª cena abre com zoom em movimento e corta em 1,4s.
 Você tem que: 1ª frase com NO MÁXIMO 12 palavras trazendo o fato mais forte; "title" da 1ª cena com NO MÁXIMO 3 palavras por linha (número ou choque, ex.: "VIVE|400 ANOS"); 1ª cena = a imagem mais impressionante do vídeo. O qc.py reprova se não cumprir.
+CAPA DO SHORT (25/11/2026): o render.py gera out/capa.jpg (1ª cena + título, sem legenda). Publique junto como publicar/NOME.jpg. O título da 1ª cena É a capa: número, extremo ou contradição ("ATÉ 900 KG", "QUASE 12 ANOS"), nunca vago ("O BEIJO DA FAMÍLIA"). A 1ª cena tem que mostrar o bicho/objeto GRANDE, bem iluminado e nítido (nada escuro ou pequeno).
 
 ## ESTRATÉGIA PARA RETENÇÃO (22/11/2026) — VALE MAIS que regras antigas em conflito
 Problema: 51,5% deslizam nos primeiros segundos; 94,7% das views vêm do feed de Shorts; público: homens de 25 a 34 anos, 92% novos. Meta: retenção de 48,5% para 60%+.

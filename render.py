@@ -113,7 +113,7 @@ def main():
         cur.append(w); txt = ' '.join(x['w'] for x in cur)
         if len(cur) >= 3 or len(txt) >= 15 or w['w'][-1] in '.,:?!': chunks.append(cur); cur = []
     if cur: chunks.append(cur)
-    CH = [(0.0 if i == 0 else c[0]['s'], min(chunks[i + 1][0]['s'] if i + 1 < len(chunks) else DUR, c[-1]['e'] + 0.45), c) for i, c in enumerate(chunks)]
+    CH = [(c[0]['s'], min(chunks[i + 1][0]['s'] if i + 1 < len(chunks) else DUR, c[-1]['e'] + 0.45), c) for i, c in enumerate(chunks)]
     grad = np.zeros((H, W, 4), np.uint8)
     for y in range(H):
         a = 0
@@ -180,6 +180,8 @@ def main():
             if bw > 10:
                 d.rounded_rectangle((W / 2 - bw / 2, 380 - 85 * k, W / 2 + bw / 2, 380 + 85 * k), int(42 * k), fill=(230, 30, 40))
                 if k > 0.9: d.text((W / 2, 384), 'SEGUE O CANAL', font=M9[58], fill=WHITE, anchor='mm')
+        if i == int(0.6 * FPS):   # capa do Short: imagem + título, sem legenda embaixo (publicar junto como .jpg)
+            im.convert('RGB').save(os.path.join(out, 'capa.jpg'), quality=90)
         for (cs, ce, c) in CH:
             if cs <= t < ce:
                 words = [x['w'].strip('.,:?!').upper() for x in c]; f = ANTON[110]; sp = 26
