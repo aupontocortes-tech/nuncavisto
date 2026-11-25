@@ -127,6 +127,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - cão-da-pradaria: colônia do Texas ~1900 com ~400 milhões e ~400 km (Bailey; TPWD/TTU), "beijo" de reconhecimento da família, 18 espécies numa colônia em 1 ano (câmeras NPS Wind Cave), envenenado como praga mas espécie-chave (vídeos NPS Bryce Canyon/Valles Caldera/Wind Cave; formato 3 COISAS SOBRE UM BICHO, 34,4 s, 2026-11-24)
 - Grand Canyon cheio de nuvens (inversão térmica total: ar frio preso no fundo sob ar quente, neblina até a borda; 11/12/2014; NASA EO: guardas esperaram anos; vídeos NPS B-roll; formato FILMADO DE VERDADE, 33,7 s, 2026-11-25)
 - grito do uapiti/elk (bugle) com dois sons ao mesmo tempo: grave ~145 Hz das cordas vocais + apito ~1.426 Hz (quase 10x), laringe grande não explica, apito aerodinâmico (Reby 2016 J Exp Biol); macho ~320 kg; som real tocado (vídeos NPS Neal Herbert/Rocky Mountain); formato MISTÉRIO, 37,4 s, 2026-11-25)
+- bebê dentro da barriga: boceja (4D, Reissland 2012 PLOS ONE, 24 semanas), mexe os dedos (21 semanas), engole o líquido amniótico, que depois de ~20 semanas é principalmente xixi do próprio bebê (March of Dimes, StatPearls; ≥ meio litro/dia perto do parto); ultrassons Wolfgang Moroder CC BY-SA 3.0; formato 3 COISAS, 30,7 s, 2026-11-25)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
