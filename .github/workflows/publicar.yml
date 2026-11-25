@@ -29,13 +29,18 @@ jobs:
             video="${meta%.json}.mp4"
             if [ -f "$video" ]; then
               echo "Enviando $video"
+              capa="${meta%.json}.jpg"
+              if [ ! -f "$capa" ]; then   # capa limpa: 1º quadro do Short (imagem + título, ainda sem legenda)
+                command -v ffmpeg >/dev/null || sudo apt-get install -y -qq ffmpeg >/dev/null 2>&1 || true
+                ffmpeg -loglevel error -y -i "$video" -frames:v 1 -q:v 3 "$capa" || true
+              fi
               python3 yt.py up "$video" "$meta"
               bash tiktok_release.sh "$video" "$meta" "nv_$(basename "${meta%.json}")"   # cópia pro TikTok (app Meus Canais)
               # registra no histórico completo (o agente consulta para não repetir assunto)
               python3 -c "import json,sys,datetime;t=json.load(open(sys.argv[1]))['title'].replace(' #Shorts','');L=open('HISTORICO.md').read().split('\n');L.insert(4,'- '+datetime.date.today().isoformat()+' | '+t);open('HISTORICO.md','w').write('\n'.join(L))" "$meta" || true
               git add HISTORICO.md
               git rm -q "$video" "$meta"
-              [ -f "${meta%.json}.jpg" ] && git rm -q "${meta%.json}.jpg"
+              git rm -q --ignore-unmatch "${meta%.json}.jpg"; rm -f "${meta%.json}.jpg"
               enviados=$((enviados+1))
             fi
           done
