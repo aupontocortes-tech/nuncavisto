@@ -121,6 +121,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - caçadores de furacões da NOAA: avião que entra de propósito no furacão (turbulência no Milton 2024, NOAA43; 1º voo 1943 Duckworth sem autorização e medalha; NOAA42 no Hugo 1989, motor em chamas, caiu a ~240 m, 6,8 t de combustível descartadas, todos vivos; formato JÁ PENSOU EM SER...?/FILMADO, 38,6 s, 2026-11-24)
 - cão-da-pradaria: colônia do Texas ~1900 com ~400 milhões e ~400 km (Bailey; TPWD/TTU), "beijo" de reconhecimento da família, 18 espécies numa colônia em 1 ano (câmeras NPS Wind Cave), envenenado como praga mas espécie-chave (vídeos NPS Bryce Canyon/Valles Caldera/Wind Cave; formato 3 COISAS SOBRE UM BICHO, 34,4 s, 2026-11-24)
 - Grand Canyon cheio de nuvens (inversão térmica total: ar frio preso no fundo sob ar quente, neblina até a borda; 11/12/2014; NASA EO: guardas esperaram anos; vídeos NPS B-roll; formato FILMADO DE VERDADE, 33,7 s, 2026-11-25)
+- grito do uapiti/elk (bugle) com dois sons ao mesmo tempo: grave ~145 Hz das cordas vocais + apito ~1.426 Hz (quase 10x), laringe grande não explica, apito aerodinâmico (Reby 2016 J Exp Biol); macho ~320 kg; som real tocado (vídeos NPS Neal Herbert/Rocky Mountain); formato MISTÉRIO, 37,4 s, 2026-11-25)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
