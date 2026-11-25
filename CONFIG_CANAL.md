@@ -120,6 +120,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - formiga-mandíbula-de-armadilha que pula de boca pra fugir da formiga-leão (Odontomachus; mandíbula até 64 m/s ~230 km/h em 0,13 ms, Patek 2006 PNAS; 15% das fugas por salto, Larabee & Suarez 2015 PLOS ONE CC BY; vídeo Katja Schulz CC BY 2.0; formato ESCALA ABSURDA, 27,7 s, 2026-11-24)
 - caçadores de furacões da NOAA: avião que entra de propósito no furacão (turbulência no Milton 2024, NOAA43; 1º voo 1943 Duckworth sem autorização e medalha; NOAA42 no Hugo 1989, motor em chamas, caiu a ~240 m, 6,8 t de combustível descartadas, todos vivos; formato JÁ PENSOU EM SER...?/FILMADO, 38,6 s, 2026-11-24)
 - cão-da-pradaria: colônia do Texas ~1900 com ~400 milhões e ~400 km (Bailey; TPWD/TTU), "beijo" de reconhecimento da família, 18 espécies numa colônia em 1 ano (câmeras NPS Wind Cave), envenenado como praga mas espécie-chave (vídeos NPS Bryce Canyon/Valles Caldera/Wind Cave; formato 3 COISAS SOBRE UM BICHO, 34,4 s, 2026-11-24)
+- Grand Canyon cheio de nuvens (inversão térmica total: ar frio preso no fundo sob ar quente, neblina até a borda; 11/12/2014; NASA EO: guardas esperaram anos; vídeos NPS B-roll; formato FILMADO DE VERDADE, 33,7 s, 2026-11-25)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
