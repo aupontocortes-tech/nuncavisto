@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-25 | Parece um apito, mas é o grito de um cervo de 320 kg
 - 2026-11-25 | Isso não é o mar: é o Grand Canyon cheio de nuvens
 - 2026-11-24 | Uma cidade com 400 milhões de moradores... e nenhum é gente
 - 2026-11-24 | Esse avião entra de propósito dentro de furacões
