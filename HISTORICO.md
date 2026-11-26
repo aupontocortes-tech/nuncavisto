@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-26 | 2 toneladas de galhos: o maior ninho de águia já medido
 - 2026-11-25 | Antes de nascer, você bebia o próprio xixi
 - 2026-11-25 | Esse besouro navega pela Via Láctea (e mais 4 insetos que desafiam a ciência) (vídeo longo https://youtu.be/ewhj9VP5qZE)
 - 2026-11-25 | Parece um apito, mas é o grito de um cervo de 320 kg
