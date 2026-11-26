@@ -161,3 +161,4 @@ Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBI
 - 2026-11-20 | Clone de furão-de-patas-negras de células de 1988 teve filhotes (Elizabeth Ann, Antonia; USFWS)
 - 2026-11-20 | Hospital de tuberculose dentro da Mammoth Cave em 1842 (casas de pedra, Pedra do Cadáver; NPS)
 - 2026-11-24 | O sapo engoliu. O besouro saiu vivo (besouro-bombardeiro, Sugiura & Sato 2018, CC BY; FILMADO DE VERDADE, 34,7 s)
+- 2026-11-26 | O maior vulcão ativo da Terra afundou o chão em 8 km (Mauna Loa, USGS/NPS; FILMADO DE VERDADE, 33,6 s)

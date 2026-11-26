@@ -129,6 +129,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - grito do uapiti/elk (bugle) com dois sons ao mesmo tempo: grave ~145 Hz das cordas vocais + apito ~1.426 Hz (quase 10x), laringe grande não explica, apito aerodinâmico (Reby 2016 J Exp Biol); macho ~320 kg; som real tocado (vídeos NPS Neal Herbert/Rocky Mountain); formato MISTÉRIO, 37,4 s, 2026-11-25)
 - bebê dentro da barriga: boceja (4D, Reissland 2012 PLOS ONE, 24 semanas), mexe os dedos (21 semanas), engole o líquido amniótico, que depois de ~20 semanas é principalmente xixi do próprio bebê (March of Dimes, StatPearls; ≥ meio litro/dia perto do parto); ultrassons Wolfgang Moroder CC BY-SA 3.0; formato 3 COISAS, 30,7 s, 2026-11-25)
 - maior ninho de águia já medido (águia-careca, St. Petersburg/Flórida 1963, 2,9 m x 6 m, >2 toneladas, Guinness/FWC; ninho de ~30 anos no KSC, filhote 10-12 semanas; vídeo 4K NASA KSC B-roll 2026; formato ESCALA ABSURDA, 35,3 s, 2026-11-26)
+- Mauna Loa, maior vulcão ativo da Terra: o peso afundou o chão ~8 km, ~17 km da base ao topo, cobre metade da ilha; erupção de 2022 após 38 anos, lava a 2,8 km da Saddle Road (USGS; vídeos USGS HVO/NPS PD; formato FILMADO DE VERDADE, 33,6 s, 2026-11-26)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
