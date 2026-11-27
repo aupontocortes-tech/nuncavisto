@@ -131,6 +131,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - maior ninho de águia já medido (águia-careca, St. Petersburg/Flórida 1963, 2,9 m x 6 m, >2 toneladas, Guinness/FWC; ninho de ~30 anos no KSC, filhote 10-12 semanas; vídeo 4K NASA KSC B-roll 2026; formato ESCALA ABSURDA, 35,3 s, 2026-11-26)
 - queda de rocha de Happy Isles, Yosemite 1996: 90 mil toneladas, queda livre ~550 m, impacto ~400 km/h, vento de até 450 km/h derrubou ~1.000 árvores, 1 morte, sismógrafos a 200 km (NPS, USGS, Berkeley; vídeos NPS; formato MISTÉRIO, 44,2 s, 2026-11-27)
 - onça-parda/suçuarana que não ruge e solta piados (maior felino que ronrona; >80 kg; todos os biomas do Brasil; maior área das Américas; som real de suçuarana jovem NPS Yellowstone + câmeras NPS; formato FILMADO DE VERDADE/som real, 37,1 s, 2026-11-27)
+- terremoto do Alasca de 1964: chão subiu até ~11 m em 4,5 min (M9,2, maior dos EUA, 2º do mundo; afundou até 2,4 m; medido pela linha das cracas, >800 medições, Plafker USGS PP 543-I; vídeo USGS PD; formato ESCALA ABSURDA, 39,1 s, 2026-11-27)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
