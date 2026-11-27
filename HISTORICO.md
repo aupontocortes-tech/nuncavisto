@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-27 | Não ruge, pia: o som real da onça-parda
 - 2026-11-27 | Uma pedra caiu e o vento dela derrubou mil árvores
 - 2026-11-27 | O Cachalote Já Sabe O Que Tem Dentro de Você (vídeo longo https://youtu.be/PLRFOTYiY5g)
 - 2026-11-26 | 2 toneladas de galhos: o maior ninho de águia já medido
