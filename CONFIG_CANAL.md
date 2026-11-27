@@ -130,6 +130,7 @@ O feed público mostra só os últimos 15 vídeos, então vídeos mais antigos s
 - bebê dentro da barriga: boceja (4D, Reissland 2012 PLOS ONE, 24 semanas), mexe os dedos (21 semanas), engole o líquido amniótico, que depois de ~20 semanas é principalmente xixi do próprio bebê (March of Dimes, StatPearls; ≥ meio litro/dia perto do parto); ultrassons Wolfgang Moroder CC BY-SA 3.0; formato 3 COISAS, 30,7 s, 2026-11-25)
 - maior ninho de águia já medido (águia-careca, St. Petersburg/Flórida 1963, 2,9 m x 6 m, >2 toneladas, Guinness/FWC; ninho de ~30 anos no KSC, filhote 10-12 semanas; vídeo 4K NASA KSC B-roll 2026; formato ESCALA ABSURDA, 35,3 s, 2026-11-26)
 - queda de rocha de Happy Isles, Yosemite 1996: 90 mil toneladas, queda livre ~550 m, impacto ~400 km/h, vento de até 450 km/h derrubou ~1.000 árvores, 1 morte, sismógrafos a 200 km (NPS, USGS, Berkeley; vídeos NPS; formato MISTÉRIO, 44,2 s, 2026-11-27)
+- onça-parda/suçuarana que não ruge e solta piados (maior felino que ronrona; >80 kg; todos os biomas do Brasil; maior área das Américas; som real de suçuarana jovem NPS Yellowstone + câmeras NPS; formato FILMADO DE VERDADE/som real, 37,1 s, 2026-11-27)
 
 ## VÍDEOS LONGOS (divulgar nos Shorts do mesmo tema)
 Se o assunto do Short for do mesmo tema de um vídeo longo abaixo, a PRIMEIRA linha da descrição tem que ser:
