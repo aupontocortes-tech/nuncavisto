@@ -2,6 +2,7 @@
 
 Todos os vídeos já publicados (atualizado sozinho a cada publicação). PROIBIDO repetir qualquer ASSUNTO desta lista, mesmo com outro título ou ângulo.
 
+- 2026-11-28 | O urubu faz cocô nas pernas, e tem um motivo
 - 2026-11-27 | O chão do Alasca subiu 11 metros em 4 minutos e meio
 - 2026-11-27 | Não ruge, pia: o som real da onça-parda
 - 2026-11-27 | Uma pedra caiu e o vento dela derrubou mil árvores
